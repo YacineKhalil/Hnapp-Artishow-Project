@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="styles1.css">
+</head>
+<body>
+    <script>
+        var xhr = new XMLHttpRequest();
+        xhr.open('POST', 'https://httpbin.org/post');
+        xhr.onreadystatechange = function() {
+        if (xhr.readyState === 4) {
+            alert(xhr.responseText);
+        }
+        };
+        // envoi d'une chaine de caractères:
+        xhr.send('ceci est un exemple de données envoyées');
+
+    </script>
+    
+</body> 
+</html>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ex="http://example.org/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://example.org/XVIe">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:si%C3%A8cle rdf:resource="http://example.org/James_Cook"/>
+    <ex:si%C3%A8cle rdf:resource="http://example.org/l%C2%92Australie"/>
+    <ex:si%C3%A8cle rdf:resource="http://example.org/nouvelle-Z%C3%A9lande"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/James_Cook">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:si%C3%A8cle rdf:resource="http://example.org/XVIe"/>
+    <ex:si%C3%A8cle rdf:resource="http://example.org/l%C2%92Australie"/>
+    <ex:si%C3%A8cle rdf:resource="http://example.org/nouvelle-Z%C3%A9lande"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/l%C2%92Australie">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:si%C3%A8cle rdf:resource="http://example.org/XVIe"/>
+    <ex:si%C3%A8cle rdf:resource="http://example.org/James_Cook"/>
+    <ex:si%C3%A8cle rdf:resource="http://example.org/nouvelle-Z%C3%A9lande"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/nouvelle-Z%C3%A9lande">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:si%C3%A8cle rdf:resource="http://example.org/XVIe"/>
+    <ex:si%C3%A8cle rdf:resource="http://example.org/James_Cook"/>
+    <ex:si%C3%A8cle rdf:resource="http://example.org/l%C2%92Australie"/>
+  </rdf:Description>
+</rdf:RDF>

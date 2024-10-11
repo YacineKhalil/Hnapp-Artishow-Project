@@ -1,0 +1,3 @@
+https://neo4j.com/ : site utile qui permet d'importer des bases de données (format csv par exemple) et de les transformer en graphe de connaissance, il faut créer une instance (gratuitement on a 1Gb de stockage et 200000 noeuds) et importer ses données. Il y'a un dataset de test et des tutoriels assez détaillés pour prendre en main l'interface et s'initier au language Cypher.
+
+https://github.com/gsi-upm/sematch : outil pour la sémantique

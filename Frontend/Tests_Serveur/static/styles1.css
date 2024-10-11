@@ -1,0 +1,134 @@
+/* Polices */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    box-sizing: border-box;
+    display: block;
+}
+
+body {
+    line-height: 1;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    color: var(--font-color, #2E294E);
+}
+
+ol, ul {
+    list-style: none;
+}
+
+blockquote, q {
+    quotes: none;
+}
+
+blockquote:before, blockquote:after, q:before, q:after {
+    content: '';
+    content: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+:root {
+    --primary-color: #605c5d;
+    --accent-color: #541388;
+    --font-dark-color: #2E294E;
+    --font-light-color: #F1E9DA;
+    --font-color: var(--font-dark-color);
+    --background-primary-color: #F1E9DA;
+    --background-secondary-color: #dbd4c7;
+}
+
+#main {
+    display: flex;
+    min-height: calc(100vh - 176px);
+    background: var(--background-primary-color);
+}
+
+#main > article {
+    flex: 1;
+}
+
+#main > nav, #main > aside {
+    flex: 0 0 20vw;
+    background: var(--background-secondary-color);
+}
+
+#main > nav {
+    order: -1;
+}
+
+header, footer, article, nav, aside {
+    padding: 1em;
+}
+
+header, footer {
+    background: var(--primary-color);
+    color: var(--font-light-color);
+    height: 88px;
+}
+
+p, code {
+    line-height: 22px;
+    margin: 18px 0;
+}
+
+a {
+    color: var(--font-color);
+}
+
+h1 {
+    font-size: 18pt;
+}
+
+h2 {
+    font-size: 16pt;
+}
+
+h3 {
+    font-size: 14pt;
+}
+
+h4 {
+    font-size: 12pt;
+}
+
+code {
+    font-family: monospace;
+    color: var(--font-color);
+    padding: 2px 4px;
+    border-radius: 2px;
+}
+
+header {
+    font-size: 22pt;
+}
+
+footer {
+    position: sticky;
+    text-align: center;
+    padding-top: 24px;
+}
+
+ol {
+    list-style-type: decimal;
+}
+
+ul {
+    list-style-type: circle;
+}
+
+ol li, ul li {
+    margin: 6px 0 6px 24px;
+}
+
+section {
+    margin-bottom: 36px;
+}

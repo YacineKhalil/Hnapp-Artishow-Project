@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es2018",
+    "module": "commonjs",
+    "outDir": "out",
+    "sourceMap": true
+  },
+  "include": ["src/app.ts"],
+  "lib": ["es2018.promise", "dom", "es2015"]
+}

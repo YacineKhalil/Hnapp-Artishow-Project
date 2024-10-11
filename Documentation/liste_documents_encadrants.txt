@@ -1,0 +1,18 @@
+- une présentation du package NLTK de python : https://www.nltk.org/
+
+- un article sur un système de question-réponse avec du traitement automatique des langues et SPARQL: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9627128
+
+- un tutoriel NLTK pour les systèmes de question-réponse : https://innovationyourself.com/question-answering-in-nltk/
+
+- tuto rapide sur Sparql 
+https://www.youtube.com/watch?v=FvGndkpa4K0
+et il y a un point d'accès sparql sur lequel vous pourrez vous exercer ici en interrogeant Wikidata
+https://query.wikidata.org/
+et quelques exemples dans cette page
+https://scrutart.grains-de-culture.fr/2024/01/30/ou-trouver-vincent-van-gogh-dans-wikidata-suivez-le-guide/
+
+- MOOC sur le Web sémantique, pour commencer, vous pouvez vous intéresser aux semaines 1, 2 et 3
+https://www.fun-mooc.fr/fr/cours/web-semantique-et-web-de-donnees/
+
+- pour des requêtes SPARQL avec Python, un outil qui peut simplifier les choses
+https://sparqlwrapper.readthedocs.io/en/latest/

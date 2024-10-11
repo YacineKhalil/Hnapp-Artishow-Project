@@ -1,0 +1,16 @@
+@prefix ex: <http://example.org/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ex:programme_CM2 rdf:type ex:Programme ;
+    ex:level "CM2" ;
+    ex:title "Programme pédagogique pour CM2" .
+
+ex:TourEiffel rdf:type ex:Monument ;
+    ex:name "Tour Eiffel" ;
+    ex:location "Paris, France" .
+
+ex:TourEiffelInProgramme rdf:type ex:Occurrence ;
+    ex:mentionedIn ex:programme_CM2 ;
+    ex:topic ex:TourEiffel ;
+    ex:context "Leçon d'histoire : La Tour Eiffel est un symbole emblématique de Paris. Elle a été construite pour l'Exposition universelle de 1889." .

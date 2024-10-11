@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:ex="http://example.org/">
+
+  <rdf:Description rdf:about="http://example.org/Napoleon">
+    <ex:name>Napoleon</ex:name>
+    <ex:event rdf:resource="http://example.org/Battle_of_Waterloo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://example.org/Battle_of_Waterloo">
+    <ex:name>Battle of Waterloo</ex:name>
+    <ex:date>1815</ex:date>
+  </rdf:Description>
+
+</rdf:RDF>

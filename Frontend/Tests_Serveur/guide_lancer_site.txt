@@ -1,0 +1,13 @@
+Pour accéder au site sur un appareil quelconque:
+
+- Lancer le serveur Flask sur un ordinateur
+- Avoir l'adresse Ip locale de cet ordinateur (terminal --> ifconfig)
+
+Sur l'appareil depuis lequel on veut accéder au site:
+
+- taper l'url https://adresse ip locale de l'ordi sur lequel le serveur est lancé:5050.
+
+5050 étant le port défini dans le code app.py:
+
+app.run(debug=True, host='0.0.0.0', port=5000)
+

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HNApp - Visualisation des Graphes</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles3.css">
+    <link rel="icon" type="image/x-icon" href="../images/favicon.png">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">Hnapp</div>
+            <ul>
+                <li><a href="../index.html">Accueil</a></li>
+                <li><a href="../index.html#about">À propos</a></li>
+                <li><a href="../index.html#use-case">Cas d'usage</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="graph-selector">
+            <h1>Visualisation des Graphes</h1>
+            <div class="controls">
+                <select id="classSelect">
+                    <option value="">Choisissez une classe</option>
+                    <option value="cm1">CM1</option>
+                    <option value="cm2">CM2</option>
+                </select>
+                <button id="fullscreenBtn" class="cta-button">Ouvrir en plein écran</button>
+            </div>
+            <div id="graphContainer"></div>
+        </section>
+    </main>
+    <footer>
+        <p><strong>Projet Artishow 2023-2024</strong> | <strong>Télécom Paris</strong></p>
+    </footer>
+    <script src="graphes.js"></script>
+</body>
+</html>

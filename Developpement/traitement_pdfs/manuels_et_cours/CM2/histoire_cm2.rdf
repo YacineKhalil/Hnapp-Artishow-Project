@@ -1,0 +1,1069 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ex="http://example.org/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://example.org/guerre_d'Algérie">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:mis rdf:resource="http://example.org/Évian"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/La_France">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:impliquée rdf:resource="http://example.org/XXe"/>
+    <ex:un rdf:resource="http://example.org/Communauté_européenne_du_charbon_et_de_l'acier"/>
+    <ex:un rdf:resource="http://example.org/CECA"/>
+    <ex:un rdf:resource="http://example.org/Première_Guerre_mondiale"/>
+    <ex:un rdf:resource="http://example.org/l'OTAN"/>
+    <ex:un rdf:resource="http://example.org/Europe"/>
+    <ex:un rdf:resource="http://example.org/Union_européenne"/>
+    <ex:un rdf:resource="http://example.org/Agence_spatiale_européenne"/>
+    <ex:un rdf:resource="http://example.org/Minitel"/>
+    <ex:un rdf:resource="http://example.org/UNESCO"/>
+    <ex:joué rdf:resource="http://example.org/Union_européenne"/>
+    <ex:joué rdf:resource="http://example.org/traité_de_Versailles"/>
+    <ex:progressivement rdf:resource="http://example.org/Troisième_République"/>
+    <ex:fait rdf:resource="http://example.org/Alliés"/>
+    <ex:fait rdf:resource="http://example.org/Deuxième_Guerre_mondiale"/>
+    <ex:fait rdf:resource="http://example.org/Axe"/>
+    <ex:fait rdf:resource="http://example.org/Première_Guerre_mondiale"/>
+    <ex:acteur rdf:resource="http://example.org/Robert_Schuman"/>
+    <ex:acteur rdf:resource="http://example.org/Jean_Monnet"/>
+    <ex:occupée rdf:resource="http://example.org/Allemagne_nazie"/>
+    <ex:occupée rdf:resource="http://example.org/Seconde_Guerre_mondiale"/>
+    <ex:renforcé rdf:resource="http://example.org/Allemagne"/>
+    <ex:accueilli rdf:resource="http://example.org/Parlement_européen"/>
+    <ex:accueilli rdf:resource="http://example.org/Strasbourg"/>
+    <ex:accueilli rdf:resource="http://example.org/COP21"/>
+    <ex:accueilli rdf:resource="http://example.org/Jeux_Olympiques_d'hiver"/>
+    <ex:accueilli rdf:resource="http://example.org/Grenoble"/>
+    <ex:accueilli rdf:resource="http://example.org/Coupe_du_monde_de_football"/>
+    <ex:accueilli rdf:resource="http://example.org/Albertville"/>
+    <ex:accueilli rdf:resource="http://example.org/Paris"/>
+    <ex:accueilli rdf:resource="http://example.org/Exposition_universelle_de_1889"/>
+    <ex:accueilli rdf:resource="http://example.org/Tour_Eiffel"/>
+    <ex:accueilli rdf:resource="http://example.org/Coupe_du_monde_de_rugby"/>
+    <ex:participé rdf:resource="http://example.org/Union_européenne"/>
+    <ex:participé rdf:resource="http://example.org/l'OTAN"/>
+    <ex:participé rdf:resource="http://example.org/Airbus"/>
+    <ex:participé rdf:resource="http://example.org/CERN"/>
+    <ex:participé rdf:resource="http://example.org/Ariane_Espace"/>
+    <ex:participé rdf:resource="http://example.org/Euratom"/>
+    <ex:participé rdf:resource="http://example.org/Organisation_européenne_de_coopération_économique_en_1948"/>
+    <ex:participé rdf:resource="http://example.org/G6"/>
+    <ex:participé rdf:resource="http://example.org/G7"/>
+    <ex:participé rdf:resource="http://example.org/guerre_du_Golfe"/>
+    <ex:participé rdf:resource="http://example.org/Libye"/>
+    <ex:participé rdf:resource="http://example.org/CECA"/>
+    <ex:adopté rdf:resource="http://example.org/Second_Empire"/>
+    <ex:adopté rdf:resource="http://example.org/Veil"/>
+    <ex:adopté rdf:resource="http://example.org/RMI"/>
+    <ex:adopté rdf:resource="http://example.org/CMU"/>
+    <ex:adopté rdf:resource="http://example.org/Defferre"/>
+    <ex:aboli rdf:resource="http://example.org/François_Mitterrand"/>
+    <ex:membre_fondateur rdf:resource="http://example.org/Nations_Unies"/>
+    <ex:membre_fondateur rdf:resource="http://example.org/Seconde_Guerre_mondiale"/>
+    <ex:devenue rdf:resource="http://example.org/Conseil_de_sécurité_de_l'ONU"/>
+    <ex:lancé rdf:resource="http://example.org/Calcul"/>
+    <ex:lancé rdf:resource="http://example.org/opération_Serval"/>
+    <ex:lancé rdf:resource="http://example.org/Mali"/>
+    <ex:signé rdf:resource="http://example.org/Schengen"/>
+    <ex:signé rdf:resource="http://example.org/traité_de_l'Atlantique_Nord"/>
+    <ex:retirée rdf:resource="http://example.org/l'OTAN"/>
+    <ex:mis rdf:resource="http://example.org/Pacifique"/>
+    <ex:réintégré rdf:resource="http://example.org/OTAN"/>
+    <ex:présidé rdf:resource="http://example.org/Conseil_de_l'Union_européenne"/>
+    <ex:commémoré rdf:resource="http://example.org/Évian"/>
+    <ex:déclaré rdf:resource="http://example.org/Allemagne"/>
+    <ex:quitté rdf:resource="http://example.org/l'OTAN"/>
+    <ex:gagné rdf:resource="http://example.org/Coupe_du_monde_de_football"/>
+    <ex:intervenue rdf:resource="http://example.org/Mali"/>
+    <ex:vaincue rdf:resource="http://example.org/Allemagne"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/G7">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:participé rdf:resource="http://example.org/La_France"/>
+    <ex:participé rdf:resource="http://example.org/G6"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Europe">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:un rdf:resource="http://example.org/La_France"/>
+    <ex:un rdf:resource="http://example.org/l'OTAN"/>
+    <ex:provoqué rdf:resource="http://example.org/Première_Guerre_mondiale"/>
+    <ex:élargi rdf:resource="http://example.org/Union_européenne"/>
+    <ex:transformé rdf:resource="http://example.org/la_France"/>
+    <ex:construit rdf:resource="http://example.org/barrage_de_Tignes"/>
+    <ex:terminée rdf:resource="http://example.org/Seconde_Guerre_mondiale"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/La_guerre_du_Golfe">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Cartel_des_gauches">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Alliés">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:fait rdf:resource="http://example.org/La_France"/>
+    <ex:fait rdf:resource="http://example.org/Deuxième_Guerre_mondiale"/>
+    <ex:fait rdf:resource="http://example.org/Axe"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/barrage_de_Tignes">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:construit rdf:resource="http://example.org/Europe"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/France_Libre">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:dirigé rdf:resource="http://example.org/général_de_Gaulle"/>
+    <ex:dirigé rdf:resource="http://example.org/Londres"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/opération_Serval">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:lancé rdf:resource="http://example.org/La_France"/>
+    <ex:lancé rdf:resource="http://example.org/Mali"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/l'Europe">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:aidé rdf:resource="http://example.org/plan_Marshall"/>
+    <ex:aidé rdf:resource="http://example.org/Seconde_Guerre_mondiale"/>
+    <ex:élargie rdf:resource="http://example.org/Union_européenne"/>
+    <ex:élargie rdf:resource="http://example.org/l'Est"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/République_française">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:adopté rdf:resource="http://example.org/Liberté"/>
+    <ex:adopté rdf:resource="http://example.org/Égalité"/>
+    <ex:adopté rdf:resource="http://example.org/Fraternité"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Airbus">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:participé rdf:resource="http://example.org/La_France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/la_France">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:vu rdf:resource="http://example.org/Deuxième_Guerre_mondiale"/>
+    <ex:vu rdf:resource="http://example.org/Résistance"/>
+    <ex:vu rdf:resource="http://example.org/général_de_Gaulle"/>
+    <ex:transformé rdf:resource="http://example.org/Europe"/>
+    <ex:gouverné rdf:resource="http://example.org/Front_populaire"/>
+    <ex:construite rdf:resource="http://example.org/ligne_Maginot"/>
+    <ex:construite rdf:resource="http://example.org/Allemagne"/>
+    <ex:achevé rdf:resource="http://example.org/canal_Rhin-Main-Danube"/>
+    <ex:achevé rdf:resource="http://example.org/mer_Noire"/>
+    <ex:relié rdf:resource="http://example.org/tunnel_sous_la_Manche"/>
+    <ex:relié rdf:resource="http://example.org/Royaume-Uni"/>
+    <ex:créé rdf:resource="http://example.org/Conseil_de_l'Europe"/>
+    <ex:jeté rdf:resource="http://example.org/Schuman"/>
+    <ex:jeté rdf:resource="http://example.org/Union_européenne"/>
+    <ex:échoué rdf:resource="http://example.org/Communauté_européenne_de_défense"/>
+    <ex:impacté rdf:resource="http://example.org/Covid-19"/>
+    <ex:divisé rdf:resource="http://example.org/L'affaire_Dreyfus"/>
+    <ex:secoué rdf:resource="http://example.org/Mai_68"/>
+    <ex:marqué rdf:resource="http://example.org/débarquement_de_Normandie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Gilets">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:débuté rdf:resource="http://example.org/France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Le_Bon_Marché">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Deuxième_Guerre_mondiale">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:vu rdf:resource="http://example.org/la_France"/>
+    <ex:vu rdf:resource="http://example.org/Résistance"/>
+    <ex:vu rdf:resource="http://example.org/général_de_Gaulle"/>
+    <ex:fait rdf:resource="http://example.org/La_France"/>
+    <ex:fait rdf:resource="http://example.org/Alliés"/>
+    <ex:fait rdf:resource="http://example.org/Axe"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/XIXe">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:instauré rdf:resource="http://example.org/France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Union_européenne">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:établie rdf:resource="http://example.org/UE"/>
+    <ex:joué rdf:resource="http://example.org/La_France"/>
+    <ex:élargi rdf:resource="http://example.org/Europe"/>
+    <ex:participé rdf:resource="http://example.org/La_France"/>
+    <ex:formée rdf:resource="http://example.org/UE"/>
+    <ex:un rdf:resource="http://example.org/La_France"/>
+    <ex:créé rdf:resource="http://example.org/traité_de_Maastricht"/>
+    <ex:réformé rdf:resource="http://example.org/traité_de_Lisbonne"/>
+    <ex:jeté rdf:resource="http://example.org/Schuman"/>
+    <ex:jeté rdf:resource="http://example.org/la_France"/>
+    <ex:élargie rdf:resource="http://example.org/l'Est"/>
+    <ex:élargie rdf:resource="http://example.org/l'Europe"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/l'affaire_Dreyfus">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/bataille_de_Waterloo">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:marqué rdf:resource="http://example.org/Premier_Empire"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/accords_de_Munich">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Paris">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:inauguré rdf:resource="http://example.org/Centre"/>
+    <ex:inauguré rdf:resource="http://example.org/Georges_Pompidou"/>
+    <ex:accueilli rdf:resource="http://example.org/La_France"/>
+    <ex:relié rdf:resource="http://example.org/TGV"/>
+    <ex:relié rdf:resource="http://example.org/Lyon"/>
+    <ex:tenue rdf:resource="http://example.org/COP21"/>
+    <ex:sauvé rdf:resource="http://example.org/bataille_de_la_Marne"/>
+    <ex:ouvert rdf:resource="http://example.org/le_Bon_Marché"/>
+    <ex:arrêté rdf:resource="http://example.org/bataille_de_la_Marne"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Restauration">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:mis rdf:resource="http://example.org/révolution_de_Juillet_1830"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/François_Mitterrand">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:aboli rdf:resource="http://example.org/La_France"/>
+    <ex:République rdf:resource="http://example.org/Ve_République"/>
+    <ex:président_socialiste rdf:resource="http://example.org/Ve_République"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/bataille_de_la_Marne">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:sauvé rdf:resource="http://example.org/Paris"/>
+    <ex:arrêté rdf:resource="http://example.org/Paris"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/l'OTAN">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:un rdf:resource="http://example.org/La_France"/>
+    <ex:un rdf:resource="http://example.org/Europe"/>
+    <ex:participé rdf:resource="http://example.org/La_France"/>
+    <ex:retirée rdf:resource="http://example.org/La_France"/>
+    <ex:quitté rdf:resource="http://example.org/La_France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Liberté">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:adopté rdf:resource="http://example.org/République_française"/>
+    <ex:adopté rdf:resource="http://example.org/Égalité"/>
+    <ex:adopté rdf:resource="http://example.org/Fraternité"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/traité_de_Rome">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:jeté rdf:resource="http://example.org/Communauté_économique_européenne"/>
+    <ex:jeté rdf:resource="http://example.org/CEE"/>
+    <ex:signé rdf:resource="http://example.org/Communauté_économique_européenne"/>
+    <ex:signé rdf:resource="http://example.org/CEE"/>
+    <ex:créé rdf:resource="http://example.org/Communauté_économique_européenne"/>
+    <ex:créé rdf:resource="http://example.org/CEE"/>
+    <ex:fondé rdf:resource="http://example.org/Communauté_économique_européenne"/>
+    <ex:fondé rdf:resource="http://example.org/CEE"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ligne_Maginot">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:construite rdf:resource="http://example.org/la_France"/>
+    <ex:construite rdf:resource="http://example.org/Allemagne"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/UNESCO">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:un rdf:resource="http://example.org/La_France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Agence_spatiale_européenne">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:un rdf:resource="http://example.org/La_France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Communauté_économique_européenne">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:jeté rdf:resource="http://example.org/traité_de_Rome"/>
+    <ex:jeté rdf:resource="http://example.org/CEE"/>
+    <ex:signé rdf:resource="http://example.org/traité_de_Rome"/>
+    <ex:signé rdf:resource="http://example.org/CEE"/>
+    <ex:créé rdf:resource="http://example.org/traité_de_Rome"/>
+    <ex:créé rdf:resource="http://example.org/CEE"/>
+    <ex:fondé rdf:resource="http://example.org/traité_de_Rome"/>
+    <ex:fondé rdf:resource="http://example.org/CEE"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Lyon">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:relié rdf:resource="http://example.org/TGV"/>
+    <ex:relié rdf:resource="http://example.org/Paris"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/État">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:séparé rdf:resource="http://example.org/Église"/>
+    <ex:séparé rdf:resource="http://example.org/France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Le_Code_civil">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:promulgué rdf:resource="http://example.org/Code_Napoléon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Euratom">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:participé rdf:resource="http://example.org/La_France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/rafle_du_Vel_d'Hiv">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/CECA">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:un rdf:resource="http://example.org/La_France"/>
+    <ex:un rdf:resource="http://example.org/Communauté_européenne_du_charbon_et_de_l'acier"/>
+    <ex:créée rdf:resource="http://example.org/Communauté_européenne_du_charbon_et_de_l'acier"/>
+    <ex:participé rdf:resource="http://example.org/La_France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/France">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:joué rdf:resource="http://example.org/Jules_Ferry"/>
+    <ex:instauré rdf:resource="http://example.org/XIXe"/>
+    <ex:séparé rdf:resource="http://example.org/Église"/>
+    <ex:séparé rdf:resource="http://example.org/État"/>
+    <ex:établi rdf:resource="http://example.org/séparation_des_Églises_et_de_l'État_de_1905"/>
+    <ex:entraîné rdf:resource="http://example.org/Première_Guerre_mondiale"/>
+    <ex:légalisé rdf:resource="http://example.org/Neuwirth"/>
+    <ex:légalisé rdf:resource="http://example.org/Veil"/>
+    <ex:approuvé rdf:resource="http://example.org/traité_de_Maastricht"/>
+    <ex:débuté rdf:resource="http://example.org/Gilets"/>
+    <ex:ému rdf:resource="http://example.org/incendie_de_Notre-Dame_de_Paris"/>
+    <ex:révolutionné rdf:resource="http://example.org/TGV"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/campagne_d'Égypte">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:mené rdf:resource="http://example.org/Napoléon_Bonaparte"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/première_bataille_de_la_Marne">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/guerre_d'Indochine">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Première_Guerre_mondiale">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:un rdf:resource="http://example.org/La_France"/>
+    <ex:provoqué rdf:resource="http://example.org/Europe"/>
+    <ex:entraîné rdf:resource="http://example.org/France"/>
+    <ex:fait rdf:resource="http://example.org/La_France"/>
+    <ex:mis rdf:resource="http://example.org/traité_de_Versailles"/>
+    <ex:une rdf:resource="http://example.org/bataille_de_Verdun"/>
+    <ex:créée rdf:resource="http://example.org/Société_des_Nations"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Londres">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:lancé rdf:resource="http://example.org/général_de_Gaulle"/>
+    <ex:dirigé rdf:resource="http://example.org/général_de_Gaulle"/>
+    <ex:dirigé rdf:resource="http://example.org/France_Libre"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Defferre">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:adopté rdf:resource="http://example.org/La_France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/L'affaire_Dreyfus">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:divisé rdf:resource="http://example.org/la_France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/débarquement_de_Provence">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Royaume-Uni">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:relié rdf:resource="http://example.org/tunnel_sous_la_Manche"/>
+    <ex:relié rdf:resource="http://example.org/la_France"/>
+    <ex:signée rdf:resource="http://example.org/L'Entente_cordiale"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Covid-19">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:impacté rdf:resource="http://example.org/la_France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/régime_de_Vichy">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:dirigé rdf:resource="http://example.org/maréchal_Pétain"/>
+    <ex:dirigé rdf:resource="http://example.org/Occupation"/>
+    <ex:collaboré rdf:resource="http://example.org/Allemagne_nazie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Guerre_froide">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:divisée rdf:resource="http://example.org/L'Europe"/>
+    <ex:marqué rdf:resource="http://example.org/mur_de_Berlin"/>
+    <ex:tombé rdf:resource="http://example.org/mur_de_Berlin"/>
+    <ex:effondrée rdf:resource="http://example.org/L'Union_soviétique"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Occupation">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:dirigé rdf:resource="http://example.org/maréchal_Pétain"/>
+    <ex:dirigé rdf:resource="http://example.org/régime_de_Vichy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Égalité">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:adopté rdf:resource="http://example.org/République_française"/>
+    <ex:adopté rdf:resource="http://example.org/Liberté"/>
+    <ex:adopté rdf:resource="http://example.org/Fraternité"/>
+    <ex:apparue rdf:resource="http://example.org/Fraternité"/>
+    <ex:apparue rdf:resource="http://example.org/Révolution_française"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/G6">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:participé rdf:resource="http://example.org/La_France"/>
+    <ex:participé rdf:resource="http://example.org/G7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Jeux_Olympiques_d'hiver">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:accueilli rdf:resource="http://example.org/La_France"/>
+    <ex:accueilli rdf:resource="http://example.org/Grenoble"/>
+    <ex:accueilli rdf:resource="http://example.org/Albertville"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Georges_Pompidou">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:inauguré rdf:resource="http://example.org/Centre"/>
+    <ex:inauguré rdf:resource="http://example.org/Paris"/>
+    <ex:succédé rdf:resource="http://example.org/général_de_Gaulle"/>
+    <ex:succédé rdf:resource="http://example.org/de_Gaulle"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Exposition_universelle_de_1889">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:construite rdf:resource="http://example.org/tour_Eiffel"/>
+    <ex:accueilli rdf:resource="http://example.org/La_France"/>
+    <ex:accueilli rdf:resource="http://example.org/Tour_Eiffel"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/UE">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:établie rdf:resource="http://example.org/Union_européenne"/>
+    <ex:formée rdf:resource="http://example.org/Union_européenne"/>
+    <ex:considérée rdf:resource="http://example.org/Robert_Schuman"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Communauté_européenne_du_charbon_et_de_l'acier">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:un rdf:resource="http://example.org/La_France"/>
+    <ex:un rdf:resource="http://example.org/CECA"/>
+    <ex:créée rdf:resource="http://example.org/CECA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Valéry_Giscard_d'Estaing">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/XXe">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:impliquée rdf:resource="http://example.org/La_France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Axe">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:fait rdf:resource="http://example.org/La_France"/>
+    <ex:fait rdf:resource="http://example.org/Alliés"/>
+    <ex:fait rdf:resource="http://example.org/Deuxième_Guerre_mondiale"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Moyen-Orient">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:marqué rdf:resource="http://example.org/crise_de_Suez"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Pacifique">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:mis rdf:resource="http://example.org/La_France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Georges_Clemenceau">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:devenu rdf:resource="http://example.org/Conseil"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/maréchal_Pétain">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:dirigé rdf:resource="http://example.org/régime_de_Vichy"/>
+    <ex:dirigé rdf:resource="http://example.org/Occupation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Mali">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:lancé rdf:resource="http://example.org/La_France"/>
+    <ex:lancé rdf:resource="http://example.org/opération_Serval"/>
+    <ex:intervenue rdf:resource="http://example.org/La_France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Premier_Empire">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:marqué rdf:resource="http://example.org/bataille_de_Waterloo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Fraternité">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:adopté rdf:resource="http://example.org/République_française"/>
+    <ex:adopté rdf:resource="http://example.org/Liberté"/>
+    <ex:adopté rdf:resource="http://example.org/Égalité"/>
+    <ex:apparue rdf:resource="http://example.org/Égalité"/>
+    <ex:apparue rdf:resource="http://example.org/Révolution_française"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/incendie_de_Notre-Dame_de_Paris">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:ému rdf:resource="http://example.org/France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/CMU">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:adopté rdf:resource="http://example.org/La_France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/campagne_de_Russie">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:soldée rdf:resource="http://example.org/Napoléon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Sedan">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:établie rdf:resource="http://example.org/Troisième_République"/>
+    <ex:établie rdf:resource="http://example.org/Napoléon_III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Front_populaire">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:gouverné rdf:resource="http://example.org/la_France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Résistance">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:vu rdf:resource="http://example.org/Deuxième_Guerre_mondiale"/>
+    <ex:vu rdf:resource="http://example.org/la_France"/>
+    <ex:unifié rdf:resource="http://example.org/Jean_Moulin"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Robert_Schuman">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:acteur rdf:resource="http://example.org/La_France"/>
+    <ex:considérée rdf:resource="http://example.org/UE"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Second_Empire">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:adopté rdf:resource="http://example.org/La_France"/>
+    <ex:duré rdf:resource="http://example.org/Napoléon_III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Ferry">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Flamanville">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:commencé rdf:resource="http://example.org/premier_EPR_français"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Veil">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:adopté rdf:resource="http://example.org/La_France"/>
+    <ex:légalisé rdf:resource="http://example.org/France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Strasbourg">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:accueilli rdf:resource="http://example.org/La_France"/>
+    <ex:accueilli rdf:resource="http://example.org/Parlement_européen"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/bataille_d'Austerlitz">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/canal_Rhin-Main-Danube">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:achevé rdf:resource="http://example.org/la_France"/>
+    <ex:achevé rdf:resource="http://example.org/mer_Noire"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/métro_de_Paris">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/traité_de_l'Atlantique_Nord">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:signé rdf:resource="http://example.org/La_France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/CEE">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:jeté rdf:resource="http://example.org/traité_de_Rome"/>
+    <ex:jeté rdf:resource="http://example.org/Communauté_économique_européenne"/>
+    <ex:signé rdf:resource="http://example.org/traité_de_Rome"/>
+    <ex:signé rdf:resource="http://example.org/Communauté_économique_européenne"/>
+    <ex:créé rdf:resource="http://example.org/traité_de_Rome"/>
+    <ex:créé rdf:resource="http://example.org/Communauté_économique_européenne"/>
+    <ex:fondé rdf:resource="http://example.org/traité_de_Rome"/>
+    <ex:fondé rdf:resource="http://example.org/Communauté_économique_européenne"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Société_des_Nations">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:créée rdf:resource="http://example.org/Première_Guerre_mondiale"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Nations_Unies">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:membre_fondateur rdf:resource="http://example.org/La_France"/>
+    <ex:membre_fondateur rdf:resource="http://example.org/Seconde_Guerre_mondiale"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Instruction_publique">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:ministre rdf:resource="http://example.org/Jules_Ferry"/>
+    <ex:ministre rdf:resource="http://example.org/ministre_de_l'"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Allemagne_nazie">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:occupée rdf:resource="http://example.org/La_France"/>
+    <ex:occupée rdf:resource="http://example.org/Seconde_Guerre_mondiale"/>
+    <ex:collaboré rdf:resource="http://example.org/régime_de_Vichy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Seconde_Guerre_mondiale">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:occupée rdf:resource="http://example.org/La_France"/>
+    <ex:occupée rdf:resource="http://example.org/Allemagne_nazie"/>
+    <ex:membre_fondateur rdf:resource="http://example.org/La_France"/>
+    <ex:membre_fondateur rdf:resource="http://example.org/Nations_Unies"/>
+    <ex:divisée rdf:resource="http://example.org/L'Europe"/>
+    <ex:aidé rdf:resource="http://example.org/plan_Marshall"/>
+    <ex:aidé rdf:resource="http://example.org/l'Europe"/>
+    <ex:terminée rdf:resource="http://example.org/Europe"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/premier_EPR_français">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:commencé rdf:resource="http://example.org/Flamanville"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/COP21">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:accueilli rdf:resource="http://example.org/La_France"/>
+    <ex:tenue rdf:resource="http://example.org/Paris"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/tunnel_sous_la_Manche">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:relié rdf:resource="http://example.org/la_France"/>
+    <ex:relié rdf:resource="http://example.org/Royaume-Uni"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/accords_de_Matignon">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Ve_République">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:République rdf:resource="http://example.org/François_Mitterrand"/>
+    <ex:président_socialiste rdf:resource="http://example.org/François_Mitterrand"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/mur_de_Berlin">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:marqué rdf:resource="http://example.org/Guerre_froide"/>
+    <ex:tombé rdf:resource="http://example.org/Guerre_froide"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Déclaration_universelle_des_droits_de_l'homme">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:adoptée rdf:resource="http://example.org/ONU"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Napoléon">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:soldée rdf:resource="http://example.org/campagne_de_Russie"/>
+    <ex:eu rdf:resource="http://example.org/Cent-Jours"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Albertville">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:accueilli rdf:resource="http://example.org/La_France"/>
+    <ex:accueilli rdf:resource="http://example.org/Jeux_Olympiques_d'hiver"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Allemagne">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:renforcé rdf:resource="http://example.org/La_France"/>
+    <ex:construite rdf:resource="http://example.org/ligne_Maginot"/>
+    <ex:construite rdf:resource="http://example.org/la_France"/>
+    <ex:déclaré rdf:resource="http://example.org/La_France"/>
+    <ex:vaincue rdf:resource="http://example.org/La_France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Ariane_Espace">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:participé rdf:resource="http://example.org/La_France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Napoléon_III">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:établie rdf:resource="http://example.org/Troisième_République"/>
+    <ex:établie rdf:resource="http://example.org/Sedan"/>
+    <ex:duré rdf:resource="http://example.org/Second_Empire"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/TGV">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:relié rdf:resource="http://example.org/Paris"/>
+    <ex:relié rdf:resource="http://example.org/Lyon"/>
+    <ex:révolutionné rdf:resource="http://example.org/France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/traité_de_Lisbonne">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:réformé rdf:resource="http://example.org/Union_européenne"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Constitution_européenne">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Grenoble">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:accueilli rdf:resource="http://example.org/La_France"/>
+    <ex:accueilli rdf:resource="http://example.org/Jeux_Olympiques_d'hiver"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Mai_68">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:mis rdf:resource="http://example.org/accords_de_Grenelle"/>
+    <ex:secoué rdf:resource="http://example.org/la_France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/général_de_Gaulle">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:vu rdf:resource="http://example.org/Deuxième_Guerre_mondiale"/>
+    <ex:vu rdf:resource="http://example.org/la_France"/>
+    <ex:lancé rdf:resource="http://example.org/Londres"/>
+    <ex:succédé rdf:resource="http://example.org/Georges_Pompidou"/>
+    <ex:dirigé rdf:resource="http://example.org/France_Libre"/>
+    <ex:dirigé rdf:resource="http://example.org/Londres"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/viaduc_de_Millau">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/accords_de_Grenelle">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:mis rdf:resource="http://example.org/Mai_68"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Église">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:séparé rdf:resource="http://example.org/État"/>
+    <ex:séparé rdf:resource="http://example.org/France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/plan_Marshall">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:aidé rdf:resource="http://example.org/l'Europe"/>
+    <ex:aidé rdf:resource="http://example.org/Seconde_Guerre_mondiale"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Louis_XVI">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/tour_Eiffel">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:construite rdf:resource="http://example.org/Exposition_universelle_de_1889"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Libye">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:participé rdf:resource="http://example.org/La_France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Normandie">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/révolution_de_Juillet_1830">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:mis rdf:resource="http://example.org/Restauration"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Deuxième_République">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/pyramide_du_Louvre">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:inaugurée rdf:resource="http://example.org/la_Révolution"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/CM2">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Jules_Ferry">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:joué rdf:resource="http://example.org/France"/>
+    <ex:ministre rdf:resource="http://example.org/Éducation"/>
+    <ex:ministre rdf:resource="http://example.org/ministre_de_l'"/>
+    <ex:ministre rdf:resource="http://example.org/Instruction_publique"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Office_franco-allemand_pour_la_jeunesse">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:créé rdf:resource="http://example.org/traité_de_l'Élysée"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Tour_Eiffel">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:accueilli rdf:resource="http://example.org/La_France"/>
+    <ex:accueilli rdf:resource="http://example.org/Exposition_universelle_de_1889"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Jean_Monnet">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:acteur rdf:resource="http://example.org/La_France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/l'Est">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:élargie rdf:resource="http://example.org/Union_européenne"/>
+    <ex:élargie rdf:resource="http://example.org/l'Europe"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ministre_de_l'">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:ministre rdf:resource="http://example.org/Jules_Ferry"/>
+    <ex:ministre rdf:resource="http://example.org/Instruction_publique"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Évian">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:mis rdf:resource="http://example.org/guerre_d'Algérie"/>
+    <ex:commémoré rdf:resource="http://example.org/La_France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Trente_Glorieuses">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Neuwirth">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:légalisé rdf:resource="http://example.org/France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Calcul">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:lancé rdf:resource="http://example.org/La_France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/OTAN">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:réintégré rdf:resource="http://example.org/La_France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Général_de_Gaulle">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/crise_de_Suez">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:marqué rdf:resource="http://example.org/Moyen-Orient"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Centre">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:inauguré rdf:resource="http://example.org/Georges_Pompidou"/>
+    <ex:inauguré rdf:resource="http://example.org/Paris"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/L'Entente_cordiale">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:signée rdf:resource="http://example.org/Royaume-Uni"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/L'Algérie">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Troisième_République">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:renforcé rdf:resource="http://example.org/séparation_de_l'Église_et_de_l'État"/>
+    <ex:progressivement rdf:resource="http://example.org/La_France"/>
+    <ex:établie rdf:resource="http://example.org/Napoléon_III"/>
+    <ex:établie rdf:resource="http://example.org/Sedan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/L'Europe">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:divisée rdf:resource="http://example.org/Seconde_Guerre_mondiale"/>
+    <ex:divisée rdf:resource="http://example.org/Guerre_froide"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Napoléon_Bonaparte">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:devenu rdf:resource="http://example.org/Français"/>
+    <ex:mené rdf:resource="http://example.org/campagne_d'Égypte"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/traité_de_Versailles">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:joué rdf:resource="http://example.org/La_France"/>
+    <ex:mis rdf:resource="http://example.org/Première_Guerre_mondiale"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Asie_du_Sud-Est">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Internet">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Coupe_du_monde_de_football">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:accueilli rdf:resource="http://example.org/La_France"/>
+    <ex:gagné rdf:resource="http://example.org/La_France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/RMI">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:adopté rdf:resource="http://example.org/La_France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Parlement_européen">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:accueilli rdf:resource="http://example.org/La_France"/>
+    <ex:accueilli rdf:resource="http://example.org/Strasbourg"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/le_Bon_Marché">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:ouvert rdf:resource="http://example.org/Paris"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/traité_de_Maastricht">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:créé rdf:resource="http://example.org/Union_européenne"/>
+    <ex:approuvé rdf:resource="http://example.org/France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Révolution_française">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:apparue rdf:resource="http://example.org/Égalité"/>
+    <ex:apparue rdf:resource="http://example.org/Fraternité"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Printemps">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/IIIe_République">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Schuman">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:jeté rdf:resource="http://example.org/la_France"/>
+    <ex:jeté rdf:resource="http://example.org/Union_européenne"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Jacques_Chirac">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Président_de_la_République">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/mer_Noire">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:achevé rdf:resource="http://example.org/canal_Rhin-Main-Danube"/>
+    <ex:achevé rdf:resource="http://example.org/la_France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Schengen">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:signé rdf:resource="http://example.org/La_France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Coupe_du_monde_de_rugby">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:accueilli rdf:resource="http://example.org/La_France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/La_Commune_de_Paris">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Minitel">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:un rdf:resource="http://example.org/La_France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/débarquement_de_Normandie">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:marqué rdf:resource="http://example.org/la_France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/loi_de_séparation_de_l'Église_et_de_l'État">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Louis-Napoléon_Bonaparte">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/RER_parisien">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/François_Hollande">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Éducation">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:ministre rdf:resource="http://example.org/Jules_Ferry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Constitution_de_la_Ve_République">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Conseil">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:devenu rdf:resource="http://example.org/Georges_Clemenceau"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/bataille_de_Verdun">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:une rdf:resource="http://example.org/Première_Guerre_mondiale"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Haby">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/loi_de_séparation_des_Églises_et_de_l'État">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Bosnie">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:mis rdf:resource="http://example.org/accords_de_Dayton"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/traité_de_l'Élysée">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:créé rdf:resource="http://example.org/Office_franco-allemand_pour_la_jeunesse"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Pacte_civil_de_solidarité">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/IVe_République">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/de_Gaulle">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:succédé rdf:resource="http://example.org/Georges_Pompidou"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Cent-Jours">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:eu rdf:resource="http://example.org/Napoléon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ONU">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:adoptée rdf:resource="http://example.org/Déclaration_universelle_des_droits_de_l'homme"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/séparation_des_Églises_et_de_l'État_de_1905">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:établi rdf:resource="http://example.org/France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/République">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Conseil_de_l'Europe">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:créé rdf:resource="http://example.org/la_France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/séparation_de_l'Église_et_de_l'État">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:renforcé rdf:resource="http://example.org/Troisième_République"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Emmanuel_Macron">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Convention_européenne_des_droits_de_l'homme">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/CERN">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:participé rdf:resource="http://example.org/La_France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/accords_de_Dayton">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:mis rdf:resource="http://example.org/Bosnie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Conseil_de_sécurité_de_l'ONU">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:devenue rdf:resource="http://example.org/La_France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/La_Marseillaise">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Code_Napoléon">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:promulgué rdf:resource="http://example.org/Le_Code_civil"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Communauté_européenne_de_défense">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:échoué rdf:resource="http://example.org/la_France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Français">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:devenu rdf:resource="http://example.org/Napoléon_Bonaparte"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Conseil_de_l'Union_européenne">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:présidé rdf:resource="http://example.org/La_France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Nicolas_Sarkozy">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Debré">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Kyoto">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Concorde">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/génocide_au_Rwanda">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/musée_d'Orsay">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Parti_communiste_français">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/la_Révolution">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:inaugurée rdf:resource="http://example.org/pyramide_du_Louvre"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Lune">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Louis-Philippe">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Jean_Moulin">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:unifié rdf:resource="http://example.org/Résistance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/La_Bastille">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/déclaration_des_Droits_de_l'Homme_et_du_Citoyen">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Louis_XVIII">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/L'Union_soviétique">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:effondrée rdf:resource="http://example.org/Guerre_froide"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/guerre_du_Golfe">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:participé rdf:resource="http://example.org/La_France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Déclaration_des_droits_de_l'homme">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Organisation_européenne_de_coopération_économique_en_1948">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:participé rdf:resource="http://example.org/La_France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Vanoise">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+  </rdf:Description>
+</rdf:RDF>

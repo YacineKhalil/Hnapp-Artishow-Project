@@ -1,0 +1,3341 @@
+Histoire
+au CE 2
+Michel Lextreyt
+inspecteur d’académie, inspecteur pédagogique régional
+honoraire en Histoire-Géographie
+et
+Jean-Marie Dubois
+professeur agrégé honoraire en Histoire-Géographie
+
+Pour la réalisation de cet ouvrage,
+les auteurs se sont appuyés sur les travaux d’un groupe de réflexion composé de :
+Roman BRANELLEC, professeur des écoles
+Dominique COMELLI, professeur agrégée à l’IUFM de Polynésie française
+Yamila COWAN, conseillère pédagogique
+Olivier ESNAULT, professeur certifié à l’École Normale
+Willy TEVAEARAI, professeur des écoles
+Lucienne TAURUA, inspectrice de l’Éducation nationale
+
+Ministère de l’Éducation
+© MEA - DGEE 2020
+Polynésie française
+
+Livret destiné au CE2,
+Michel LEXTREYT, inspecteur d’académie, IPR honoraire en Histoire/Géographie
+Jean-Marie DUBOIS, professeur agrégé honoraire en Histoire/Géographie
+Conception,
+Jean-Marie DUBOIS
+Groupe de réflexion
+Roman BRANELLEC, professeur des écoles
+Dominique COMELLI, professeur agrégée à l’IUFM de Polynésie française
+Yamila COWAN, conseillère pédagogique
+Olivier ESNAULT, professeur certifié à l’École Normale
+Willy TEVAEARAI, professeur des écoles
+Lucienne TAURUA, inspectrice de l’Éducation nationale
+Maquette et recherche iconographique,
+Vetea PUGIBET, enseignant-infographiste
+Responsable de la publication
+Mairenui LEONTIEFF, enseignante-responsable de la production imprimée
+Directeur de la publication
+Jean-Michel GARCIA, Directeur par intérim de la DGEE
+
+© MEA - DGEE 2020
+Réf. PI-20055
+ISBN.978-2-37317-082-5
+www.education.pf
+
+Le mot du Ministre
+
+« Relever le défi de l’isolement géographique » c’est accéder à l’école pour tous.
+« S’appuyer sur les réalités polynésiennes » c’est assurer l’école performante.
+« S’ouvrir au monde, notamment à la région du Pacifique » c’est garantir l’école ouverte.
+Ces principes et objectifs annoncés par la Charte de l’Éducation en Polynésie française, la culture
+humaniste et les compétences sociales et civiques exigées par le socle commun des connaissances
+et des compétences de base, témoignent de la place qui doit être accordée à l’espace et au temps
+dans les programmes, mais aussi dans les réalités scolaires pour « assurer l’efficacité des enseignements ».
+Connaître l’histoire de son pays, connaître la géographie de ses îles c’est connaître son patrimoine
+culturel. La lettre de rentrée 2011-2012 évoque une école citoyenne qui « doit permettre à l’enfant
+de reconnaître son enracinement dans sa propre culture pour mieux accueillir celle des autres ».
+Ainsi, la découverte et l’étude des paysages, des peuples et des cultures différents, proches ou éloignés dans le temps ou dans l'espace, conduisent au concept d'altérité, indispen- sable à chacun
+pour se connaître soi-même et pour construire son identité.
+Partir du présent pour comprendre le passé ou connaître le passé pour mieux appréhender le
+présent, qu’importe le point de départ choisi. Qu’elle soit lue ou entendue, racontée ou observée,
+l’histoire permet le dialogue entre les générations.
+Partir de son île pour aller à la rencontre d’autres espaces, découvrir son patrimoine par les légendes,
+les récits, les exploits rapportés depuis d’autres lieux et d’autres temps, ou percevoir les réalités
+géographiques de son fenua depuis le monde, ce qui importe c’est ce qu’on en retient.
+C’est dans le respect des programmes du cycle 3 que les auteurs de ces manuels se sont attachés à
+répondre à ces considérations.
+
+Ia nä tö te ra’i, e ia tä tö te fenua
+
+Tauhiti NENA
+Ministre de l’Éducation de Polynésie française
+
+Observation sur la graphie des mots polynésiens
+En ce qui concerne les mots tahitiens, la graphie préconisée respecte celle de l’Académie tahitienne. S’agissant des autres
+langues polynésiennes, il a été fait référence aux ouvrages les plus récents.
+Afin que les mots polynésiens ne soient pas assimilés aux mots français, la règle de l’élision ne s’applique pas.
+Exemple : on n’écrira pas l’ari’i mais le ari’i, ou encore pas l’’uru mais le ’uru…
+
+Avant-Propos
+
+Les années passent, les programmes évoluent. Ce manuel est conforme aux programmes nationnaux de
+2008, programmes adaptés à la Polynésie française.
+Il propose un merveilleux voyage dans le temps. Mais si l’on se doit de faire fonctionner l’immaginaire
+des enfants, il convient aussi dès le cycle 3 de leur donner des repères solides. Il s’agira entre autre de
+caractériser les grandes périodes d’histoire, repères indispensables de la chronologie et de se familiariser
+avec des personnages, des évènements et des lieux significatifs dans les domaines politique, artistique,
+technologique ou scientifique. Le maître est libre de compléter en fonction de ces choix pédagogiques ou de
+ceux du conseil de cycle.
+La périodisation est celle de l’histoire polynésienne où se succèdent, tout au long du cycle 3, le temps du
+peuplement, le temps des bouleversements lors des contacts, enfin le temps de l’entrée dans la modernité.
+L’histoire polynésienne s’ancre dans l’histoire des hommes du Pacifique, puis dans l’histoire devenue
+commune de la Polynésie et de la France. Cette histoire s’insère dans l’histoire du monde dont les grands
+évènements et leurs répercussions appartiennent au patrimoine de l’humanité.
+L’art, expression d’une époque, nouveauté des programmes, y tient une place importante. Le maître étudie les œuvres d’art en lien avec les points forts du programme.
+Le manuel se découpe en 36 chapitres, chaque chapitre sur deux pages forme une leçon. Le texte précis
+en bas de la page de droite permet d’aborder les deux ou trois thèmes de la leçon. Ceux-ci se trouvent le
+plus souvent possible sous forme de problématiques que le maître peut utiliser pour construire sa leçon.
+L’iconographie est particulièrement soignée. Photographies, gravures, fresques suggestives, représentations
+d’œuvres d’art, textes d’époque, cartes, frises chronologiques… invitent les élèves suscités par le
+questionnement du maître à une observation fine des documents pour dégager les grands traits et le
+vocabulaire des principaux thèmes abordés pour chaque période historique. Des questions d’observation
+ou de réflexion permettent une exploitation des documents. Elles ne sont pas systématiques, ce qui laisse
+au maître toute latitude de mener sa leçon.
+Ce manuel de CE2 tout comme ceux de CM1 et de CM2 qui suivront est le résultat d’un travail collectif.
+Professeurs d’école, conseillers pédagogiques, professeurs d’École normale et d’IUFM, inspecteurs de
+l’Éducation nationale ont tenu compte des apports scientifiques les plus récents tout en restant compréhensibles à des jeunes élèves.
+L’équipe des auteurs souhaite aux maîtres et aux élèves que ce manuel soit un merveilleux outil de lecture
+et de connaissance.
+
+Jean-Marie DUBOIS
+Professeur agrégé honoraire en Hitoire/Géographie
+
+Remerciements
+Les auteurs tiennent à remercier la direction du CRDP pour leur avoir permis de travailler dans des
+conditions optimales au sein de la cellule de production dirigée par Mairenui Leontieff. Outre la qualité
+de l’accueil, ils ont eu toutes facilités pour mener techniquement à bien l’entreprise très difficile qu’est la
+construction d’un manuel scolaire. Ils tiennent plus particulièrement à remercier et à féliciter les deux
+infographistes, Vetea Pugibet (ouvrage d’histoire) et Heinui Le Caill (ouvrage de géographie) pour leur très
+grand professionnalisme et leur disponibilité de tous les instants. Ce fut un immense plaisir de travailler
+avec eux et ces ouvrages leur doivent beaucoup.
+
+Sommaire
+DES CHASSEURS AUX AGRICULTEURS
+1. Au temps des chasseurs ................................................................................................................... p. 8
+2. Découvrons la grotte de Lascaux .................................................................................................. p. 10
+3. De la cueillette à l’agriculture ....................................................................................................... p. 12
+LE PEUPLEMENT DE L’ESPACE OCÉANIEN
+4. Les premiers voyages océaniens .................................................................................................... p. 14
+5. Aborigènes et Papous .................................................................................................................... p. 16
+6. Le peuple du Lapita ...................................................................................................................... p. 18
+LE PEUPLEMENT DE L’ESPACE POLYNÉSIEN
+7. Les migrations polynésiennes ....................................................................................................... p. 20
+8. L’art de la navigation .................................................................................................................... p. 22
+9. Des plantes et des animaux… ....................................................................................................... p. 24
+10. Les Polynésiens à Hawaii ............................................................................................................ p. 26
+11. Les Polynésiens à Rapa Nui ........................................................................................................ p. 28
+12. Les Polynésiens en Nouvelle-Zélande ......................................................................................... p. 30
+LA VIE DES POLYNÉSIENS AUX TEMPS ANCIENS
+13. Au fil des ans… .......................................................................................................................... p. 32
+14. Au fil des jours… ........................................................................................................................ p. 34
+15. La guerre .................................................................................................................................... p. 36
+16. Le marae, lieu de cérémonie ...................................................................................................... p. 38
+17. Le marae, centre du pouvoir ....................................................................................................... p. 40
+18. Takai’i, un chef guerrier de l’île de Hiva oa ................................................................................. p. 42
+VIVRE DANS LES VILLES SOUS LES ROMAINS
+19. Rome : le centre d’un immense Empire ...................................................................................... p. 44
+20. Vivre à Rome .............................................................................................................................. p. 46
+21. Dans tout l’Empire, les villes imitent Rome ................................................................................. p. 48
+LA VIE QUOTIDIENNE AU TEMPS DES CHÂTEAUX FORTS ET DES CATHÉDRALES
+22. Châteaux forts, seigneurs et paysans ........................................................................................... p. 50
+23. Les églises, témoins des croyances des hommes ......................................................................... p. 52
+24. Un nouvel espace, l’espace urbain ............................................................................................. p. 54
+25. L’imprimerie, le livre se répand ................................................................................................... p. 56
+26. La Renaissance de l’art ............................................................................................................... p. 58
+27. La Réforme ................................................................................................................................. p. 60
+28. Copernic et Galilée .................................................................................................................... p. 62
+29. Les Européens à la découverte du monde ................................................................................... p. 64
+30. Christophe Colomb et Magellan ................................................................................................. p. 66
+LES CIVILISATIONS PRÉCOLOMBIENNES
+31. Les Aztèques ............................................................................................................................... p. 68
+32. Les Incas ..................................................................................................................................... p. 70
+33. Les Conquistadores ..................................................................................................................... p. 72
+LOUIS XIV, UN ROI ABSOLU À VERSAILLES
+34. Un roi absolu à la tête d’une France puissante............................................................................. p. 74
+35. Découvrons Versailles ................................................................................................................. p. 76
+36. Un grand ministre, Vauban ......................................................................................................... p. 78
+
+7
+
+DES CHASSEURS
+AUX AGRICULTEURS
+À l’origine les hommes étaient chasseurs et nomades. Ils utilisaient des armes rudimentaires. Plus tard, ils sont devenus agriculteurs et éleveurs. C’est une histoire de plus de
+deux millions d’années.
+
+Au temps des chasseurs
+
+1 Comment vivaient les premiers hommes ?
+1. Quelle était la vie des chasseurs ?
+
+8
+
+1. Au temps des chasseurs
+2. Quels étaient les outils et les armes du chasseur ?
+pointe de flèche
+
+Sagaie
+
+Sais-tu...
+Des armes pour la chasse
+
+Propulseur
+Biface
+
+Harpon
+
+• À quoi servaient ces outils ou ces armes ?
+
+3. Le feu, quel progrès !
+De retour de la
+chasse, des hommes
+commencent à
+découper un
+cheval pour en
+prendre la viande.
+La peau tannée
+servira d’habit ou
+de couverture de
+tente.
+Près d’un feu,
+d’autres hommes
+fabriquent des
+pointes de sagaie en
+silex pour
+la chasse ou
+façonnent des
+harpons en bois
+de renne pour la
+pêche.
+
+Biface : pierre taillée sur deux côtés
+avec un bord tranchant.
+Harpon : instrument pour prendre le
+poisson.
+Propulseur : instrument sur lequel est
+installée une sagaie ou une flèche
+pour augmenter sa vitesse et sa précision.
+Sagaie : courte lance utilisée pour la
+chasse.
+Ces armes de chasse sont en silex, en
+os, en ivoire et en bois d’animaux.
+
+LECTURE
+« Le feu éclaire et prolonge le jour aux dépens de la nuit ; il a permis à l’homme de
+pénétrer dans les cavernes. Il réchauffe et
+allonge l’été aux dépens de l’hiver ; il a
+permis à l’homme d’envahir les zones
+tempérées froides de la planète. Il permet
+de cuire la nourriture… Il améliore la fabrication des outils en permettant de durcir au feu la pointe des épieux*.
+Mais c’est surtout autour du feu que va
+s’organiser et se développer la vie sociale ».
+
+Vocabulaire
+Nomade : homme qui n’a pas d’habitation fixe. Il se déplace pour chasser,
+pêcher et pratique la cueillette.
+
+H. de Lumley, 2004
+* bâton utilisé pour la chasse
+
+• Quelles sont les différentes utilisations du feu ?
+
+L
+
+es premiers hommes connus sont apparus il y a 2,5 millions d’années. Ils sont nomades,
+et vivent en tout petits groupes. Ils chassent le gibier ou cueillent des fruits.
+Ils utilisent des outils en pierre taillée qui leur permettent d’abattre des arbres, de tuer le
+gibier. Les aiguilles en os servent à coudre les peaux destinées à l’habillement.
+Le feu est utilisé depuis au moins 500 000 ans. Il a changé la vie des hommes. Progressivement, les hommes s’installent sur toute la surface de la terre.
+9
+
+Découvrons la grotte de Lascaux
+
+2 Le monde magique des chasseurs
+1. Chevaux chinois et vache rouge…
+
+Sur les parois de Lascaux, les animaux les plus représentés sont
+les chevaux, les taureaux, les bisons, les cerfs et les bouquetins.
+D’autres sont plus rares et plus dangereux comme l’ours, le rhinocéros et le lion. La grotte n’a jamais été un lieu d’habitation. Elle
+était occupée lors de la réalisation des peintures. On a retrouvé
+des lampes alimentées par la graisse animale, des restes de colorants noir et rouge pour les peintures.
+On pense que les grottes ornées devaient être des monuments à
+caractère religieux comme les églises d’aujourd’hui.
+Lascaux
+
+• Décris ce que tu vois.
+
+10
+
+2. Découvrons la grotte de Lascaux
+2. La découverte de la grotte
+LECTURE
+Le 8 septembre 1940, quatre adolescents
+se promènent près de Lascaux (Dordogne,
+France) quand ils découvrent une profonde
+cavité. Marcel Ravidat, un jeune mécanicien
+de 17 ans, se laissa glisser dans un puits
+obscur de plusieurs mètres de profondeur.
+Il atteint ainsi une vaste cavité naturelle. Faute
+de lampes, les garçons revinrent le lendemain. Ils commencèrent ainsi à explorer la
+grotte.
+Rapidement, ils comprirent qu’ils venaient de
+faire une extraordinaire découverte. Quelques
+jours plus tard, les adolescents en informèrent un instituteur, Léon Laval.
+C’est à partir de là que la grotte de Lascaux
+est entrée dans l’histoire.
+
+3. D’autres formes d’art
+préhistorique
+
+La dame de Brassempouy (Landes) ou
+« dame à la capuche », tête de statuette
+en ivoire de mammouth (près de 4 cm
+de haut), une des plus anciennes représentations de visage humain, datée de
+26 000 ans.
+
+L
+
+Sais-tu...
+35 000 avant J.-C. : premiers dessins
+d’animaux dans les grottes.
+25 000 avant J.-C. : premières
+sculptures en pierre, os, ivoire (statuettes féminines).
+17 000 avant J.-C. : peintures des
+grottes de Lascaux (Dordogne).
+
+Vocabulaire
+Art préhistorique : peintures et gravures faites sur les parois de grottes
+et sculptures en argile, pierre,
+ivoire ou os, réalisées au temps de
+la Préhistoire.
+Préhistoire : époque très lointaine
+durant laquelle l’homme ne
+connaissait pas l’écriture.
+
+Bisons modelés en argile dans la grotte du Tuc
+d’Audoubert (Ariège), datés de 14 000 ans.
+
+a grotte de Lascaux se situe dans le sud-ouest de la France. C’est une grotte profonde,
+difficile d’accès, où se succèdent plusieurs salles, recouvertes de peintures, parmi les plus
+belles de l’art préhistorique.
+Les hommes de la Préhistoire ne se contentent pas de chasse, de cueillette ou de pêche.
+Certains sont de véritables artistes qui dessinent, peignent, sculptent et gravent sur les parois
+rocheuses. Cette pratique est liée à des croyances magiques et religieuses.
+
+11
+
+De la cueillette à l’agriculture
+
+3 Pourquoi les hommes se regroupaient-ils en villages ?
+1. Quelle était la vie des agriculteurs ?
+
+• Décris les différentes activités des hommes.
+
+2. Quelles étaient les autres activités ?
+
+L’élevage
+L’homme garde
+et nourrit
+des animaux
+au lieu de
+les chasser.
+
+Le tissage
+L’homme
+fabrique du
+tissu.
+
+Village de pêcheurs
+L’homme s’installe près des lieux de pêche.
+
+La céramique
+L’homme
+fabrique des
+poteries en
+terre cuite.
+
+12
+
+3. De la cueillette à l’agriculture
+
+Sais-tu...
+Les menhirs
+Non, les menhirs n’ont pas été érigés
+par les Gaulois, mais par les
+hommes de la période la plus
+récente de la Préhistoire. Des
+alignements de menhirs se retrouvent dans toute l’Europe. On ne
+sait pas exactement à quoi ils servaient : cérémonies religieuses,
+observatoires astronomiques…
+
+Vocabulaire
+Dolmen : monument de blocs de
+pierre supportant une grande dalle
+en forme de table. Les dolmens plus
+importants étaient des tombes collectives.
+Menhir : pierre d’un seul bloc
+dressé verticalement, maintenu au
+sol par calage.
+Sédentaire : homme qui demeure
+au même endroit pour vivre de
+l’agriculture et de l’élevage.
+
+3. À quoi pouvaient servir ces monuments ?
+
+Menhirs
+Dolmen
+
+I
+
+l y a environ 12 000 ans, l’homme commence à produire sa nourriture : il cultive des
+céréales (blé au Moyen-Orient, riz en Asie, maïs en Amérique) et élève du bétail. En effet,
+la cueillette et la chasse ne suffisent plus à nourrir une population croissante.
+La poterie et le tissage apparaissent. Les hommes deviennent sédentaires. Ils échangent leurs
+produits. Dans les villages chacun a son travail : préparer les champs, garder le troupeau,
+moudre le grain…
+Dans les derniers millénaires de la Préhistoire, les hommes construisent des monuments en pierre :
+menhirs et dolmens.
+13
+
+LE PEUPLEMENT
+DE L’ESPACE OCÉANIEN
+Les Aborigènes et les Papous sont parmi les premiers peuples à avoir traversé les mers sur
+des embarcations primitives. Ils ont peuplé l’Australie et la Nouvelle-Guinée.
+Des peuples de langues austronésiennes les ont suivis. Le peuple du Lapita se distingue par
+sa poterie.
+
+Les premiers voyages océaniens
+
+4 D’où viennent les peuples du Pacifique ?
+
+1. Qu’est-ce qui a rendu possible les migrations vers l’Australie ?
+Il y a 50 000 ans,
+les terres étaient
+plus étendues.
+Sunda et Sahul
+sont séparées par
+des bras de mer
+plus faciles à
+franchir en
+prenant appui
+sur les îles
+Wallacea.
+Aborigènes
+et Papous
+s’installent
+dans la
+Sahul.
+
+Il y a 10 000 ans,
+la Nouvelle-Guinée,
+l’Australie et
+la Tasmanie
+sont séparées
+par la montée
+des mers.
+Papous et
+Aborigènes
+sont isolés.
+Ils gagnent
+l’intérieur de
+la Nouvelle-Guinée
+et de l’Australie.
+
+Terres recouvertes par la montée des eaux
+
+2. Sur quelles embarcations voyageaient
+les Aborigènes et les Papous ?
+
+C’est le genre de radeau
+que les Aborigènes
+et les Papous utilisaient
+lors de leurs migrations.
+
+14
+
+4. Les premiers voyages océaniens
+3. Qui étaient les premiers Austronésiens et d’où venaient-ils ?
+
+Migrations des
+Migrations des
+Austronésiens de 3 000
+ancêtres des
+Aborigènes et des Papous à 1 000 avant J.-C.
+de 50 000 à
+30 000 avant J.-C.
+
+Sais-tu...
+
+Vocabulaire
+
+Le niveau des mers
+La quantité d’eau sur la Terre est constante. On trouve l’eau
+dans les océans, les rivières ou les glaciers. Pendant les périodes les plus froides de la Terre, il y a davantage d’eau sous
+forme de glace et donc moins dans les océans. Le niveau des
+océans baisse. Il y a 50 000 ans, il était plus bas qu’aujourd’hui
+d’une centaine de mètres !
+Il y a 10 000 ans, le réchauffement du climat a provoqué une
+élévation progressive du niveau des mers.
+
+A
+
+Langues austronésiennes : langues parlées en Indonésie, aux Philippines,
+dans toutes les îles du Pacifique, à
+Taïwan et à Madagascar.
+Migrations : déplacements de population d’un pays vers un autre.
+
+u cours des dernières périodes froides de l’histoire de la Terre, le niveau des océans était
+une centaine de mètres plus bas que le niveau actuel. Il était alors plus facile de passer
+d’Asie du Sud-Est vers la Nouvelle-Guinée et l’Australie. C’est ce qu’ont fait les ancêtres des
+Aborigènes et des Papous entre 50 000 et 30 000 avant J.-C.
+Ils furent parmi les premiers peuples à naviguer sur de simples embarcations comme des
+radeaux pour franchir les bras de mer.
+Ces populations se sont trouvées isolées par la remontée du niveau de la mer provoquée par
+le réchauffement du climat il y a environ 10 000 ans.
+Vers 4000 avant J.-C., des populations de langues austronésiennes venues d’Asie du Sud-Est
+arrivent à leur tour et se mélangent aux populations déjà présentes en Mélanésie.
+15
+
+Aborigènes et Papous
+
+5 Comment vivaient-ils autrefois ?
+
+1. Les Aborigènes, des chasseurs-cueilleurs jusqu’à aujourd’hui
+
+Un chasseur
+dépèce
+un kangourou.
+
+2. Les Papous, des horticulteurs-éleveurs
+
+Des femmes papoues récoltent des tubercules : taro, ignames …
+
+16
+
+5. Aborigènes et Papous
+3. L’art aborigène
+Peintures aborigènes du parc national de Kakadu en Terre d’Arnhem (Australie).
+
+Peinture corporelle
+
+Sais-tu...
+
+Peinture représentant des “mimis” qui
+sont des esprits vivant dans les fissures
+des rochers.
+
+Un kangourou
+
+Aborigène
+« aborigène » signifie « qui habite
+depuis les origines le pays où il vit
+». Il est utilisé comme nom propre
+pour les populations originelles
+d’Australie.
+
+Vocabulaire
+Art rupestre : peinture ou gravure
+réalisée sur des parois rocheuses.
+Horticulteur : cultivateur de fruits
+et de légumes.
+Autrefois : cultivateur de taro et
+d’ignames.
+Igname : tubercule, nourriture de
+base comme le taro.
+tubercule : racine que l’on mange.
+
+Peintures dites “rayon x” : les corps sont
+transparents. Ils révèlent les os, les viscères.
+
+A
+
+borigènes et Papous vivent en petits groupes de la chasse, de la pêche, de la cueillette
+ou du ramassage de coquillages. Dès 40 000 avant J.-C., des outils polis sont utilisés en
+Nouvelle-Guinée. Des échanges ont lieu entre les îles.
+En Nouvelle-Guinée, des chasseurs-cueilleurs deviennent progressivement des horticulteurs
+et des éleveurs. Les premières cultures de taro datent de 7000 avant J.-C., des élevages de
+cochons y sont associés.
+En Australie, des formes d’art rupestre et des sépultures apparaissent il y a plus de 20 000 ans.
+Des peintures sur écorce et des peintures corporelles montrent une forte organisation sociale
+et religieuse. Les Aborigènes sont restés des chasseurs-cueilleurs.
+17
+
+Le peuple du Lapita
+
+6 Un peuple de potiers
+
+1. Qu’est-ce qu’une poterie Lapita ?
+
+La poterie Lapita composée de bols, de
+plats, de pots est décorée de lignes et de
+courbes en pointillé formant des figures
+géométriques. Cette poterie devait avoir
+un rôle cérémoniel et était considérée
+comme objet de prestige.
+Elle faisait l’objet d’échanges entre
+groupes Lapita.
+
+2. Les gens du Lapita : jusqu’où sont-ils allés ?
+
+Migration des gens du Lapita
+de 1500 à 800 avant j.-C.
+
+18
+
+En moins de cinq siècles,
+les gens du Lapita s’installent dans les îles comprises
+entre le nord de l’archipel
+Bismarck et les Samoa sur
+un espace maritime de
+4500 kilomètres.
+
+6. Le peuple du Lapita
+2000
+
+0
+1500
+
+Constitution de la culture Lapita
+(Bismarck, Salomon)
+
+1100
+
+800
+
+Peuplement Lapita : Vanuatu,
+Nouvelle-Calédonie, Fidji,
+Tonga, Samoa
+
+3. Quels sont les autres aspects de la
+culture Lapita ?
+LECTURE
+
+Sais-tu…
+Lapita
+Nom d’un site archéologique de la
+côte ouest de la Grande Terre de
+Nouvelle-Calédonie sur la commune de Koné, fouillé au début des
+années 1950. Ce nom est également donné aux gens qui fabriquaient ou transportaient ces
+poteries.
+
+Une culture Lapita
+«En dehors de la poterie, quels sont les autres aspects de la culture
+Lapita ?
+La pêche en mer et la récolte des coquillages constituaient certainement des éléments essentiels de l’économie. La présence du cocotier, du porc et des volailles est attestée archéologiquement, de
+même que les autres grandes plantes comestibles d’Océanie, à l’exception de la patate douce. On sait que les sites Lapita peuvent
+s’étendre sur un hectare et demi ; des fours creusés dans la terre
+sont fréquemment retrouvés. Parmi d’autres objets, on a recueilli
+des herminettes de pierre sans tenon* … Des coquillages étaient
+également utilisés pour fabriquer des herminettes, des couteaux,
+des bracelets et des pendentifs de collier…»
+
+Vocabulaire
+Herminette : lame en pierre
+ou en coquillage, fixée sur
+un manche. Le tranchant de la lame
+est perpendiculaire au manche.
+Outil commun à tous les Polynésiens.
+
+* Tenon : partie plus étroite de la lame de l’herminette qui permet de fixer
+celle-ci sur un manche.
+P. Bellwood, Les Polynésiens, archéologie et histoire d’un peuple insulaire,
+Ed. du Pacifique, 1983.
+
+E
+
+Objet de prestige : Les poteries
+Lapita étaient utilisées dans les cérémonies. Les gens du Lapita ne s’en
+servaient pas comme ustensiles de
+vaisselle.
+
+n Mélanésie les populations pratiquent l’horticulture, l’élevage et fabriquent de la poterie.
+À partir de 1500 avant J.-C., une poterie caractéristique apparaît aux îles Bismarck et
+Salomon. Elle est finement décorée en pointillés effectués à l’aide d’un peigne. C’est la
+poterie Lapita.
+Entre 1100 et 800 avant J.-C, des groupes Lapita gagnent le Vanuatu, la Nouvelle-Calédonie, les
+Fidji, Tonga et Samoa. Leur expansion est rapide d’ouest en est, grâce à un réseau de relations
+entre les îles.
+Des groupes Lapita utilisent la pirogue double et à balancier. Ils cultivent l’igname, le taro
+et élèvent cochons, chiens et poulets. Ils cuisent les aliments dans des fours de terre.
+19
+
+LE PEUPLEMENT
+DE L’ESPACE POLYNÉSIEN
+Les ancêtres des Polynésiens étaient d’excellents navigateurs. Ils ont peuplé toutes les îles,
+des Samoa aux Marquises, d’ouest en est, sur une distance de 4000 km. Ensuite, ils ont
+poussé leur exploration jusqu’à Hawaii, à l’île de Pâques et à la Nouvelle-Zélande, où ils ont
+dû s’adapter à des conditions de vie nouvelles.
+
+Les migrations polynésiennes
+
+7 Toujours plus à l’est…
+
+1. Comment voyageaient les Polynésiens ?
+
+Les marins polynésiens construisaient des pirogues capables de transporter sur une distance d’un millier de kilomètres leur famille, leur
+nourriture, leurs plantes et leurs animaux pour s’installer dans les îles.
+
+• Décris ce que les voyageurs emportent.
+
+20
+
+7. Les migrations polynésiennes
+0
+
+vers 1000 av. J.-C.
+
+Peuplement Tonga-Samoa
+
+vers 500
+
+vers1000
+
+1300 ap. J.-C.
+
+Cook-Australes-Société,
+Tuamotu-Gambier-Marquises peuplement Nouvelle-Zélande
+peuplement Hawaii - Île de Pâques
+
+2. Mais où allaient-ils ?
+
+Sais-tu...
+Le Triangle polynésien
+
+3. Pourquoi partaient-ils ailleurs ?
+
+LECTURE
+
+Les migrations
+« Les migrations pouvaient être motivées soit par la nécessité de s’expatrier à la suite de sécheresses, de surpopulation, de disette, de
+guerre, soit par envie de découvrir de nouvelles terres ou encore par
+prétexte religieux . »
+
+C’est une vaste région que l’on
+peut inscrire dans un triangle de
+7000 km de côté à l’est de l’océan
+Pacifique. Les sommets correspondent
+aux îles Hawaii, à l’île de Pâques et
+à la Nouvelle-Zélande. La Polynésie française occupe le centre de ce
+triangle.
+
+P. Jourdain, Pirogues anciennes de Tahiti, dossier 4, Société des Océanistes, 1970
+
+À
+
+Tonga et Samoa, pendant le premier millénaire avant J.-C. se développe la culture
+polynésienne. Quelques siècles après J.-C., les ancêtres des Polynésiens quittent Tonga et
+Samoa pour des îles situées plus à l’est qui sont de plus en plus petites et de plus en plus
+éloignées.
+Ils peuplent ainsi les Cook, les Australes, la Société, les Marquises et les Tuamotu-Gambier.
+Enfin, ils atteignent les îles les plus lointaines du Triangle polynésien : Hawaii, l’île de Pâques
+et la Nouvelle-Zélande.
+Les premiers voyages sont des voyages de découverte. Lorsqu’ils ont repéré une île, les
+navigateurs y reviennent avec tout ce qui est nécessaire à une installation : familles, plantes
+et animaux.
+Au fur et à mesure des installations, tout un réseau de communications se développe.
+21
+
+L’art de la navigation
+
+8 Pourquoi les Polynésiens étaient-ils d’excellents marins ?
+1. Quel type de pirogue les Polynésiens utilisaient-ils pour leur voyage ?
+
+Longue de 15 à 25 mètres, la pirogue de voyage possède deux coques assemblées par une plate-forme avec un ou
+deux abris en matière végétale. Les mâts sont en bois de fer ou en bambou, les voiles sont tressées en feuilles de
+pandanus. Elles emportent des vivres et de l’eau pour la traversée et des plantes et des animaux pour l’installation
+dans une nouvelle île.
+
+2. Pourquoi étaient-ils des navigateurs expérimentés ?
+LECTURE
+Une étonnante capacité à la navigation
+« Il peut paraître étrange à des navigateurs européens que ces gens soient capables de trouver leur chemin à
+de telles distances, sans l’aide de documents ou d’instruments, mais leur expérience et leur connaissance du
+mouvement des corps célestes, du lever et du coucher des étoiles est telle qu’un astronome européen refuserait
+de le croire : c’est pourtant un fait. Ils sont également en mesure de prévoir avec une sûreté étonnante les
+changements de temps et de prendre leurs dispositions en conséquence. Lorsqu’ils sont en mer, ils se dirigent
+au moyen du soleil, de la lune et des étoiles, avec une certaine exactitude. »
+James Morisson, Journal, 1792
+
+22
+
+8. L’art de la navigation
+3. Comment les navigateurs se repéraient-ils en mer ?
+Des vents et des courants dominants est-ouest
+
+Sais-tu...
+
+Il fallait une grande expérience de navigation aux marins polynésiens
+pour surmonter des vents contraires à leur voyage d’ouest en est. Si
+l’île de destination n’était pas retrouvée, les alizés ramenaient les marins à leur point de départ.
+
+« Le chemin d’étoiles »
+« Pour déterminer leur route, les
+pilotes océaniens disposaient de
+repères fiables dans les étoiles…
+Les étoiles offrent des points
+directionnels aussi fiables que
+ceux d’un compas quand elles
+sont basses sur l’horizon…
+Lorsque l’étoile montée trop haut,
+devient inutilisable, une autre
+étoile connue pour paraître ou se
+coucher dans la même direction,
+prendra son relais… »
+Eric Conte, Tereraa, Voyages et
+peuplement des îles du Pacifique, 1995
+
+Le chemin d’étoiles
+
+Vocabulaire
+Alizés : vents dominants des régions
+tropicales qui soufflent de l’est vers
+l’ouest.
+Chemin d’étoiles : succession
+d’ “étoiles guides”.
+
+La nuit, le lever ou le coucher
+d’étoiles connues des marins
+indiquait la direction à suivre.
+
+D
+
+e grandes pirogues doubles à voile, avec abri et feu, servent au transport des images des
+dieux, des hommes, des plantes et des animaux.
+Le jour, les navigateurs se repèrent à l’aide du soleil, des vents et de la houle. La nuit, ils s’orientent par rapport aux étoiles. L’alignement des îles en archipels renforce les chances d’arriver
+à destination. De nombreux indices sont utilisés. Différentes espèces d’oiseaux de mer
+permettent d’estimer la distance d’une île. Les reflets dans les nuages indiquent la présence
+d’une île haute ou d’un atoll. La dérive de déchets végétaux indique le chemin à suivre.
+Lorsque l’île n’est pas atteinte vers l’est, l’alizé régulier permet le retour de la pirogue vers
+son lieu de départ à l’ouest. Il peut arriver que des pirogues disparaissent en mer.
+23
+
+Des plantes, des animaux…
+
+9 D’où provenaient les plantes et les animaux ?
+
+1. Les plantes et les animaux provenaient-ils d’Asie comme les hommes ?
+
+• Peux-tu identifier
+les plantes et les
+animaux à bord
+de la pirogue
+de voyage ?
+
+2. Quelques plantes…
+
+LECTURE
+Une exception : la patate douce
+
+« Qui fut celui qui apporta les premières tubercules de patate douce des côtes d’Amérique du Sud au cœur
+de la Polynésie ? Etait-ce un grand groupe de Sud-Américains intrépides qui dérivaient à bord de leur radeau ?
+Ou s’agissait-il d’un équipage de marins polynésiens qui, parvenus à l’apogée de leur art de navigateurs transocéaniques, avaient atteint le rivage sud-américain et étaient repartis avec ce produit de culture, ultime héritage de leur traversée ? »
+Patrick Kirch, bulletin de la Société des Études océaniennes, n°275, 1997
+
+• Reconnais-tu ces plantes ?
+• D’où viennent-elles ?
+• Comment sont-elles arrivées
+en Polynésie ?
+
+24
+
+9. Des plantes, des animaux…
+3. Un arbre à tout faire ?
+
+Sais-tu...
+
+Palmes vertes du
+cocotier : panier,
+natte de table,
+jouets, balai
+
+Coco niä : eau de
+coco sucrée et
+amande fine et molle
+
+Tronc de cocotier :
+poteau de maison,
+bois de menuiserie,
+combustible
+
+noix de coco müre,
+’öpa’a : lait de coco,
+mono’i, coprah,
+ra’au
+Bourre de coco :
+nape, terreau pour
+plant de vanille
+Palmes sèches du
+cocotier : tressées,
+elles servent à faire
+des toitures et cloisons de fare
+
+L
+
+D’autres plantes ont été introduites
+par les marins polynésiens :
+Le ’ä’eho, roseau tahitien
+Le ’ahi’a, le pommier-rose,
+Le ’ape, tubercule consommée lors
+des disettes,
+Le ’ava ou kava, aux racines
+enivrantes,
+Le fara, le pandanus,
+Le mäpë, le châtaignier tahitien,
+Le nono, fruit médicinal,
+Le ’ofe’ofe, herbe médicinale,
+Le pia, source d’amidon,
+Le pöhue, liane médicinale,
+Le tï ou ‘autï, aux racines, source de
+sucre,
+Le ’uru, fruit, bois léger de construction,
+Le vï tahiti, la pomme-cythère.
+
+Vocabulaire
+Fare : maison traditionnelle
+construite en matériaux végétaux.
+médicinal : se dit d’une plante utilisée pour se soigner.
+Nape : cordelette tressée avec les
+fibres de la bourre de coco.
+Nï’au : palme de cocotier séchée
+que l’on tresse pour couvrir les
+fare.
+Rä’au : plante médicinale et remède.
+
+es principales plantes alimentaires des Polynésiens sont originaires de l’Asie du Sud-Est
+et de la Nouvelle-Guinée. L’arbre à pain, le bananier, le cocotier, le taro, le mäpë et
+l’igname ont été introduits par les premiers Polynésiens. Le cocotier sert à la construction des
+fare, à leur couverture en feuilles, nï’au, au tressage des fibres, nape… Le bois du ’uru est
+utilisé dans la fabrication de pirogue. D’autres plantes entrent dans la préparation de médecines, rä’au.
+Seule la patate douce a été ramenée d’Amérique du Sud probablement par des Polynésiens.
+Les Polynésiens ont aussi introduit des animaux comme le cochon, le chien, le poulet et le rat.
+25
+
+Les Polynésiens à Hawaii
+
+10 Les Polynésiens du nord de l’Équateur
+1. De grandes îles sans lagon…
+
+Les îles Hawaii ne possèdent pas de barrière récifale ni de lagon. De grands espaces intérieurs et côtiers ont permis le
+peuplement. Lors de l’arrivée des Européens, les six îles principales peuplées étaient Hawaii, Maui, Molokai, Lanai, Oahu
+et Kauai. Elles regroupaient la plus forte population de tous les archipels polynésiens, peut-être 200 000 habitants.
+
+2. De grands espaces
+Les Polynésiens trouvèrent de grandes
+plaines à cultiver. Ici des cultures récentes de macadamia à Big Island.
+
+• Reconnais-tu
+ces plantes ?
+
+26
+
+10. Les Polynésiens à Hawaii
+3. Des lieux de culte et des chefs
+• À quoi te fait penser ce dessin ?
+
+Vocabulaire
+Ali’i : chef hawaiien équivalent de
+ari’i.
+Heiau : lieu de culte, équivalent des
+marae.
+Tapa : étoffe constituée par les
+fibres de l’écorce interne d’arbre et
+obtenue par battage.
+d’après P. Bellwood
+
+Les heiau étaient des temples composées d’ensembles complexes, de
+murs de pierres non travaillées, de terrasses et de plates-formes. Des
+tours, couvertes autrefois de tapa, étaient des lieux où les prêtres communiquaient avec les dieux.
+
+Sais-tu...
+LECTURE
+Les ali’i
+
+« En plus des habituels temples
+heiau et terrasses d’habitations, les
+Hawaiiens construisaient des
+quantités importantes de murs de
+séparation pour les terres, des chemins empierrés et des parcs à poissons entourés de murs de pierre,
+pouvant couvrir jusqu’à 200 hectares et situés dans les entrées de
+rivières peu profondes et dans les
+lagons côtiers. »
+
+Les Hawaiiens allèrent plus loin
+que les autres sociétés polynésiennes dans la réalisation d’un
+gouvernement centralisé et il n’est
+pas surprenant que leurs chefs aient
+revêtu les parures personnelles les
+plus somptueuses jamais rencontrées dans le Pacifique, composées
+de magnifiques casques surmontés
+d’une crête de plumes et de capes
+ornées de milliers de plumes
+rouges et jaunes. Seuls les dieux
+bénéficiaient aussi d’un tel honneur.
+
+P. Bellwood, Les Polynésiens, 1983
+
+V
+
+ers 1000 après J.-C., des pirogues polynésiennes, venues probablement des Marquises,
+accostent dans l’archipel d’Hawaii après une très longue traversée d’environ 3500 km.
+L’archipel est étendu, les îles sont beaucoup plus grandes que les îles auxquelles les Polynésiens sont habitués. Les volcans sont nombreux et actifs, les plantes différentes.
+Les Hawaiiens mettent plusieurs siècles à prospecter la totalité de leurs îles.
+Ils restent longtemps très isolés des autres Polynésiens. Les grands chefs, les ali’i, contrôlent
+les terres qu’ils redistribuent aux chefs de rang inférieur et aux gens du peuple.
+27
+
+Les Polynésiens à Rapa Nui
+
+11 Au pays des mo’ai
+
+1. Pourquoi les hommes trouvent-ils un environnement plus difficile ?
+
+Le vent souvent violent, le manque d’eau,
+un climat plus frais interdisent certaines cultures. L’arbre à pain ne
+pousse pas sur l’île de
+Pâques et les cocotiers
+sont rares. Des chemins étaient aménagés
+pour le transport des
+mo’ai jusqu’aux ahu*
+édifiés le long des
+côtes rocheuses et
+arides de l’île.
+* ahu : plate-forme réservée
+aux dieux et aux esprits
+des ancêtres.
+
+2. L’énorme travail de sculpture des mo’ai
+
+Les falaises extérieures (ici) mais aussi intérieures du volcan Rano Raraku servaient de carrières pour la sculpture
+des mo’ai à même la roche. On peut encore y observer 150 statues inachevées. Elles étaient modelées dans un tuf *
+avec des maillets en pierre. Une fois détachées de la roche, elles étaient glissées à l’aide de cordes en bas de la
+pente. Puis elles prenaient le chemin des ahu pour y être dressées.
+*tuf : roche volcanique assez tendre à creuser.
+
+28
+
+11. Les Polynésiens à Rapa Nui
+3. Pourquoi tant de mo’ai ?
+On compte 300 ahu autour de l’île, terrasses aménagées en bord de mer où les statues étaient dressées le dos à la mer. Certaines étaient coiffées d’un énorme cylindre de tuf rouge (puako) provenant du volcan Puna Pau. On a retrouvé des morceaux de corail qui venaient se loger à l’emplacement des yeux, le centre de l’œil était fait de tuf rouge ou d’obsidienne*
+noire.
+Les statues seraient liées au culte des ancêtres qu’elles représentent. Tournées vers l’intérieur de l’île, elles protégeraient les
+villages.
+* obsidienne : roche volcanique vitreuse de couleur noire
+
+Le ahu de Tongariki
+
+LECTURE
+L’homme-oiseau
+
+Sais-tu...
+
+Chaque année les chefs militaires des tribus se
+réunissaient à Orongo et chacun nommait son
+champion qui devait nager, avec un flotteur en
+jonc, jusqu’à la petite île de Motu Nui. Là, il devait être le premier à s’emparer d’un œuf pondu
+par des oiseaux migrateurs. Averti par des observateurs, le chef du vainqueur devait alors
+s’isoler plusieurs mois à Rano Raraku. Il était
+l’homme-oiseau représentant du dieu Makemake
+pendant une année. Il devait répartir les ressources entre les tribus.
+
+De la destruction des forêts à la destruction des
+mo’ai
+Le transport des mo’ai et leur élévation sur les ahu
+tout autour de l’île demandaient l’utilisation de
+plus en plus de bois. On sait aujourd’hui que l’île
+était autrefois boisée.
+Lorsque les habitants eurent épuisé les ressources
+en bois de l’île, les cultes liés aux mo’ai prirent fin.
+La rivalité des tribus, les révoltes, les guerres et probablement la folie des hommes sont à l’origine de
+la destruction des mo’ai.
+
+d’après Peter Bellwood
+
+L
+
+’île de Rapa Nui est une des îles les plus isolées du monde. Des Polynésiens venus probablement des Marquises l’atteignent vers 1000 après J.-C. Ils débarquent avec leurs plantes,
+leurs animaux, leurs traditions. Les nouveaux arrivants s’adaptent à un environnement plus
+difficile, à cause du climat plus frais et des vents violents.
+L’île est partagée en tribus dirigées par des chefs rivaux souvent en guerre. Les villages sont
+protégés par les statues des ancêtres, les mo’ai.
+Les hommes détruisent peu à peu les forêts : ils ne peuvent bientôt plus construire de bateaux
+pour quitter l’île. Le culte de l’homme-oiseau semble avoir succédé à la période des mo’ai.
+29
+
+Les Polynésiens en Nouvelle-Zélande
+
+12 Les Maori : les Polynésiens du froid
+1. D’où viennent les Maori ?
+
+On sait peu de choses sur les premiers
+Polynésiens qui ont peuplé la Nouvelle-Zélande.
+On suppose qu’ils ont touché ce pays
+vers 1 300 après J.-C. à la suite d’un
+long voyage qui les a conduits des îles
+de la Société vers la Nouvelle-Zélande
+à bord de grandes pirogues doubles.
+
+2. Comment les Maori se sont-ils adaptés à un
+climat plus froid ?
+Le climat de la Nouvelle-Zélande est beaucoup plus froid que celui
+des îles de la Société. Ceci a imposé aux Mäori d’adapter leurs vêtements, leurs habitations, leurs cultures à ces conditions difficiles.
+Les moa étaient des sortes de grandes
+autruches. Les Mäori les ont chassés pour
+les manger, mais ils les ont vite exterminés.
+Lorsque les premiers Européens sont arrivés,
+il n’y avait plus de moa en NouvelleZélande et les Mäori se nourissaient de
+poissons, de coquillages et de produits de
+la terre qu’ils savaient cultiver.
+
+Mont Taranaki
+
+Pataka
+
+Ce guerrier mäori est
+habillé d’un manteau
+en peau de chien. Ses
+cheveux sont ornés de
+plumes d’oiseaux et
+d’un peigne, il porte
+des objets en os
+autour du cou,
+une arme à la
+ceinture et une
+autre qu’il tient à
+la main.
+
+Palissade
+
+Un village mäori
+Sur ce tableau réalisé par un artiste anglais (Georges French Angas) en 1844, on distingue :
+- un groupe de Mäori vêtus de manteaux en lin ou en peau de chien, ou encore faits de plumes d’oiseaux ;
+- le pä au second plan, avec des huttes, whare et un grenier à nourriture, pätaka, entourés d’une palissade.
+Les whare sont en bois et en chaume ;
+- à l’arrière plan, le mont Taranaki, couvert de neige…
+
+30
+
+3. Les Maori, un peuple guerrier
+Guerriers mäori dansant un haka devant un pä.
+
+• Quelles armes brandissent les guerriers ?
+Voir le “Sais-tu ?”
+
+Vocabulaire
+
+Sais-tu...
+Je sais nommer quelques armes utilisées par les Mäori.
+Ces trois armes sont les plus répandues : un mere (ou patu) (1),
+un taiaha (2), un tewhatewha (3). Retrouve ces trois armes
+dans la gravure ci-dessus.
+
+1
+
+2
+3
+
+I
+
+Haka : danse de guerre effectuée par les guerriers maori pour faire peur à leurs adversaires.
+Les sportifs néo-zélandais la font souvent
+aujourd’hui avant les matches.
+Lin : herbe haute dont on utilise la tige pour faire des
+cordes ou du tissu.
+Mäori : peuple d’origine polynésienne qui le premier
+a occupé la Nouvelle-Zélande.
+Pä : village protégé par des palissades et situé sur un
+promontoire pour se défendre de l’ennemi.
+
+l y a moins de mille ans, des Polynésiens venus des îles de la Société découvrent la NouvelleZélande et s’y installent.
+Ils doivent s’adapter à un climat plus froid qui les oblige à s’habiller chaudement et à s’abriter
+dans des huttes fermées. Au début, ils chassent et exterminent de très grands oiseaux
+appelés moa. Ils cueillent aussi des fruits sauvages, pêchent dans les rivières et pratique l’agriculture.
+Les Mäori se tatouent volontiers le visage et le corps. Ils sont un peuple guerrier et les conflits
+entre tribus sont fréquents. La population se réfugie dans des pä qui sont des villages fortifiés.
+31
+
+LA VIE DES POLYNÉSIENS
+AUX TEMPS ANCIENS
+Autrefois, les Polynésiens tiraient leurs repères et leurs ressources des éléments
+naturels de leur environnement.
+Ils invoquaient de multiples dieux sur des lieux de culte en pierre, les marae, qui étaient
+la base de leur organisation politique et sociale.
+
+Au fil des ans…
+
+13 Qu’est-ce qui rythmait
+
+la vie des Polynésiens ?
+
+1. Le calendrier polynésien
+Il y a deux manières de diviser
+l’année pour les saisons, d’abord
+en observant le lever et le coucher des Pléiades, ensuite par les
+mois lunaires.
+À leur arrivée les Européens
+constatèrent que les Tahitiens
+pouvaient indiquer avec une
+grande précision les mouvements
+des étoiles et des constellations
+et cela depuis des temps très
+anciens.
+D’après Teuira Henry
+
+2. Quelle est cette constellation ?
+
+En novembre, les
+Pléiades brillent pour
+la première fois audessus de l’horizon.
+C’est le début de l’année mä’ohi.
+
+32
+
+13. Au fil des ans…
+3. De l’abondance à la pénurie
+LECTURE
+
+Sais-tu...
+Le temps de l’abondance
+
+« Parmi les fruits, celui de l’arbre à pain qui comprend près de trente
+espèces… Cet arbre fournit la nourriture, le vêtement tapa, le bois
+pour faire les maisons et les pirogues et la sève pour les calfater*. Les
+feuilles sont également utilisées pour envelopper les mets que l’on
+prépare. »
+* Calfater : la sève mélangée à la bourre de coco sert à boucher les joints
+entre les planches des pirogues pour les rendre étanches.
+
+Le temps de la pénurie
+« Les chefs peuvent décréter le rähui sur telles ou telles provisions,
+bétail, poisson dans les limites de leur juridiction et, lorsqu’ils estiment nécessaire d’empêcher une trop grande consommation de cochons, décrètent le rähui dans la totalité du district. »
+J. Morrison, Journal, 1792
+
+Matari’i i ni’a : le lever (la première apparition) de la constellation des Pléiades fin novembre
+marque le début de la saison
+d’abondance. Avec les pluies et
+la chaleur, fruits, légumes et
+plantes à tubercule sont abondants. Les poissons de récifs et
+de lagon se reproduisent.
+Matari’i i raro : Avec la disparition des Pléiades, le temps de la
+pénurie commence fin mai avec
+la saison fraîche et moins humide. Les aliments sont de plus
+en plus rares. Les chefs imposent
+des rähui sur les zones lagonaires.
+
+Vocabulaire
+’Arioi : nom donné aux adorateurs
+de ’Oro, spécialistes de chant, de
+danse, de théâtre dont les déplacements dans les îles étaient l’occasion de grandes fêtes.
+Constellation : groupe d’étoiles.
+Pour les Pléiades environ 500
+étoiles dont seulement sept sont visibles à l’œil nu.
+Rähui : période et zone de restriction ou d’interdiction de pêche, de
+cueillette, de chasse, imposées par
+les chefs.
+
+Fosse à mahi aux Gambier
+En période de pénurie, les habitants
+consommaient le mahi : pâte de ’uru,
+fermentée, entassée dans des fosses à
+l’abri de l’air. On fabrique le popoi à
+partir de cette pâte.
+
+L
+
+’année des anciens Polynésiens est divisée en saisons, en lunaisons et en jours. La première
+saison est celle de l’abondance, correspondant à la saison humide, annoncée par l’arrivée
+des Pléiades (Matari’i i ni’a). La seconde est celle des restrictions, correspondant à la saison
+sèche, annoncée par la disparition des Pléiades (Matari’i i raro).
+Parmi les premières cérémonies de l’année, il y a la levée des rähui et l’offrande des premières
+récoltes aux dieux. Les anciens Polynésiens ne comptent pas les années mais datent les générations à partir de la naissance d’un chef.
+33
+
+Au fil des jours…
+
+14 Quelles ressources les Polynésiens tiraient-ils de leur environnement ?
+1. Comment vivaient les Polynésiens au jour le jour ?
+
+• Décris ce que tu vois.
+
+2. Quels objets utilisaient les Polynésiens ?
+La plupart des objets qu’utilisaient
+les Polynésiens d’autrefois étaient
+faits en majeure partie de fibres ou de
+bois si bien qu’il n’en reste presque
+plus rien aujourd’hui.
+Seuls ont été conservés les herminettes, les penu, pilons en pierre et les
+hameçons en nacre ou en os .
+
+• À quel numéro sur le dessin
+correspond chacun de ces objets ?
+- herminette,
+- pilon,
+- hameçon,
+- battoir à tapa,
+
+1
+
+6
+
+2
+
+8
+
+- tabouret,
+- fronde,
+- chasse-mouche,
+- flûte nasale
+
+5
+
+• À quoi servaient-ils ?
+
+3
+
+34
+
+4
+7
+
+14. Au fil des jours…
+3. Comment mettre le corps en valeur ?
+LECTURE
+« Les hommes et les femmes ne portent rien d’autre sur leurs têtes
+que des couronnes de fleurs, se contentant de les peigner, de les
+huiler… Une dent de requin leur tient lieu de ciseaux pour tailler les
+cheveux qu’ils maintiennent toujours très soignés. Ils ont le lobe
+d’oreille percé et ils mettent soit des fleurs, soit des pendentifs de
+trois perles, de cinq à huit centimètres de long ; il est rare que les
+deux oreilles soient décorées de la même façon. L’huile de coco
+leur sert de cosmétique et leurs peignes sont faits de bambou. Leurs
+vêtements sont toujours très soignés et ils mettent un point
+d’honneur à être élégants dans les réunions publiques. »
+James Morrison, Journal, 1792
+
+Le mot polynésien mono’i signifie
+“huile parfumée” ou “huile sacrée”,
+une huile de beauté et de bien-être.
+
+Sais-tu...
+Püfenua
+Autrefois, et parfois aujourd’hui
+encore, la coutume veut que
+le placenta de la mère à la naissance d’un enfant soit enterré
+sur une terre familiale pour
+marquer le lien entre la terre et
+l’homme. Un arbre fruitier est
+alors planté au-dessus. Les fruits
+nourriront plus tard l’enfant
+devenu adulte.
+
+Vocabulaire
+
+Autrefois, le tatouage était pratiqué dès l’âge
+de dix ou douze ans jusque vers vingt ans. Il
+touchait semble-t-il toutes les classes sociales,
+plus particulièrement les classes élevées.
+Les Tahitiens se faisaient rarement tatouer le
+visage.
+
+L
+
+Les hommes de Tahiti portent
+le ’ahu qui sert de manteau et
+le maro dont on aperçoit un
+pan qui tombe à l’avant.
+
+Penu : Pilon instrument en pierre,
+en corail ou en bois servant à réduire fruits et tubercules en pâte par
+percussion.
+Pürau : arbre dont le bois est facile
+à travailler, utilisé dans la fabrication des pirogues et de nombreux
+objets.
+
+es anciens Polynésiens vivent en communauté et sont des horticulteurs-pêcheurs. Ils cultivent les tubercules, plantent des cocotiers, des arbres à pain, des bananiers autour des habitations. Ils élèvent des cochons, des chiens, des poules et pêchent des poissons dans le lagon ou
+en mer.
+Des artisans fabriquent des armes, des herminettes et des pilons en pierre, des hameçons en
+os, en nacre et en bois. Les vêtements sont en tapa. Les fare sont faits de charpentes en pürau,
+de cloisons en bambou, de toitures en nï’au ou en pandanus. Des compétitions sportives et
+des fêtes rythment la vie quotidienne.
+Les Polynésiens attachent de l’importance aux soins du corps, au tatouage et à l’apparence.
+Des rites marquent la vie de chaque personne, de sa naissance (enterrement du püfenua) à sa
+mort (exposition du corps).
+35
+
+La guerre
+
+15 Pourquoi les Polynésiens se faisaient-ils souvent la guerre ?
+1. Une société de guerriers
+Reconstitution d’une scène de guerre
+
+• Décris le corps et la tenue de ces guerriers marquisiens.
+
+B
+
+A
+
+C
+
+• Associe les armes dessinées ci-dessus à celles
+de la photo de la vitrine.
+
+2. Quelles armes utilisaient-ils ?
+4
+
+« Les armes utilisées sont des lances (1) de quatre
+à cinq mètres de long terminées parfois par un
+aiguillon de raie, des massues (2) de deux à trois
+mètres de long faites de toa, un bois très dur…
+Ils ont des javelots et des arcs pour le sport mais
+ne s’en servent jamais à la guerre. »
+
+3
+1
+
+2
+
+« La fronde (3) est faite de fibres de coco tressées avec en son centre une partie plus large
+pour tenir la pierre (4), qui est de la taille d’un
+œuf de poule, l’une des extrémités formant une
+boucle que l’on passe au poignet pour retenir la
+fronde lorsqu’on lâche l’autre extrémité… »
+James Morrison, Journal, 1792
+
+Vitrine du Musée de Tahiti et des îles. Fare ia manaha.
+
+36
+
+15. La guerre
+3. Pourquoi se battaient-ils ?
+
+Pirogues de guerre à Tahiti de W. Hodges
+
+Certaines pirogues de guerre sont très grandes. Des plates-formes à l’avant et au centre servaient aux guerriers.
+
+LECTURE
+
+Sais-tu...
+Batailles navales
+« Encore loin les uns des autres, ils se battaient avec leurs
+frondes ; puis se rapprochant, ils jetaient les lances et les javelots ; enfin ils en arrivaient à l’abordage ; mûs par des sentiments de rage, d’orgueil, d’ambition ou de désespoir, ils se
+battaient avec la fureur la plus opiniâtre. »
+William Ellis, À la recherche de la Polynésie
+d’autrefois, Société des Océanistes, Paris, 1972
+
+« Les prétextes de conflits pouvaient être très légers,
+mais leurs conséquences n’en étaient pas moins graves.
+Déplacer une borne frontière ; arracher le drapeau du roi
+(ari’i principal) ; refuser d’admettre le fils du roi comme
+leur futur souverain ; parler irrespectueusement des dieux,
+du roi ou des chefs ; faire la plus légère insulte au roi, aux
+chefs ou à quiconque était leur allié ; et encore bien d’autres causes plus insignifiantes. Voilà qui était suffisant pour
+justifier un appel aux armes et dévaster le territoire de l’offenseur par le feu et les armes… »
+William Ellis, À la recherche de la Polynésie d’autrefois, Société des
+Océanistes, Paris, 1972
+
+Vocabulaire
+Ari’i : chef considéré comme descendant d’un dieu dont il tire son pouvoir (mana).
+Mana : pouvoir que les chefs et les prêtres obtiennent au contact des dieux lors des cérémonies sur les marae.
+Tahu’a : spécialiste ou encore expert dans un art ou une fonction : prêtre, médecin, sorcier, architecte, sculpteur, constructeur de
+pirogue, pêcheur,…
+Toa, ’aito : bois de l’arbre de fer. Champion entraîné par des experts à la guerre, mais aussi à la pêche, à la navigation et aux sports…
+
+L
+
+es anciens Polynésiens forment une société guerrière. Les chefferies s’affrontent pour
+imposer leur domination. La guerre est décidée lors d’un conseil des ari’i, des tahu’a et
+des ’aito. Des victimes humaines peuvent être offertes aux dieux sur les marae.
+Les hommes partent se battre équipés de lances, de massues et de frondes. Les batailles ont
+souvent lieu en mer sur des pirogues. Parfois, les vainqueurs massacrent la population
+vaincue, détruisent les marae et les habitations. Les survivants s’enfuient vers d’autres îles.
+37
+
+Le marae, lieu de cérémonies
+
+16 Quel est ce monument présent encore dans toutes les îles ?
+1. À quoi ressemblait un marae autrefois ?
+
+Le type de marae représenté correspond à celui que l’on trouve dans les Îles du Vent de l’archipel de la Société.
+D’autres types de marae existent dans les Îles Sous-le-Vent et dans les autres archipels. • Les connais-tu ?
+
+2. Que faisait-on sur le marae ?
+LECTURE
+Pa’iatua, cérémonie du rassemblement et du déshabillage des dieux.
+« Les prêtres se rendent au fare ia manaha.
+La procession s’organise vers le marae : le grand-prêtre en prend la tête, suivi de tous les dignitaires
+sacerdotaux et des prêtres des autres marae portant, enveloppée de tapa, l’image de leurs dieux…
+Devant le ahu, le grand-prêtre dépouille de ses enveloppes l’image du dieu protecteur, appelé to’o. C’est une pièce
+de bois taillée dans le tämanu. Elle est enserrée dans un bouquet de plumes rouges et jaunes fixées sur une gaine
+de fibres de coco. Une natte a été placée sur le ’äva’a rahi, le prêtre y dépose les enveloppes de tapa parfumées.
+La même cérémonie est faite pour les petits dieux… Vers le milieu de la matinée la cérémonie est terminée. Les
+images des dieux protecteurs et des dieux inférieurs, replacées avec respect dans leurs enveloppes sont remisées
+dans leurs demeures respectives. »
+J. Garanger, Pierres et rites sacrés, Société des Océanistes, dossier n° 2, Paris, 1979
+
+• Retrouve les lieux cités dans le texte sur le plan du marae .
+
+38
+
+16. Le marae, lieu de cérémonies
+3. À chaque île ses marae ?
+Raiatea
+
+Sais-tu...
+Les grands marae
+Quelques temps avant l’arrivée
+des Européens, des ’arioi, venus
+du marae Taputapuatea de Raiatea
+font construire de grands marae
+dans les îles de la Société en honneur du dieu ’Oro, dieu de la
+guerre et de la fertilité. Leur particularité est la construction d’un
+ahu à degrés (marches).
+Le plus grand, le marae Mahaiatea ( p. 40 ) possédait 11 degrés
+sur 17 mètres de hauteur.
+
+Rurutu
+
+Huahine
+
+Tahiti - Papeno’o
+
+Vocabulaire
+’Äva’a rahi : espace entre la limite
+extérieure du marae et le marae luimême.
+Tämanu, ’Ati : arbre que l’on
+trouve sur les marae et en bord de
+mer. Son huile est un remède.
+To’o : image d’un dieu en bois et
+en fibres de coco tressées (voir
+p. 41).
+Les prêtres pensent qu’à leurs
+prières, l’esprit du dieu ou de l’ancêtre vient s’y loger, chargeant le
+to’o de mana.
+
+Les marae présentent des formes différentes dans les archipels suivant le
+pouvoir de leur propriétaire ou la fonction du marae.
+
+es Polynésiens invoquent leurs dieux et leurs ancêtres sur les marae. Sur les marae ari’i,
+des cérémonies accompagnent la naissance, la prise de pouvoir, le mariage, la maladie,
+la mort d’un ari’i, le début et la fin d’une guerre, les premières récoltes…
+La cérémonie la plus importante est le pa’iatua, le rassemblement et le déshabillage des
+images des dieux, to’o. Les plumes rouges ou jaunes chargées de mana sont enlevées des to’o.
+Elles seront cousues sur la ceinture remise au ari’i lors de la cérémonie d’intronisation.
+Des marae plus petits et privés sont construits sur les terres familiales. Certains marae sont
+réservés aux experts, tahu’a : prêtre, pêcheurs, constructeurs de pirogues, navigateurs,
+tailleurs d’herminettes, guérisseurs…
+
+L
+
+39
+
+Le marae, centre du pouvoir
+
+17 Le marae n’était-il qu’un lieu de cérémonies ?
+
+1. Comment se rattacher aux dieux et aux ancêtres ?
+
+Au cours de son troisième voyage, James Cook assiste à un “sacrifice humain”. Rythmés par les tambours, un groupe
+de récitants assis déclament les généalogies qui rattachent les familles propriétaires du marae à leurs ancêtres divinisés
+ou aux dieux. Tu peux observer un aide-mémoire utilisé par les récitants pour se souvenir des généalogies, des légendes
+et des chants.
+
+• D’après le croquis de la page 38, retrouve sur le dessin ci-dessus, les différents éléments du marae.
+
+2. Centre d’un pouvoir plus important ?
+
+Cette gravure est une représentation de ce qu’était le marae
+Mahaiatea de Papara dessiné par
+le capitaine Wilson en 1797.
+Le ahu mesurait 90 mètres de longueur, 17 mètres de hauteur. Le
+ahu était aménagé en degrés. On
+en comptait 11 d’une hauteur de
+1,50 mètre. Construit par la cheffesse Purea entre 1766 et 1768, il
+fut vite abandonné.
+Il n’en reste aujourd’hui qu’un
+gros monticule de pierres près de
+la mer, à 200 mètres de l’embouchure de la Taharu’u à Papara.
+
+40
+
+17. Le marae, centre du pouvoir
+3. À quoi servaient ces objets de culte et
+de prestige ?
+Sais-tu...
+
+To’o
+L’image du dieu
+que possède le
+ari’i, est composée d’un morceau
+de bois recouvert
+de fibres de
+bourre de coco
+tressées.
+Il manque
+les plumes rouges
+ou jaunes ajoutées lors de la
+cérémonie de
+pa’iatua. Le tout
+était enveloppé
+de tapa.
+
+LECTURE
+Des objets
+de prestige
+
+Omai ou Mai
+
+« Les ari’i possédaient d’autres
+insignes de prestige héréditaires, mais ils n’avaient pas la
+même valeur que le maro ’ura.
+Un chef pouvait avoir un
+appui-tête et un tabouret à quatre pieds que des serviteurs
+transportaient dans tous ses déplacements. Il avait toujours
+avec lui sa lance en bois de fer.
+D’autres objets appartenaient
+à lui ou à sa famille : tables à
+piler, plats de bois, éventails,
+chasse-mouches, filets de
+pêche… »
+Anne Lavondès, Encyclopédie de la
+Polynésie, volume 5, 1986
+
+Bâton
+de
+chef
+dont
+l’extrémité
+est décoré
+de touffes
+de
+cheveux.
+
+Reconstitution d’une cérémonie
+Coiffures et vêtements de plumes portés par des personnages de haut rang.
+
+Il est le premier Polynésien à avoir fait
+le tour du monde. Parti de Huahine,
+lors du second voyage de James Cook
+en 1773, il vécut en Angleterre et fut
+présenté au roi George III. Il appréciait les bals, la danse, les spectacles
+d’opéra, les jeux de cartes, mais il
+refusait les rudiments d’arithmétique,
+d’anglais et de religion que l’on essayait de lui inculquer.
+Il revint à Huahine avec le troisième
+voyage de Cook en 1777. Il laissa son
+tabouret en Angleterre comme cadeau d’adieu. On pense que c’est ce
+tabouret qui revint à Tahiti en 1986.
+Il est exposé au Musée de Tahiti et des
+Îles.
+
+Vocabulaire
+Généalogie : liste des membres
+d’une famille en remontant dans
+le temps. Chez les anciens Polynésiens, réciter la généalogie
+c’était aussi raconter l’histoire de
+la famille.
+Maro ’ura : ceinture qui donnait à
+celui qui la possédait le pouvoir
+sur toutes les îles de la Société.
+
+Le Maro ’ura est une ceinture faite de plumes rouges et jaunes sacrées cousues sur une
+natte fine tressée, de plus de 3,50 m de long.
+
+lus un marae est important, plus le ari’i est puissant. Lors des cérémonies les prêtres récitent
+les généalogies qui rattachent les familles à des dieux ou à des ancêtres divinisés. Ces
+familles sont propriétaires des terres attachées aux marae. Elles occupent un rang plus ou
+moins élevé dans la société : grands chefs (ari’i), chefs de rang inférieur (ra’atira), gens du
+peuple (manahune). Ces derniers doivent fournir travail et nourriture pour préparer les
+cérémonies et les repas qui les suivent.
+Les chefs possèdent des objets qui marquent leur rang. Le plus prestigieux est la ceinture de
+plumes appelée maro ’ura.
+
+P
+
+41
+
+Takaii, un chef guerrier de l’île de Hiva Oa
+
+18 Que sont ces statues que l’on trouve dans toutes les îles de Polynésie ?
+
+Takaii le plus grand tiki des Marquises, à Puamau dans l’île
+de Hiva Oa, représente un grand guerrier, chef de l’île de
+Hiva Oa, divinisé.
+
+42
+
+18. Takaii, un chef guerrier de l’île de Hiva Oa
+1. Le meàe Ipona de Puamau
+
+LECTURE
+Que représentaient les tiki ?
+« Aux Marquises, les tiki possèdent
+une forme commune à tous les tiki,
+avec leur tête cylindrique disproportionnée pour signifier le mana de
+l’esprit représenté (le mana se logeant principalement dans la tête),
+de gros yeux sur les côtés et une
+bouche elle aussi très grande laissant
+peut-être entrevoir la langue. Dressé
+sur les terrasses de certains meàe*, le
+tiki marquisien semble avoir été plutôt la représentation de guerriers, de
+personnages importants, d’ancêtres,
+de prêtres divinisés. »
+* meàe est l’équivalent du marae aux
+Marquises.
+E. Conte, 101 mots pour comprendre la
+Polynésie française, éd. Île de Lumière,
+Nouméa, 2004
+
+Meàe et tiki sur l’espace cérémoniel de Ipona.
+
+2. … et les pétroglyphes ?
+
+Le masque de deuilleur, pärae,
+recouvrait la tête. Il était composé d’un diadème de
+longues plumes de phaéton,
+d’un masque fait de quatre
+valves d’huîtres perlières découpées et ajustées (une fente
+dans l’une d’entre elles permettait de voir) et d’un large
+croissant de bois sur lequel
+étaient fixées d’autres coquilles de nacre.
+
+Le prêtre ou un parent d’un défunt menait la cérémonie du
+deuil. On l’appelait le deuilleur.
+
+Le reste du costume de deuilleur se composait d’un grand
+pendentif de plus de 2000
+petits morceaux de nacre audessus d’un tïputa (poncho)
+en tapa, d’une ceinture, d’un
+tablier en tapa décoré de
+coques de noix de coco découpées et d’une longue
+cape de plumes noires dans
+le dos.
+
+« Pierres gravées » représentant un masque de deuilleur (à proximité des
+marae de la vallée de la Vaiote à Tautira, Tahiti).
+
+e tiki de pierre de 2,53 m, le plus grand de la Polynésie française, est situé sur le meàe
+de Ipona à Puamau. Il est la représentation d’un chef guerrier divinisé de l’île de Hiva Oa.
+Sa tête énorme aux gros yeux sur les côtés contient, selon la tradition, le mana, c’est-à-dire
+les pouvoirs d’un chef.
+Le nom de tiki ou ti’i est donné à ces statues de pierre, de corail ou de bois dont les formes
+rappellent celles de l’homme. Le tiki est la représentation d’une divinité, d’un esprit, d’un
+ancêtre ou d’un prêtre divinisés.
+Il est fréquent de voir des pétroglyphes à proximité de l’espace cérémoniel des meàe ou des
+marae.
+
+C
+
+43
+
+VIVRE DANS LES VILLES
+SOUS LES ROMAINS
+Alors que les Polynésiens s’installent sur Samoa et Tonga, de l’autre côté de la planète, autour
+de la Méditérrannée, se développe un immense empire. La puissante armée de Rome conquiert
+des régions de plus en plus lointaines. Partout des villes sont construites avec le même plan et
+les mêmes monuments qu’à Rome.
+
+Rome : le centre d’un immense Empire
+
+19 À quoi ressemblait Rome autrefois ?
+
+1. L’Empire romain au moment de sa plus grande extension à la fin du IIe
+siècle ap.J.-C.
+
+• Pourquoi les Romains disaient-ils
+que la Méditerranée était « leur mer » ?
+
+LECTURE
+La légende de la fondation de
+Rome
+« Romulus voulait fonder la ville
+sur le mont du Palatin, tandis
+que Rémus préférait l’Avantin.
+Ils discutèrent et en vinrent aux
+mains… Dans la bagarre Rémus
+tomba, frappé à mort. Romulus
+resta donc seul maître. Après sa
+fondation, la ville prit le nom de
+son fondateur. »
+D’après Tite-Live, Histoire romaine, Ier
+siècle avant J.-C.
+
+2. Un Empereur, une armée
+L’Empereur est tout puissant. Il intervient dans la vie
+politique. Il règle la vie des Romains. Il est chef des
+armées et de toutes les régions de l’Empire. Il est le
+chef de la religion romaine. À sa mort, il est considéré comme un dieu, protecteur de l’Empire.
+
+Un centurion
+
+C’est grâce à son armée que Rome a pu dominer la Méditérranée pendant des siècles. La
+légion est l’unité de base de l’armée. La
+force de la légion réside dans son organisation et sa discipline. Chaque légion
+compte 6 000 soldats, divisée en groupes
+d’une centaine d’hommes commandée
+par un centurion. Le légionnaire est un
+volontaire qui signe un engagement de
+vingt ans dans l’armée.
+
+44
+L’Empereur Hadrien
+
+19. Rome : le centre d’un immense empire
+3. La plus grande ville du monde
+
+Forum
+Aqueduc Claude
+
+Temple de
+Vénus
+
+Colisée
+(amphithéâtre),
+
+Vue du Forum aujourd’hui
+Rome est célèbre pour ses monuments. Certains existent encore
+en partie aujourd’hui comme le Forum, le Colisée, les temples
+de Vénus et de Vesta…
+
+• Tu peux les retrouver sur ce dessin.
+
+Depuis la création de Rome, la grande place du Forum est le
+lieu où tous les Romains passent une fois dans leur journée,
+pour assister aux débats politiques, aux procès, connaître les diverses rumeurs, voir leurs amis. Cet espace est encombré de
+temples, de thermes, de théâtres…
+
+Sais-tu...
+L’empire romain
+L’Empereur Hadrien (117-138) fait construire tout
+le long des frontières de l’Empire, un système fortifié de murs, de fossés, de tours de guets. Ce sont
+350 000 hommes qui gardent une frontière de près
+de 10 000 km.
+
+R
+
+ome est la capitale d’un immense Empire qui s’étend tout autour de la Méditerranée.
+C’est la plus grande ville du monde où vit un Empereur tout puissant qui dirige l’Empire
+contrôlée par l’armée.
+Le centre politique et religieux est situé sur une grande place, le Forum où se rassemblent les
+Romains pour voter, débattre... On y trouve le Sénat, des tribunaux, des temples dont celui
+de Vesta, où brûle un feu qui ne doit jamais s’éteindre. Près de l’amphithéâtre du Colisée, le
+temple de Vénus est dédié à la déesse de l’amour et de la beauté.
+45
+
+Vivre à Rome
+
+20 Comment vivait-on à Rome ?
+1. Pourquoi les gladiateurs combattaient-ils dans les arènes ?
+
+«Du pain et des jeux»
+Les Romains adorent tous les spectacles : combats entre gladiateurs, combats contre des bêtes sauvages, courses de
+chars tirés par des chevaux…
+Pour éviter les émeutes et les révoltes du peuple de Rome qui vivait dans la misère, les Empereurs organisaient des distributions gratuites de farine et des spectacles. Les Romains avaient plus de 200 jours de fêtes par an.
+
+LECTURE
+Les gladiateurs
+« Le hasard m'avait mené à midi à l'amphithéâtre : j'attendais des
+jeux, du théâtre, de ces intermèdes où l'œil du spectateur se repose
+de voir couler le sang humain. Or, le contraire arriva …
+Le gladiateur n'a rien pour se couvrir ; toutes les parties de son corps
+sont exposées aux coups, jamais un engagement sans blessure. Les
+spectateurs, en majorité, préfèrent ce genre de combat… Point de
+casque, point de bouclier contre l'épée…
+Le matin, on livre des hommes aux lions et aux ours ; à midi, c'est aux
+spectateurs qu'on les livre. Après avoir tué, il faut se mesurer à un
+autre pour être tué à son tour ; le vainqueur est réservé, lui aussi, à la
+mort. »
+Sénèque, Lettres à Lucilius, VII, 64 après J.-C.
+
+46
+
+Sais-tu...
+Les espaces de jeux et de loisirs
+L’amphithéâtre (ou les arènes) est un
+édifice circulaire ou plus allongé
+servant aux jeux comme les combats
+de gladiateurs.
+Le cirque est un vaste espace ovale,
+très allongé, utilisé pour les courses
+de chars attelés de chevaux.
+Le théâtre est un édifice avec des
+gradins aménagés pour les spectateurs en demi-cercle face à une
+scène.
+
+20. Vivre à Rome
+2. À quoi servaient les thermes ?
+
+David Iliff
+
+3.Comment alimenter la ville en eau ?
+
+Les thermes sont caractéristiques de la
+manière de vivre des Romains. Ce sont
+d’immenses piscines à différentes températures. On s’y lave, on s’y détend, on
+retrouve ses amis.. Il y a aussi un solarium,
+des bibliothèques, des terrains pour jouer
+à la balle, de quoi manger… Bref, un
+complexe sportif et de loisirs que tu
+apprécierais sûrement !
+
+Vocabulaire
+
+L’aqueduc de Claude est un des onze aqueducs qui alimentaient la ville de
+Rome. Élevé sur des arcades, il fournissait l’eau aux quartiers bâtis sur les collines de Rome.
+Les Romains avaient besoin de beaucoup d’eau pour les fontaines qui coulaient
+partout à Rome, pour les thermes et les citernes des quartiers…
+
+M
+
+Aqueduc : canalisation conduisant
+l’eau d’un point à un autre.
+Gladiateurs : hommes entraînés
+pour le combat dans les arènes.
+Solarium : endroit aménagé pour
+prendre des bains de soleil.
+
+ême si la ville de Rome est immense et surpeuplée, la vie n’y est pas désagréable.
+Les Romains se rendent au Colisée pour assister aux combats de gladiateurs et au cirque
+où sont organisées les courses de chevaux. Ils vont aussi au théâtre.
+Ils disposent de beaucoup de temps libre. Ils vont aux thermes où ils peuvent se laver, nager
+ou bavarder. Pour se nourrir, le grand marché situé près du Forum leur propose des produits
+venus de tout le monde connu.
+L’eau dont ils ont besoin est acheminée de très loin par de grands aqueducs. Des égouts évacuent les eaux sales.
+47
+
+Dans tout l’Empire, les villes imitent Rome
+
+21 Que nous apprennent les vestiges des villes ?
+1. Des monuments gallo-romains
+
+Les Romains construisent routes et ponts pour
+assurer les déplacements de l’armée. La partie
+haute du pont du Gard servait d’aqueduc.
+
+Plus de 10 000 spectateurs pouvaient prendre place
+sur les gradins de ce théâtre d’Orange. Derrière la
+scène, le grand mur était orné de colonnes et de
+statues.
+Le mur servait aussi à renvoyer les voix des
+acteurs vers les spectateurs.
+
+Les arènes d’Arles peuvent accueillir 15 000 à 20 000 spectateurs pour les combats de gladiateurs.
+
+2. Qu’est-ce qu’une villa gallo-romaine ?
+
+La villa en Gaule romaine
+est une grande ferme. Elle se
+compose de la résidence du
+propriétaire et des bâtiments
+d’exploitation agricole.
+
+48
+
+21. Dans tout l’Empire, les villes imitent Rome
+3. Pompéi, au pied du Vésuve
+
+Dégagée des cendres du Vésuve au XVIIIe
+siècle, on a retrouvé la ville de Pompéi : ses
+rues, ses boutiques, ses monuments, ses
+maisons décorées de fresques et de
+mosaiques
+
+le Vésuve
+Dans une des rues de Pompéi, la
+chaussée bordée de trottoirs est
+pavée de blocs de pierre. Lorsque
+la chaussée était inondée par la
+pluie, on passait d’un côté à l’autre
+de la rue sur de grosses pierres.
+
+Les habitants de Pompéi sont
+des gens riches aux superbes villas. Ils aiment beaucoup représenter la nature.
+
+Fresque de Flora,
+déesse des fleurs,
+Villa Arianna de Pompéi
+
+Vocabulaire
+Fresque : peinture murale
+réalisée sur un enduit
+avant qu’il ne soit sec.
+Mosaïque : image formée à partir
+de petits morceaux de roche ou de
+pâte de verre de couleurs différentes.
+Ville gallo-romaine : Avec leur
+conquête en Gaule, les Romains
+construisent des villes et des monuments sur le modèle des villes
+romaines.
+
+Chien à la laisse, mosaïque de
+Pompéi au musée archéologique
+de Naples
+
+D
+
+ans tout l’Empire, les Romains construisent des villes sur le modèle de Rome. On y trouve
+un Forum et les mêmes temples et monuments. Dans la France d’aujourd’hui, on trouve
+encore de nombreux monuments des villes gallo-romaines datant de cette époque. Ce sont des
+théâtres et amphithéâtres toujours utilisés pour les spectacles comme les arènes d’Arles et de
+Nîmes ou le théâtre d’Orange.
+La cité de Pompéi nous permet de bien connaître la vie quotidienne des Romains.
+Pompéi était une riche cité située au pied d’un volcan qu’on croyait éteint, le Vésuve. Mais
+en 79, le volcan se réveille et ensevelit Pompéi et la ville voisine d’Herculanum, sous les cendres
+et la lave. Ces villes ont été redécouvertes au XVIIIe siècle. On a pu dégager les rues, les
+boutiques, les maisons, les monuments mais aussi des fresques, des mosaïques, ainsi que de
+nombreux objets quotidiens.
+49
+
+LA VIE QUOTIDIENNE AU TEMPS
+DES CHÂTEAUX FORTS
+ET DES CATHÉDRALES
+Au moment où les navigateurs polynésiens s’installe à Tahiti, aux Marquises et dans le Triangle
+polynésien, l’Europe vit à l’époque du Moyen Âge avec ses châteaux et ses cathédrales.
+
+Châteaux forts, seigneurs et paysans
+
+22 Quelles relations liaient les seigneurs aux paysans ?
+1. Dans les châteaux forts, les seigneurs
+
+Les Seigneurs passent beaucoup de temps à la guerre. Ils font construire des châteaux forts pour protéger leur famille et les paysans
+qui travaillent sur leurs terres. En cas d’attaque, les paysans viennent se réfugier au château.
+
+• À quoi sert ce château fort ? • Pourquoi cherche-t-on à construire des châteaux forts de plus en plus imposants ?
+• Comment les seigneurs peuvent-ils financer ces constructions ?
+
+50
+
+22. Châteaux forts, seigneurs et paysans
+2. Au pied des châteaux forts, les paysans
+Juillet
+
+« La dure vie des paysans »
+
+« Les Très riches heures du duc de Berry »
+est un livre de prières très bien illustré par
+des miniatures qui nous donne beaucoup
+de renseignements sur la vie au Moyen
+Âge.
+
+Octobre
+
+• À quel travail des champs se livrent
+ces paysans ? Que devine-t-on audessus d’eux ?
+• D’après les images, quel rapport y
+a-t-il entre les paysans et le seigneur ?
+Septembre
+
+moisson
+
+vendanges
+
+semailles
+
+3. Comment construire un château à l’ancienne ?
+Le château de Guédelon
+Sais-tu...
+En Bourgogne on a décidé de
+construire un château fort en
+utilisant les mêmes techniques et
+les mêmes matériaux qu’au Moyen
+Âge. Commencée en 1997, la
+construction devrait durer 25 ans.
+Tu peux voir ici, deux étapes de la
+construction, 2000 et 2010.
+Les tailleurs de pierre, les maçons,
+les charpentiers, les forgerons et
+bien d’autres artisans en habits
+d’époque poursuivent leur travail
+sous les yeux de personnes visitant
+le chantier.
+
+Vocabulaire
+Corvées : travaux dus par les paysans au seigneur.
+Donjon : tour principale d’un château au Moyen Âge, demeure du seigneur,
+dernière défense en cas de guerre.
+Miniature : petite peinture faite avec beaucoup de précision.
+Moisson : récolte de céréales (blé, avoine, seigle, orge…).
+Semailles : action de semer.
+Vendanges : action de cueillir les raisins pour produire du vin.
+
+À
+
+partir de l’an mil, chaque seigneur fait construire son château, d’abord en bois, puis
+en pierre, au sommet d’une colline, pour mieux voir arriver l’ennemi. Des remparts
+entourent une grande cour où peuvent se réfugier les paysans en cas de guerre. Au centre,
+un donjon abrite le seigneur et sa famille. Le seigneur est un guerrier. Il se bat contre ses
+voisins et accompagne le roi à la guerre.
+Les paysans travaillent pour le seigneur : ils cultivent ses terres, lui paient des impôts, font des
+corvées pour lui. Ils vivent regroupés dans des villages, près du château qui les protège et les
+surveille. Pour beaucoup de paysans, la vie est difficile.
+51
+
+Les
+églises,
+témoins
+des
+croyances
+des
+hommes
+23
+Comment les hommes vivaient-ils leur croyance au Moyen Âge ?
+
+1. Des églises romanes massives
+
+La voûte en berceau est soutenue
+par des arcs en plein cintre.
+Le poids de la voûte repose sur des
+murs épais.
+
+LECTURE
+L’église
+« L’église était au Moyen Âge le domicile du peuple…
+L’homme y priait, la commune y délibérait, la cloche était
+la voix de la cité. Elle appelait aux travaux des champs,
+aux affaires civiles, quelquefois aux batailles de la liberté.
+Le commerce se faisait autour des églises : les pèlerinages
+étaient des foires. Les marchandises étaient bénies ; on mangeait dans l’église même et après le repas venait la danse.
+L’église se prêtait à ces joies. »
+J. Michelet, Histoire de France, 1837
+
+2. Des églises gothiques de plus en plus hautes
+
+Les deux ogives A/D et B/C se croisent en 0, c’est la croisée d’ogives.
+La voûte est soutenue par deux arcs
+brisés en B/D et A/C.
+Le poids de la voûte repose sur les
+Chaque grande ville, en France, en Angleterre, en Allemagne, veut avoir sa
+quatre pilliers A, B, C, D.
+cathédrale, plus grande et plus haute que celle du voisin. Certaines sont si
+hautes que leur flèche et leur voûte s’écroulent.
+
+52
+
+23. Les églises, témoins des croyances des hommes
+3. La rosace de la Sainte-Chapelle
+Sais-tu...
+Les cathédrales gothiques
+En France, au XIII e siècle les
+cathédrales sont de plus en plus
+hautes : 37 mètres à Bourges, 38
+mètres à Reims, 42 mètres à
+Amiens. On atteignit 48 mètres
+pour la cathédrale de Beauvais,
+mais la voûte s’effondra !
+
+Vocabulaire
+Art roman : Aux XIe et XIIe siècle en
+Europe,
+les
+églises
+sont
+massives et peu élevées. Leurs
+fenêtres sont petites et les murs très
+épais pour soutenir la voûte en
+pierre. C’est le style roman
+Art gothique : En Europe du
+XIIe siècle au XVIe siècle, on
+construit des églises, sièges
+d’un évêque qu’on appelle des cathédrales. Elles sont très hautes et
+de grandes fenêtres garnies de vitraux laissent passer la lumière.
+C’est le style gothique.
+Ogive : forme de l’arc brisé des
+voûtes des églises gothiques.
+Rosace : vitrail circulaire imitant les
+feuilles et les pétales d’une rose.
+Vitrail : ensemble formé de
+morceaux de verres colorés
+présentant une scène de la Bible ou
+de la vie d’un saint.
+
+• Quelle impression te laisse cette rosace ?
+
+• Pourquoi ne se contente-t-on pas de vitraux transparents ?
+
+L
+
+es gens du Moyen Âge sont très croyants. La vie est organisée par la religion. Villes et
+villages se construisent autour des églises. Certaines églises sont le siège de l’évêque : ce
+sont les cathédrales. Les premières églises sont massives, sombres et décorées de fresques
+qui racontent la Bible : cela s’appelle l’art roman.
+Mais au XIIe siècle, une architecture nouvelle apparaît en France : l’art gothique. De grandes
+fenêtres et des rosaces laissent pénétrer la lumière par des vitraux colorés. Les murs et les
+flèches s’élèvent le plus haut possible. Les églises deviennent des exemples du paradis sur
+terre.
+53
+
+Un nouvel espace, l’espace urbain
+
+24 Pourquoi les villes se sont-elles développées au Moyen Âge ?
+1. Une Cité médiévale, Carcassone
+
+• Trouve les remparts, les tours, le château et la cathédrale du XIIe siècle.
+
+2. Dans une rue d’une ville médiévale
+Les rues sont étroites et sales.
+Pas de trottoirs, pas d’égouts. Par
+les fenêtres, on jette les eaux
+usées et les détritus. Les maisons sont en bois et en torchis.
+Les incendies sont fréquents.
+Les ateliers des artisans et les
+boutiques s’ouvrent directement
+sur la rue où les passants peuvent acheter les marchandises.
+
+54
+
+24. Un nouvel espace, l’espace urbain
+3. Le Palais des Papes à Avignon
+Sais-tu...
+
+Les papes viennent résider un certain temps à Avignon. Avant
+même d’avoir acheté la ville d’Avignon, les papes commencèrent à transformer le modeste palais dans lequel ils s’étaient
+installés, en un énorme château abritant à la fois leurs appartements privés, les bâtiments nécessaires au gouvernement de
+l’Église, des jardins et des vergers. C’est aussi une forteresse
+avec des remparts et des tours mais surtout la demeure imposante et prestigieuse d’un puissant monarque.
+Actuellement un festival de théâtre très connu s’y déroule
+chaque été.
+
+Avignon, une des villes les plus
+importantes d’Europe
+On construit à partir de 1355, une
+nouvelle enceinte plus vaste de
+remparts, afin de protéger la ville.
+Elle devait avoir fière allure avec ses
+douze portes, ses trente-six tours…
+De nombreuses maisons empiétaient sur la voie publique, si bien
+que les bords des toits des deux
+maisons finissaient presque par se
+toucher…Les rues étaient bordées
+d’auvents ce qui étaient dangereux
+en cas d’incendie, puisque le feu
+pouvait se répandre sans difficulté
+d’une maison à une autre. Dans
+les rues marchandes, les étalages
+débordaient… Les places et les
+carrefours étaient de dimensions
+très restreintes. Il n’y avait pas
+d’espace libre devant le Palais des
+Papes, ni devant les églises…
+D’après les archives de la ville
+d’Avignon
+
+LECTURE
+La ville vue par un seigneur
+« Il regarde la ville entière, peuplée de gens nombreux
+et beaux, et les tables des changeurs d’or et d’argent,
+toutes couvertes de monnaies. Il voit les places et les
+rues qui sont toutes pleines d’ouvriers faisant tous les
+métiers possibles… Les uns font des draps et les autres
+les tissent…, d’autres fondent l’or et l’argent. La ville
+regorge de richesses, de cire, de poivre et d’épices* de
+
+Vocabulaire
+Faubourg : partie de la ville située
+à l’extérieur des murs d’enceinte
+ou des remparts.
+Médiéval : qui a rapport au Moyen
+Âge.
+Torchis : mélange de terre et de
+paille.
+Urbain : qui a rapport à la ville.
+
+fourrures et de toutes marchandises. »
+* voir p. 65
+Chrétien de Troyes, Perceval, vers 1180
+
+L
+
+es villes du Moyen Âge, comme Carcassonne, sont protégées par des remparts. Les rues sont
+étroites et tortueuses. À partir du XIIe siècle, la population s’accroît, et les villes s’étendent
+alors hors de leurs murailles, dans les faubourgs.
+Les marchands et artisans sont de plus en plus nombreux à s’y installer. Les villes deviennent
+riches. On y construit de beaux bâtiments.
+Une des villes les plus importantes est la ville d’Avignon, sur le bord du Rhône dans le Sud
+de la France. Le pape vient s’y installer, et fait construire le Palais des Papes. Les remparts,
+le centre-ville et le Palais des Papes ont été conservés.
+55
+
+LES GRANDS CHANGEMENTS DU
+M O N D E A U X V è- X V I è S I È C L E
+Aux XVe et XVIe siècle, l’Europe connaît un très grand bouleversement technique, culturel et
+religieux. C’est l’époque de la Renaissance, de la Réforme, mais aussi des grands voyages de
+découverte.
+
+L’imprimerie : le livre se répand
+
+25 Quelle avancée importante apporte l’imprimerie au XVI siècle ?
+e
+
+1. De la copie à la main…
+Avant Gutenberg, il fallait
+beaucoup de temps au
+moine-copiste pour écrire
+un manuscrit.
+Les manuscrits étaient
+décorés d’enluminures.
+Les manuscrits et les
+lecteurs étaient alors rares.
+
+Enluminure
+
+2. …au premier livre imprimé par
+Gutenberg : la Bible
+
+LECTURE
+Les avantages de l’imprimerie
+« Grâce à l’impression typographique la transcription des textes est devenue des plus faciles.
+Ainsi, trois hommes travaillant pendant trois mois
+ont pu imprimer 300 exemplaires, ce à quoi leur
+vie entière n’aurait pu suffire s’ils avaient écrit
+avec la plume »
+Domineco, évêque de Brescia, Italie, 1475
+
+Jean Gutenberg fonde à Mayence (Allemagne) un atelier de typographie. La bible de Gutenberg est appelée « Bible à quarante-deux lignes », car chaque page se divise en deux colonnes de quarante-deux lignes chacune. Entre 1452 et 1455, ce premier livre est imprimé en
+180 exemplaires environ. Il connaît un succès immédiat.
+
+• Pourquoi le premier livre imprimé est-il une Bible ?
+
+56
+
+25. L’imprimerie : le livre se répand
+3. Comment imprime-t-on les premiers livres ?
+1. Assemblage des caractères, ligne
+par ligne pour préparer la page à
+imprimer
+
+2. Préparation du tampon pour enduire d’encre les caractères de la
+page
+3. Serrage de la presse pour imprimer la feuille
+4
+
+2
+
+4. Vérification de la feuille imprimée
+3
+1
+
+5. Rangement des feuilles pour
+confectionner le livre
+
+5
+
+Vocabulaire
+Enluminure : peinture exécutée à
+la main qui décore un texte en
+début de chapitre ou de paragraphe.
+Manuscrit : ouvrage écrit à la
+main.
+Typographie : procédé de composition et d’impression sur des caractères en relief.
+
+• Avec l’invention de Gutenberg, quelles sont les différentes étapes
+pour parvenir a un texte imprimé ?
+• Travaille-t-on seul dans une imprimerie ?
+
+A
+
+u Moyen Âge, on recopie les livres à la main. C’est un travail très long. Les livres sont
+rares, chers et réservés aux rois et à l’Église.
+En 1454, Jean Gutenberg a l’idée d’utiliser pour la première fois des caractères mobiles pour
+composer un texte. Il les aligne sur une plaque qu’il enduit d’encre et sur laquelle il place des
+feuilles de papier. Il peut donc réimprimer le même texte plusieurs fois.
+Les livres sont beaucoup moins chers. Des millions de livres sont vendus à une clientèle bien
+plus nombreuse.
+
+57
+
+La Renaissance de l’art
+
+26 L’éblouissement d’un art nouveau
+1. « Le Printemps » de Botticelli
+
+• Analyse ce tableau.
+• À quoi reconnaît-on le printemps ?
+• Quelles différences y a-t-il avec les œuvres d’art du Moyen Âge ? (voir p. 51)
+
+Le tableau « Le Printemps », peint par Botticelli vers 1482, illustre les changements dans la peinture.
+Les personnages du tableau appartiennent à la mythologie romaine. De gauche à droite, on distingue Mercure, les Trois
+Grâces (Beauté, Vertu, Fidélité), Vénus, au-dessus de Vénus Cupidon, Flore (femme), Flore (jeune fille) et Zéphyr. L’herbe,
+les arbres, les fleurs mettent en valeur les femmes fines et gracieuses. Les tenues sont légères, les formes ondulées.
+C’est une œuvre majeure de l’époque que l’on appelle la Renaissance.
+
+58
+
+26. La Renaissance de l’art
+2. Léonard de Vinci
+
+Sais-tu...
+Le char d’assaut de Léonard de
+Vinci
+Ce véhicule blindé en bois nécessitait huit soldats pour le déplacer. Tandis que des soldats
+montaient la garde près des ouvertures du toit, d’autres manœuvraient les canons (en bas),
+enfin d’autres soldats faisaient
+tourner les roues !
+
+Vocabulaire
+
+La Joconde
+Le chef-d’œuvre de Léonard de Vinci (Louvre)
+
+Le char d’assaut
+Léonard de Vinci est aussi un ingénieur et un inventeur,
+qui a laissé des carnets de croquis et des maquettes de
+nombreuses inventions jamais construites… Voici une
+de ses maquettes : un char d’assaut…
+• À quoi peut servir cette invention ?
+
+Art antique : art de l’époque ancienne grecque et romaine qui inspire l’art de la Renaissance.
+Mythologie : ensemble des histoires
+et des légendes appartenant
+à un peuple.
+Perspective : dessin ou peinture des
+objets qui donne l’impression du
+relief et de la profondeur.
+La Renaissance : Au XVIe siècle, on
+assiste à de grands changements
+dans l’architecture, la sculpture et
+la peinture. Ce mouvement, né en
+Italie, au siècle précédent, se
+nomme la Renaissance.
+
+L’avion
+Léonard de Vinci était obsédé par le vol des oiseaux.
+Il pensait que l’homme pourrait voler.
+Il a fait plus de 400 dessins sur des engins volants.
+
+U
+
+n art nouveau s’épanouit, d’abord en Italie puis dans toute l’Europe, en particulier en
+France avec la protection du roi François 1er. Il s’inspire de l’art antique, mais introduit
+des nouveautés très importantes, en particulier le mouvement et la perspective. L’homme est
+au centre de cet art. Le tableau « Le Printemps », peint par Botticelli en 1482, illustre bien
+ces changements. Les artistes sont souvent à la fois peintres, sculpteurs, architectes, inventeurs, comme Léonard de Vinci, Michel-Ange… Une nouvelle vision du monde s’impose.
+Cette période s’appelle la Renaissance.
+59
+
+La Réforme
+
+27 Une nouvelle vision pour la religion chrétienne ?
+1. Qui a fondé le protestantisme ?
+
+Martin Luther
+
+Jean Calvin
+
+Martin Luther propose une nouvelle lecture de la Bible. Mais c’est Jean Calvin qui organise le protestantisme en
+commençant par changer la vie à Genève.
+Ainsi, il y a deux courants principaux dans le protestantisme : le luthéranisme et le calvinisme.
+
+2. Pourquoi le massacre de la Saint-Barthélemy ?
+
+Le massacre des protestants à Paris le 24
+août 1572 marque les esprits et reste le
+symbole de la violence des guerres
+entre protestants et catholiques qui ont
+ensanglanté toute l’Europe pendant près
+d’un siècle.
+
+Catherine de Médicis découvre le massacre devant la porte du palais du Louvre.
+
+60
+
+27. La Réforme
+3. Henri IV et l’Édit de Nantes
+
+Sais-tu...
+
+Henri de Navarre, protestant, participe aux
+guerres de religion contre les catholiques.
+À la mort d’Henri III, dernier fils de
+Catherine de Médicis, la couronne du
+royaume de France lui revient.
+Devant l’hostilité des catholiques, il se
+convertit au catholicisme et règne sous le
+nom d’Henri IV.
+Il accorde la liberté de culte aux protestants
+par l’Édit de Nantes en 1598. Henri IV meurt
+assassiné par Ravaillac, en 1610.
+
+Connais-tu les
+d’Henri IV ?
+
+bons
+
+mots
+
+- « Paris vaut bien une messe. »
+Henri de Navarre, protestant,
+accepte de se convertir au catholicisme pour devenir roi de
+France et réconciler les Français.
+- « Ralliez-vous à mon panache
+blanc ! Vous le trouverez toujours sur le chemin de l’honneur
+et de la victoire. » (à la bataille
+d’Ivry en 1590)
+- « Je veux que chaque paysan
+de mon royaume puisse mettre
+la poule au pot le dimanche. »
+
+Sur ce portrait, le roi Henri IV avec armure, épée et
+bâton de commandement est revêtu du manteau
+royal à fleurs de lys et portant le collier de l’ordre du
+Saint-Esprit.
+
+Vocabulaire
+
+LECTURE
+Extraits de l’Édit de Nantes
+Art. 6 - Permettons à ceux de ladite Religion Réformée de vivre et
+demeurer par toutes villes et lieux de notre royaume.
+Art. 11 – Ordonnons que dans les faubourgs d’une ville, outre celles
+déjà accordées, l’exercice de ladite Religion Réformée se pourra
+faire publiquement par tous ceux qui voudront y aller.
+Art. 22 – Ordonnons qu’il ne sera fait ni différence ni distinction
+entre les religions pour être admis dans les universités, collèges et
+écoles, dans les hôpitaux et les léproseries.
+
+L
+
+Édit : mesure prise par le Roi
+concernant un groupe de personnes ou une partie du royaume.
+Guerres de religion : conflits qui
+ont détruit le royaume de France
+entre 1562 et 1598 opposant catholiques et protestants.
+Religion Réformée : nom donné à
+la religion protestante.
+
+’église est contestée. Luther, un moine allemand, puis Calvin, dénoncent la soif de richesses
+de l’Église catholique. Ils proposent une nouvelle manière d’être chrétien, le protestantisme. Le culte des saints et de Marie est supprimé. Les hommes ne sont plus obligés d’obéir
+au clergé. Ils peuvent communiquer directement avec Dieu.
+La Bible est traduite dans toutes les langues. L’Église catholique réagit. De sanglantes guerres
+de religion déchirent toute l’Europe. Henri IV y met fin avec l’Édit de Nantes.
+
+61
+
+Copernic et Galilée
+
+28 Le Soleil est-il au centre du monde ?
+1. Copernic : la Terre tourne autour du soleil.
+Moine et astronome
+polonais (1472-1543),
+Copernic est le premier à avoir envisagé
+que la Terre tourne
+autour du Soleil et
+non l’inverse. Pour lui,
+le Soleil est le vrai
+centre de l’Univers.
+Son travail sera repris
+et confirmé plus tard
+par Galilée.
+
+LECTURE
+« Après de longues recherches, je me suis
+enfin convaincu :
+- que le Soleil est une étoile fixe, entourée de
+planètes qui tournent autour d’elle et dont elle
+est le centre et le flambeau ;
+- que la Terre est une planète principale, assujettie
+à un triple mouvement ;
+- que tous les phénomènes d’alternance du jour
+et de la nuit, le retour périodique des saisons,
+sont les résultats de la rotation de la Terre autour de
+son axe et de son mouvement autour du Soleil. »
+Nicolas Copernic, Des révolutions des sphères célestes,
+1543
+
+• Que représente ce dessin ?
+
+Andreas Cellarius est l’auteur d’un atlas du ciel.
+
+4
+1
+
+5
+6
+
+2
+
+1. Saturne,
+2. Jupiter et
+ses lunes,
+
+3. Mars,
+4. Terre et Lune,
+
+3
+
+5. Vénus,
+6. Mercure
+
+62
+
+28. Copernic et Galilée
+2. Galilée : Comment observer le ciel ?
+
+Vocabulaire
+
+Astronome : personne qui étudie
+les planètes, les astres…
+Planète : comme la Terre, ce n’est
+pas une étoile. Les planètes renvoient la lumière du soleil en tournant autour.
+Télescope : lunette pour observer
+les astres.
+
+Galilée (1564-1642) met au point
+sa première lunette astronomique
+en 1609. Il l’utilise pour observer la surface de la Lune, la
+planète Vénus, les satellites
+de Jupiter, les taches
+noires sur le Soleil, la forme
+de Saturne et même la Voie lactée
+et ses millions d’étoiles.
+
+Le procès de Galilée
+
+3. Pourquoi l’Église s’est-elle opposée
+aux théories de Copernic et Galilée ?
+Galilée reprend le travail de Copernic. Il prétend que la Terre n’est pas immobile, qu’elle tourne autour du
+Soleil et que les planètes sont des sphères…
+Le 24 février 1616, l’Église condamne Copernic en rejetant sa théorie « d’une Terre mobile autour du Soleil
+immobile » comme contraire à l’enseignement de la Bible. Les livres de Copernic sont alors interdits.
+Galilée est convoqué par l’Église qui lui interdit de soutenir désormais la théorie de Copernic.
+Galilée est condamné à son tour le 22 juin 1633, comme n’ayant pas respecté la décision de 1616. Pour
+éviter d’être brûlé sur un bûcher, Galilée est contraint d’accepter la position de l’Église.
+En sortant du tribunal de l’Église, il ne peut s’empêcher de dire : « Et pourtant, elle tourne ! »
+
+• De quoi parle-t-il ?
+
+V
+
+ers 1500, l’Église imposait la croyance que la Terre immobile était au centre du monde
+et que le Soleil tournait autour d’elle. Mais un astronome nommé Copernic prouve par
+des calculs que la Terre tourne sur elle-même et autour du Soleil. Plus tard, Galilée, qui met
+au point le premier télescope, reprend la théorie de Copernic.
+L’Église condamne les théories de Copernic et de Galilée comme contraires à ce que dit
+la Bible. Ce n’est qu’au XVIIIe siècle que l’Église, devant de nouvelles preuves scientifiques,
+acceptera cette nouvelle vision du monde.
+63
+
+Les Européens à la découverte du monde
+
+29 Quels changements apportent les voyages des navigateurs ?
+
+1. Un monde de plus en plus vaste : Afrique - Inde - Amérique…
+
+Lors de son premier
+voyage, Christophe
+Colomb débarque
+sur une île des Antilles. Au cours des
+3éme et 4ème voyages, il
+longe les côtes du
+Vénézuela et de Panama.
+
+2. Que cherchent les Européens ?
+
+Des “indiens” accueillent
+Christophe Colomb avec
+des bijoux en or. Interrogés
+sur la provenance du métal,
+ils répondent « Civao ». Pour
+Colomb, Civao ne peut
+être que Cipango, le nom
+donné par Marco Polo au
+Japon et dont les temples
+seraient, dit-on, couverts
+d’or. Colomb pense donc
+avoir atteint les Indes.
+
+• En fait, où est-t-il ?
+• Que cherche-t-il en
+plus de l’or ?
+
+64
+
+29. Les Européens à la découverte du monde
+1500
+
+1492
+1498
+“Découverte”
+Vasco de
+de l’Amérique Gama atteint
+par C. Colomb
+l’Inde
+
+1519 1522
+Tour du monde de Magellan, Elcano
+
+3. Comment voyagent-t-ils ?
+Sais-tu...
+Connais-tu les épices ?
+Le poivre, la cannelle, le clou
+de girofle, la noix de muscade…
+Elles permettent de conserver
+les viandes, de donner du goût
+aux plats… Elles servent aussi à
+soigner et à parfumer.
+
+Vocabulaire
+Indiens : C’est parce qu’il pense
+avoir atteint les Indes que Christophe Colomb nomme les habitants qu’il rencontre : Indiens. En
+fait, il a “découvert” le continent
+américain.
+Plus tard on parlera d’Indiens
+d’Amérique ou d’Amérindiens.
+
+Dotée de trois ou quatre mâts et de hauts bords, la caravelle est plus solide et
+rapide que les navires de commerce aux XIVe et XVe siècle. C’est un bateau
+court, aux formes arrondies. Il est haut sur l’eau, l’avant et l’arrière sont surélevés par un « château ». Il peut s’approcher du rivage jusqu’à trois mètres
+de fond.
+
+u XVe siècle, les Européens se lancèrent à la découverte du monde. Les Portugais
+atteignent le Sud de l’Afrique. Vasco de Gama franchit le cap de Bonne-Espérance et
+arrive en Inde. Au cours de plusieurs voyages Christophe Colomb découvre l’Amérique et
+Magellan traverse le Pacifique jusqu’en Asie. La curiosité, la recherche de l’or et des épices,
+la conversion des populations rencontrées au catholiscisme poussent les navigateurs toujours
+plus loin. Les progrès de la navigation et des navires rapides comme les caravelles permettent d’affronter de longs voyages maritimes. Mais les conditions de vie restent difficiles à
+bord. Les naufrages et les maladies sont fréquents.
+
+A
+
+65
+
+Christophe Colomb et Magellan
+
+30 La Terre est-elle ronde ?
+LECTURE
+
+1. Un nouveau continent, l’Amérique ?
+
+9 septembre1492. À trois heures, le vent de nord-est se lève et
+je prends la route vers l’ouest. Les marins perdent complètement de vue la terre. Craignant de ne pas la revoir de longtemps, beaucoup soupirent et pleurent. Je les réconforte en leur
+disant toutes les terres, toutes les richesses que nous allons découvrir.
+12 octobre. Le terre apparaît à deux heures du matin.
+Quelques heures plus tard, je débarque dans une île. Je déploie le drapeau royal.
+24 octobre. Je pars pour une île que les Indiens appellent
+Cuba. Si j’en crois les Indiens, ce doit être le Japon. Ils disent
+qu’elle est bien pourvue de perles, d’or et d’épices.
+Monument de
+Christophe Colomb
+à Madrid
+
+d’après Christophe Colomb, journal de bord, 1492
+
+2. Pourquoi cet océan s’appelle-t-il « Pacifique » ?
+« Cette mer était bien nommée Pacifique car nous n'eûmes aucune tempête... » Pigafetta.
+Magellan aperçoit l'atoll de Fakahina aux Tuamotu (Polynésie française) et Flint dans les îles de la Ligne (Kiribati), "nous les
+appelâmes les Îles infortunées".
+
+66
+
+30. Christophe Colomb et Magellan
+3. Où se trouve le détroit de Magellan ?
+
+Sais-tu...
+La mort de Magellan
+
+Carte du détroit de Magellan vers 1628, de Jodocus Hondius,
+cartographe flamand.
+
+Magellan fut tué lors d’un
+affrontement entre les chefs de
+l’île de Cébu et le chef de l’île
+de Mactan aux Philippines le
+27 avril 1521.
+Pigafetta raconte : « Un Indien a
+jeté une lance empoisonnée au
+capitaine Magellan et l’a tué.
+Nous avons dû fuir sur nos bateaux. »
+C’est Elcano qui poursuivit
+l’expédition et le retour en
+Espagne. Ce fut la première
+circumnavigation
+(tour
+du
+monde).
+
+• Peux-tu situer le détroit de Magellan sur la carte de la page 64 ?
+
+4. Les conditions de voyage
+LECTURE
+« Novembre 1520, océan Pacifique.
+Nous sommes entrés dans l’océan Pacifique, où nous sommes restés trois mois et vingt jours, sans trouver à manger ni à boire. Nous avons mangé des vieux biscuits pleins de vers et d’urine de rats, de la sciure
+de bois et des rats. De nombreux marins sont morts. Je crois que personne ne fera plus jamais ce voyage.
+Mars 1521. Après plus de trois mois dans l’océan Pacifique, nous avons vu des petites villes inhabitées
+nous y avons trouvé de la nourriture. Quelque temps plus tard, nous avons trouvé des îles habitées.
+Avril 1521. Un Indien a jeté une lance empoisonnée au capitaine Magellan et l’a tué. Nous avons dû fuir
+sur nos bateaux. »
+d’après Antonio Pigafetta, marin de l’expédition de Magellan,1519-1522
+
+L
+
+e Roi et la Reine d’Espagne confient à Christophe Colomb la mission de trouver une route
+vers l’Inde. Pensant que la terre est une sphère, Colomb part en direction de l’ouest. Il
+traverse l’océan Atlantique en 70 jours sur trois caravelles et aborde les terres en 1492. Il
+croit avoir atteint les Indes. En fait, il a découvert un nouveau continent : l’Amérique.
+Magellan part avec une nouvelle expédition en 1519. Il contourne l’Amérique du Sud et
+traverse par mer calme l’océan « Pacifique ». Il parvient aux Philippines mais il est tué dans
+un combat avec les indigènes. Elcano poursuit le voyage et termine le premier tour du monde.
+Un seul navire sur les cinq au départ et 18 hommes sur 240 reviennent en Espagne en 1522.
+Les naufrages et les maladies ont fait disparaître le reste de l’expédition.
+67
+
+LES CIVILISATIONS PRÉCOLOMBIENNES
+Avant l’arrivée de Christophe Colomb de grandes civilisations se sont développées sur le continent
+américain. Parmi les dernières, les civilisations aztèque et inca ont fondé de puissants États qui
+ont pourtant été détruits par les conquistadores espagnols.
+Avec des moyens limités, ils réussirent à s’emparer et à détruire les Empires aztèque et inca.
+
+Les Aztèques
+
+31 Une société guerrière
+1. L’Empire aztèque
+
+L’Empire aztèque occupe la plus grande partie du Mexique actuel.
+Sa capitale Tenochtitlan est à l’origine de la ville de Mexico.
+L’Empire est constitué d’un ensemble de cités-états soumises les
+unes après les autres par les guerriers aztèques. Les chefs guerriers
+gouvernent avec les prêtres.
+La majeure partie de la population est composée d’hommes libres
+qui cultivent la terre, paient les impôts et vont à la guerre. Les artisans fournissent aux chefs les bijoux, les vêtements et les objets
+précieux. Les paysans pauvres et sans terre et les esclaves forment
+le bas de la société.
+
+2. Quand Mexico s’appelait Tenochtitlan
+
+LECTURE
+« Cette grande ville de Tenochtitlan est fondée sur une lagune… Elle possède quatre entrées, toutes par une
+chaussée faite à la main et large comme deux lances de cavaliers… Certaines rues sont faites moitié de
+terre, moitié d’un canal sur lequel vont leurs canots… Cette ville possède beaucoup de places où sont de
+perpétuels marchés et commerces. Elle a une autre grand place, toute fermée de portiques, où chaque
+jour achètent et vendent plus de soixante mille âmes ; on y trouve toute sorte de marchandises venues de
+toutes les provinces, ainsi que beaucoup de magasins de nourriture…. »
+Herman Cortés, 1521
+
+68
+
+31. Les Aztèques
+3. Quels étaient les dieux aztèques ?
+Tlaloc
+
+Sais-tu...
+Le dieu du Soleil.
+Les Aztèques vivent dans la peur
+que le soleil s’arrête et provoque
+la fin du monde. Ils nourrissent
+donc le soleil par des sacrifices
+de prisonniers de guerre.
+
+Huitzilopochtli
+
+Vocabulaire
+Quetzalcoatl
+Les dieux principaux sont : Huitzilopochtli, dieu de la Guerre et du
+Soleil ; Tlaloc, dieu de la Pluie qui veille sur l’agriculture ; Quetzalcoatl,
+le Serpent à plumes, dieu de la sagesse et de la fertilité.
+À chaque nouvelle conquête de cités, les Aztèques ajoutent les dieux des
+vaincus à leurs propres dieux.
+
+Précolombien : pour l’Amérique
+la période avant la venue de
+Christophe Colomb (1492).
+Polythéiste : personne qui adore
+plusieurs dieux.
+
+Maquette du Templo-Mayor, le “Grand Temple” qui se situe au centre d’une vaste enceinte sacrée
+renfermant plusieurs temples.
+
+u XVe siècle, l’Empire aztèque réunit en Amérique centrale plusieurs millions d’habitants. La majorité est composée de paysans qui cultivent le maïs, les haricots, les tomates
+et élèvent des chiens et des dindons.
+L’Empereur siège dans la capitale Tenochtitlan (Mexico) qui est une grande ville de 200 000
+habitants. Dans les villes, les artisans travaillent l’or et le cuivre.
+Les Aztèques sont polythéistes. Ils construisent de grands temples en forme de pyramide. Leur
+religion demande de nombreux sacrifices humains. Ils pensent qu’ils assurent ainsi la survie
+du dieu du Soleil.
+
+A
+
+69
+
+Les Incas
+
+32 L’Empire des Andes
+1. Machu Picchu : la Cité sacrée des Incas
+
+L'Empire inca est le plus vaste empire de l'Amérique précolombienne.
+À son apogée il s'étendait sur la Colombie, l’Équateur, le Pérou, le
+Chili et l’Argentine sur près de 4000 km le long des Andes.
+
+Les ruines de Machu Picchu
+La Cité sacrée des Incas, construite au XIVe siècle, à 2 400 mètres d’altitude, se compose d’un ensemble de temples,
+d’habitations de prêtres, d’une zone d’habitations pour la population. Le tout pouvait accueillir un millier de personnes.
+
+70
+
+32. Les Incas
+2. Que reste-t-il de Cuzco, capitale de l’Empire inca ?
+Sais-tu...
+De nouveaux aliments !
+Beaucoup de légumes et de fruits
+sont originaires d’Amérique du
+Sud. Le maïs et le cacao des Aztèques, la pomme de terre des
+Incas, mais aussi la tomate, le
+piment et les poivrons, le manioc et
+la patate douce sans oublier la citrouille, le potiron… et de nombreux fruits : ananas, avocat, figue
+de Barbarie, fruit de la passion,
+goyave, noix de cajou, papaye…
+
+• Comment les Incas
+ont-ils pu construire
+de tels murs sans utiliser ni la roue ni le
+cheval ?
+
+Dans la Cordillère des
+Andes, des escaliers
+géants formés par les
+terrasses de culture
+soutenues par des
+murs sont les témoins de l’agriculture
+inca. On y produisait
+du maïs, des pommes
+de terre, des patates
+douces, du manioc…
+pour nourrir une population nombreuse.
+Les lamas fournissaient la viande et la
+laine.
+
+Le Quipu sert de
+calculette constitué
+d’alignement de
+nœuds sur des
+cordelettes fixées
+à une corde.
+
+La pomme de terre et le
+maïs furent introduits en
+Europe au XVIe siècle.
+
+M
+
+achu Picchu est la Cité sacrée de l’Empire inca qui s’étend dans les montagnes des Andes.
+Il est gouverné par un Empereur tout-puissant. Les fonctionnaires et les soldats sont
+nombreux.
+Les Incas cultivent le maïs, les pommes de terre sur des terrasses de culture aménagées sur
+les pentes. Ils fabriquent des poteries et des étoffes en laine de lama. Ils payent l’impôt à
+l’Empereur. En échange, celui-ci distribue de la nourriture en cas de famine.
+Les Incas, comme les Aztèques, ne connaissent ni le fer ni la roue. Ils construisent pourtant
+un immense réseau de routes et de ponts. La capitale Cuzco est située à 3600 mètres
+d’altitude. Ses remparts, ses bâtiments et ses temples sont faits d’énormes blocs de pierre.
+71
+
+Les Conquistadores
+
+33 Comment les Européens ont-ils détruit les Empires aztèque et inca ?
+1. De quelle manière les Espagnols ont-ils conquis l’empire des Aztèques ?
+
+Cortes a débarqué le 22 avril 1519. Il a avec lui 500 soldats, seize chevaux, dix canons, treize arquebuses et trente-deux arbalètes,
+(voir illustration ci-dessous). Il est ici devant Tenochtitlan-Mexico. En 1521, après un siège de 75 jours, Tenochtitlan capitulera.
+Les Espagnols vus par les Indiens
+« Les étrangers ont le corps emmitouflé,
+on ne voit apparaître que leur visage,
+blanc comme de la craie. Certains ont
+des cheveux jaunes bien que certains
+les aient noirs ; longue est leur barbe.
+C’est de métal qu’ils se revêtent ; de
+métal ils couvrent leur tête ; de métal
+sont leurs épées, leurs lances, leurs
+boucliers… Ils chevauchent montés
+sur les flancs de leurs “cerfs”. Ainsi
+juchés, ils marchent au niveau des
+toits… »
+
+Un moine Diego Duran dessine les soldats espagnols face aux guerriers aztèques.
+
+72
+
+Témoignage d’un Indien recueilli par un
+moine espagnol.
+
+33. Les Conquistadores
+2. De la conquête à l’exploitation
+LECTURE
+« Les Européens se comportèrent à la manière des tigres et des
+lions cruels. En quarante ans sont morts, à cause d’eux, des
+millions d’êtres vivants, hommes, femmes, enfants. Il y a deux
+façons pour ces gens que l’on dit chrétiens de faire disparaître
+de la Terre ces malheureux peuples : la première, ce furent les
+guerres cruelles, sanglantes ; la seconde, une oppression si dure,
+si horrible, que jamais les animaux n’ont eu à subir un tel
+esclavage. La seule raison pour laquelle des chrétiens ont détruit
+une si grande quantité d’hommes a été le désir insatiable de
+l’or, la volonté d’accumuler le plus de richesses possibles. »
+d’après Bartolomé de Las Casas
+
+Sais-tu...
+L’or et l’argent vers l’Europe
+Transportés en Europe, l’or et l’argent
+exploités dans les mines ont été transformés en pièces de monnaie. Cela a
+provoqué un accroissement considérable des monnaies existantes.
+Cet accroissement a fait monter les
+prix.
+La vie est devenue de plus en plus
+chère.
+
+• Y a-t-il d’autres raisons, non évoquées dans le texte, de la disparition des Amérindiens ?
+
+Vocabulaire
+Arquebuse : fusil à mèche
+Arbalète : arc court en fer fixé
+à un manche de bois.
+Conquistadores : Espagnols
+qui au XVI e siècle sont partis
+conquérir l’Amérique.
+Esclavage : système qui prive
+l’homme de toute liberté.
+
+L’exploitation d’une mine d’or par Théodore de Bry
+
+u XVIe siècle, les conquistadores espagnols s’emparent par la force des terres qu’ils ont
+découvertes. Les conquêtes sont rapides : les Espagnols montés sur des chevaux utilisent
+des armes à feu et font alliance avec les peuples ennemis des Aztèques et des Incas.
+Les Empires aztèque et inca sont renversés. Tenochtitlan et Cuzco sont détruites. L’Amérique
+centrale et l’Amérique du Sud deviennent espagnoles et catholiques.
+Les guerres, le travail forcé et des maladies déciment la population.
+Les civilisations aztèque et inca disparaissent.
+
+A
+
+73
+
+LOUIS XIV, UN ROI ABSOLU
+À VERSAILLES
+Au XVIIe siècle, en France, se met en place une monarchie absolue, c’est-à-dire un système politique où le roi a tous les pouvoirs. Le symbole de cette absolutisme est le roi Louis XIV, le Roi
+Soleil.
+
+Un roi absolu à la tête d’une France
+34 puissante
+Qu’est-ce qu’un roi absolu ?
+
+1.Un roi tout puissant
+Portrait officiel de Louis XIV en 1701 de Hyacinthe Rigaud.
+
+• Retrouve les différents symboles du pouvoir royal :
+le manteau à fleurs de lys, l’épée, la couronne, le
+sceptre, la main de justice.
+Le roi est identifié au Soleil. Dans le château de Versailles
+toute la décoration rappelle le symbole du Soleil.
+
+Le roi à son fils
+« Ne vous laissez pas gouverner ; soyez le maître ;
+n’ayez jamais de favoris, ni de premier ministre ;
+écoutez, consultez votre Conseil,
+mais décidez : Dieu qui vous a fait
+roi, vous donnera les lumières
+qui vous sont nécessaires tant
+que vous aurez de bonnes
+intentions. »
+Jean Longnon, Mémoires de Louis XIV,
+Taillandier, 1978
+
+2. La France domine
+l’Europe
+
+1
+
+3
+
+2
+
+5
+
+4
+
+LECTURE
+Le gouvernement français veut rendre le pays supérieur
+à tout autre en richesses, abondant en marchandises,
+n’ayant besoin de rien. Ce qui se fabrique en Angleterre,
+le gouvernement cherche à l’importer en France. Pour la
+fabrication de certains produits, on est allé jusqu’à installer des ouvriers dans un véritable palais. Ce qu’il y a
+de mieux dans toutes les parties du monde se fabrique
+à présent en France. Et de toutes parts, les commandes
+affluent.
+d’après M.A. Giustiniani, XVIIe siècle
+
+74
+
+34. Un roi absolu à la tête d’une France puissante
+3. Une France catholique
+Roi absolu, Louis XIV n’accepte pas que tous ses sujets n’aient pas la même
+religion que lui. En 1685, il supprime l’Édit de Nantes que le roi Henri IV
+avait signé (voir page 61). La Religion Réformée est interdite. Les protestants doivent se convertir ou quitter le pays. Ils étaient un million, trois cent
+mille partirent en exil vers les pays voisins.
+
+4. D’où viennent les richesses ?
+
+Sais-tu...
+Colbert
+Contrôleur général des Finances
+(ministre de l’économie et des
+finances) de Louis XIV pendant
+près de vingt ans, Colbert
+cherche à enrichir le royaume
+de France par le commerce.
+Il fait en sorte que l’argent reste
+dans le pays. Pour cela il faut
+vendre beaucoup aux pays
+étrangers et leur acheter peu.
+Mais les dépenses du roi pour
+les guerres et la construction de
+Versailles mettent sa politique
+en échec.
+
+Vocabulaire
+
+Le commerce triangulaire
+Europe, Afrique, Amérique et retour en Europe, c’est le commerce
+triangulaire.
+Des bateaux chargés de pacotille (tissus, verroterie, armes, alcool …)
+naviguaient vers les côtes d’Afrique. La pacotille était échangée contre
+des esclaves. Les bateaux repartaient ensuite vers les Antilles et les côtes
+américaines où les esclaves étaient vendus. Avec l’argent obtenu, on
+achetait du sucre, du rhum, du cacao, du tabac, du café, du coton… Les
+bateaux rentraient ensuite en Europe.
+
+L
+
+Manufacture : atelier où sont fabriqués à la main des objets en
+grande quantité : tapisseries, miroirs, meubles, cotonnades…
+Monarchie : pays dirigé par un
+roi.
+Pacotille : produits de peu de
+valeur.
+Tapisserie : Tissu décoré, tissé à
+la main qui sert à couvrir les
+murs.
+
+ouis XIV règne de 1661 à 1715. Il a une obsession : être le plus grand roi d’Europe,
+à la tête d’une France riche et puissante. Il gouverne seul. Il prend l’avis de ses ministres
+réunis en Conseil, mais c’est toujours lui qui décide en dernier lieu.
+Il impose le catholiscisme et oblige les protestants à quitter la France.
+Avec son ministre Colbert, il développe l’économie du royaume en créant des manufactures
+et en organisant le commerce triangulaire.
+75
+
+Découvrons Versailles
+
+35 Un château que tous les rois envient !
+
+1. Un château et des jardins grandioses, Versailles en 1668
+
+Le château de Versailles ne sera pas fini sous le règne de Louis XIV. Les travaux dureront 40 ans.
+Ce tableau représente le château au moment où le roi décide de s’y installer en permanence.
+• Comment est organisé l’espace ? • Qu’est-ce qui te frappe dans ce tableau ?
+
+2. Le lever du roi
+Versailles est un grand théâtre où le roi est en représentation permanente. Il
+n’a pas de vie privée et tous les gestes de sa vie, même les plus intimes, se font
+en public devant des courtisans choisis et très fiers de l’honneur qui leur est fait.
+
+LECTURE
+« 7h30-8h : « Sire, voilà l’heure », le premier valet de chambre
+éveille le roi. Le Petit lever commence. Médecins, familiers et
+quelques favoris qui jouissent des Grandes Entrées pénètrent
+successivement dans la chambre du roi qui est lavé, peigné et rasé
+(un jour sur deux). Les officiers de la Chambre et de la Garde-robe
+entrent à leur tour pour le Grand lever pendant lequel le roi est
+habillé et déjeune d’un bouillon. Ce sont les personnages les plus
+importants du royaume qui sont admis. On estime à une centaine
+le nombre habituel des assistants, tous masculins. »
+D’après le duc de Saint-Simon
+
+76
+
+35. Découvrons Versailles
+3. La galerie des glaces
+Sais-tu...
+Le château de Versailles
+Louis XIII avait construit à Versailles
+un simple pavillon où il se reposait
+au cours des chasses.
+Le jeune Louis XIV y trouva refuge
+lors des révoltes des nobles et
+des Parisiens contre sa mère Anne
+d’Autriche. Il décida à partir de
+1661 d’y faire bâtir un immense
+palais qui devrait être le plus grand
+d’Europe. Il choisit les meilleurs
+architectes et les plus célèbres
+décorateurs. Ce n’est que vingt ans
+après le début des travaux que Louis
+XIV s’y installe en 1682.
+
+Vocabulaire
+Courtisan : noble qui vit à la cour
+de Versailles dans l’entourage du
+roi cherchant à obtenir ses faveurs.
+Noblesse : ensemble des personnes
+descendant des seigneurs du
+Moyen Âge.
+
+La galerie relie les deux ailes du château. Elle est immense, décorée
+de peintures à la gloire du roi. Les murs sont couverts de glaces
+fabriquées par la manufacture St Gobain. Cela permet au roi de
+montrer les réalisations économiques du royaume aux ambassadeurs
+et rois étrangers pour qu’ils passent commande ensuite à St Gobain.
+
+L
+
+Louis XIV danse lors des
+grandes fêtes dans des
+ballets où il se représente
+en Roi-Soleil pendant
+que les nobles et les
+courtisans dansent
+des rôles de planètes.
+
+ouis XIV ne veut plus habiter Paris qui se révolte trop souvent. Il fait construire à
+Versailles le plus beau palais d’Europe, entouré d’immenses jardins. Le chantier est gigantesque et n’est jamais terminé. Tout à Versailles célèbre la gloire du Roi-Soleil. Louis XIV y
+réside à partir de 1682.
+Il attire autour de lui la noblesse du royaume de manière à mieux la contrôler. La vie à
+Versailles est une succession de fêtes, de réceptions, de danses, de jeux et de spectacles.
+77
+
+Un grand ministre, Vauban
+
+36 Quel rôle jouent les ministres auprès du roi ?
+1. Qui est Vauban ?
+Au service d’un roi qui aime faire la guerre, Vauban, architecte et
+ingénieur, a protégé le royaume de France derrière une ceinture
+de forteresses imprenables et a modernisé les armées. Les fortifications de Vauban peuvent être défendues par peu d’hommes,
+même si les envahisseurs sont beaucoup plus nombreux.
+
+2. Une des citadelles les plus connues de Vauban,
+Neuf-Brisach
+
+Plan de la
+citadelle de
+Neuf-Brisach
+dessiné par
+Vauban
+
+Neuf- Brisach est dans l’est de la France.
+
+• Regarde bien la forme des murailles et leur organisation.
+• Que peux-tu dire en comparant cette citadelle aux châteaux du Moyen Âge ?
+• Pourquoi cette forme d’étoile ? Quelle est la nouvelle arme qui rend cette forme indispensable ?
+
+78
+
+36. Un grand ministre, Vauban
+3. La misère du peuple
+Vauban fut plus qu’un bâtisseur, car il s’intéressait à tout ce qui
+touchait le royaume de France comme les conditions de vie des
+paysans.
+
+LECTURE
+
+Sais-tu...
+Votre peuple meurt de faim, la culture des terres est
+abandonnée, les villes et les campagnes se dépeuplent.
+Au lieu de tirer l’argent de ce pauvre peuple, il faudrait
+lui faire l’aumône et le nourrir. Il est plein de désespoir.
+La France entière n’est plus qu’un grand hôpital désolé
+et sans provisions. La révolte s’allume peu à peu.
+d’après Fénelon, Lettre au roi, vers 1695
+
+Des forteresses en mer
+Vauban ne se contente pas d’entourer les frontières terrestres
+d’une ceinture de fer. Les côtes
+sont aussi défendues par des forteresses.
+Tu connais sûrement celle de Fort
+Boyard. Une série de forts devaient protéger le port de Rochefort où était abrité toute la flotte
+militaire de l’Atlantique sous
+Louis XIV.
+
+Vocabulaire
+Fortification : ouvrage de défense militaire.
+Place forte : nom donné aux 300
+ensembles bâtis ou rénovés par
+Vauban formant des lignes fortifiées pour protéger les frontières
+de la France.
+
+Le Nain, « Le repas des paysans », 1642
+
+L
+
+ouis XIV aime la guerre : elle lui permet de vaincre les autres rois d’Europe et d’agrandir
+le pays. Son armée est nombreuse et puissante, dirigée par de bons officiers comme
+Turenne et Vauban.
+Vauban est spécialiste des fortifications. Les villes qu’il assiège sont prises facilement, mais les
+villes dont il construit les défenses sont imprenables. Il protége le royaume d’une ceinture de
+places fortes.
+Il se montre également soucieux d’améliorer les conditions de vie misérables des paysans.
+
+79
+
+Crédits iconographiques
+Couverture :
+- domaine public ; sacrifice humain, Louis XIV, la dame de Brassempouy, l’Empereur Hadrien, un Tahitien, un dieu aztèque Huitzilopochtli ;
+- Philippe Peletier : Caravelle la Pinta, une femme papoue ;
+- Heinui Le Caill : penu garçon et penu fille
+
+I. p. 8 Vetea Pugibet d’après Kidadoweb.com - Philippe Peltier ; © Jérome Bullinger (autorisation d’utilisation) ; p. 9 Vetea Pugibet d’après
+modèles ; Vetea Pugibet d’après modèle ; Heinui Le Caill (idem Sais-tu…) ; Vetea Pugibet d’après kidadoweb.com (DNR) ; Heinui Le Caill (idem
+Vocabulaires) 2. p. 10 N. Aujoulat - MCC/CNP (DNR) ; Pugibet Vetea ; p. 11 Elapier ; Ac. Toulouse 3. p. 12 Philippe Peltier ; p. 13 Yolan Chérieux, Yolanc/CC-BY-2.0 GFDL ; Roch Feutet/GFDL 4. p. 14 Heinui Le Caill ; Vetea Pugibet ; Vetea Pugibet ; p. 15 Vetea Pugibet d’après Cyril
+Cuello/Olivier Esnault 5. p. 16 Philippe Peltier ; Philippe Peltier ; p. 17 Robert Aublin ; Vetea Pugibet 6. p. 18 Institut d’Archéologique de
+Nouvelle-Calédonie et du Pacifique-Christophe Sand (DNR) ; Vetea Pugibet d’après Cyril Cuello/Olivier Esnault ; p. 19 Maryel Taeaetua-Perez ;
+Vetea Pugibet 7. p. 20 Heinui Le Caill ; Sergio Macedo/CRDP ; p. 21 Vetea Pugibet d’après Cyril Cuello et Olivier Esnault 8. p. 22 Philippe
+Peltier ; p. 23 Vetea Pugibet 9. p. 24 Sergio Macedo/CRDP ; Vetea Pugibet ; p. 25 Philippe Peltier 10. p. 26 Vetea Pugibet ; Samuel Étienne
+; p. 27 Peter Bellwood ; Vetea Pugibet d’après Jacques Arago et Freycinet 11. p. 28 Vetea Pugibet ; Ludovic (DNR) ; Philppe Peltier ; 29 - Pierre
+Comelli 12. p. 30 Vetea Pugibet d’après Cyril Cuello et Olivier Esnault ; Pilippe Peltier ; Library of Otago ac. n-z (DNR) ; Alexander Turnbull Library (en attente) ; 31 Philippe Peltier ; V.P./MTI 13. p. 32 Vetea Pugibet ; Vetea Pugibet d’après Olivier Esnault ; Vetea Pugibet ; Maryel
+Taeaetua-Perez 14. p. 34 Philippe Peltier ; W. Darling d’après SH. Grimm (domaine public) ; p. 35 Vetea Pugibet ; Jean-Marie Dubois ; Sydney Parkinson (domaine public) 15. p. 36 Vetea Pugibet d’après M. Bati ; Vetea Pugibet/MTI ; p. 37 Heinui Le Caill, Présidence Polynésie
+française d’après peinture de W. Hodges 16. p. 38 Vetea Pugibet d’après dessin CPSH Archéo ; p. 39 Vetea Pugibet, Maryel Taeaetua-Perez, Vetea
+Pugibet, Jean-Marie Dubois 17. p. 40 Revue par Vetea Pugibet d’après John Webber , Vetea Pugibet/MTI ; CRDP/Lecordier ; p. 41 Vetea Pugibet/MTI ; Vetea Pugibet/MTI ; Vetea Pugibet/MTI ; Maryel Taeaetua-Perez ; Vetea Pugibet d’après William Bligh 18. p. 42 Michel Lextreyt ; p. 43
+Ito Dauphin ; Pierre Bachimon ; Danee Hamaza 19. p. 44 d’après fresque de Pompéi ; Vetea Pugibet ; British Museum ; Luc Viatour/GFDL ; p.
+45 Philippe Peltier ; Maria Demars ; Vetea Pugibet 20. p. 46 Philippe Peltier ; p. 47 David Iliff/GFDL ; Agricmarketing (domaine public) 21. p. 48
+Gromelle Grand Angle/GFDL ; Mimova (mimova(talk))/(domaine public) ; Vincent (domaine public) ; Philippe Peltier ; p. 49 Heins-josef Lücking/
+CC-BY-SA-3.0 ; Thomas Möliman/GFDL ; Mimona ; (domaine public) 22. p. 50 Philippe Peltier ; (domaine public) ; p. 51 d’après calendrier
+Duc de Berry (domaine public) ; © Guédelon - F. Folcher 23. p. 52 source site touristique des 7 vallons (DNR) ; Vetea Pugibet ; Edal Anton Lefterov/GFDL ; Vetea Pugibet ; p. 53 Didier B. (sam67.fr)/GFDL 24. p. 54 ©photo-aerienne-france.fr ; Philippe Peltier ; p. 55 photo2ville.com/vol
+à vue/GFDL 25. p. 56 d’après Léonard de Vinci ; Jean Méliot/Brussels Royal Library (domaine public) ; Yelkrokoyade/Bibliothèque de StratovPrague/GFDL ; U.S. Library of Congres/GFDL ; Wolf (domaine public) ; p. 57 Buchdruck-15-jahrhundert (domaine public) 26. p. 58 source
+abm-enterprises.net/Eugène A. ; p. 59 Léonard de Vinci (domaine public) ; Léonard de Vinci 27. p. 60 (domaine public) ; Bibliothèque de Genève (domaine public) ; François Dubois (domaine public) ; Édouard Debat-Ponson, 1880, (domaine public) ; p. 61 Frans Pourbus, (domaine
+public) 28. p. 62 Andreas Cellarus (domaine public) ; (domaine public) (X) ; p. 63 Justus Susterman 1636 (domaine public) ; Joseph-Nicolas
+Robert- Fleury/(domaine public) ; source : lelivre-scolaire.com (X) ; 29. p. 64 Vetea Pugibet ; Théodore de Bry (domaine public) ; p. 65
+Philippe Peltier 30. p. 66 Antonio Garcia/CC-BY-2.0, Vetea Pugibet, Charles Legrand (domaine public) p. 67 Le Maire (domaine public) 31.
+p. 68 d’après scène Aztèque Musée national d’Anthropologie de Mexico, Vetea Pugibet, d’après Casver/Museo Nacional de Antropologia,
+Mexico city/CC ; p. 69 (domaine public) (X) ; (domaine public) codex Magliabechiano ; Steve Cadman/CC BY-SA 2.0 32. p. 70 Ice light from
+Boston MA,US/CC-BY-2.0 ; Vetea Pugibet ; p. 71 © dauzonroch.canalblog.com (DNR) ; recette cuisine d’Afrique (DNR) ; Klett/Maispflanze
+(DNR) ; Meyers konversation/lexicon 1888 (domaine public) 33. p. 72 Philippe Peltier ; (domaine public) ; Théodore de Bry (domaine public)
+34. p. 74 d’après Versailles ; Hyacinthe Rigaud (domaine public) ; Jean-Marie Dubois ; p. 75 Vetea Pugibet ; Ph. de Champaigne (domaine
+public) 35. p. 76 Pierre Patel, 1668 (domaine public) ; Vetea Pugibet d’après F. Guizot ; p. 77 Lionel Allorge/GFDL 36. p. 78 (domaine public) ; Norbert Blau/GFDL ; Vauban (domaine public) ; p. 79 Le Nain (domaine public) ; Lapi/GFDL
+N’ayant pas trouvé certaines adresses et ayant écrits à d’autres, des visuels pourront être régularisés en contactant le CRDP sur son site www.crdp.pf
+(X) Auteur inconnu
+(DNR) signifie qu’une demande de publication a été faite et qu’aucune réponse n’a été reçue ; ou dirigée vers une autre adresse.
+GFDL possibilité d’utilisation du visuel, de l’adapter, de le distribuer, de le transmettre avec condition de mettre le nom de l’auteur.
+CC possibilité d’utilisation du visuel, de l’adapter, de le distribuer, de le transmettre avec condition de mettre le nom de l’auteur.
+CC BY-SA 2.0 possibilité d’utilisation du visuel, de l’adapter, de le distribuer, de le transmettre avec condition de mettre le nom de l’auteur et de garder la photo à l’identique.
+CC BY-SA 3.0 possibilité d’utilisation du visuel, de l’adapter, de le distribuer, de le transmettre avec condition de mettre le nom de l’auteur et de garder la photo à l’identique.
+
+Histoire au CE2
+© MEA - DGEE 2020
+www.education.pf
+Réf. PI-20055
+ISBN.978-2-37317-082-5
+Dépôt légal : 2020
+
+Continuez la lecture sur
+www.ebooks.education.pf
+ou scannez et découvrez
+
+Réf. PI-20055
+ISBN 978-2-37317-082-5
+© MEA - DGEE 2020
+www.education.pf
+
+

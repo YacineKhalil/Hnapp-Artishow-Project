@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ex="http://example.org/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://example.org/Mariannes">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Mariannes</ex:name>
+    <ex:trouvées rdf:resource="http://example.org/Salomon"/>
+    <ex:trouvées rdf:resource="http://example.org/Marquises"/>
+    <ex:trouvées rdf:resource="http://example.org/Tuvalu"/>
+    <ex:trouvées rdf:resource="http://example.org/Tuamotu"/>
+    <ex:trouvées rdf:resource="http://example.org/Cook"/>
+    <ex:trouvées rdf:resource="http://example.org/Vanuatu"/>
+    <ex:trouvées rdf:resource="http://example.org/Européens"/>
+    <ex:trouvées rdf:resource="http://example.org/quelles"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/mur_de_Berlin">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>mur de Berlin</ex:name>
+    <ex:divisait rdf:resource="http://example.org/l'Est"/>
+    <ex:divisait rdf:resource="http://example.org/Ouest"/>
+    <ex:construit rdf:resource="http://example.org/Est"/>
+    <ex:construit rdf:resource="http://example.org/Ouest"/>
+    <ex:érigé rdf:resource="http://example.org/Est"/>
+    <ex:érigé rdf:resource="http://example.org/Ouest"/>
+    <ex:tombé rdf:resource="http://example.org/Europe"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Est">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Est</ex:name>
+    <ex:construit rdf:resource="http://example.org/mur_de_Berlin"/>
+    <ex:construit rdf:resource="http://example.org/Ouest"/>
+    <ex:érigé rdf:resource="http://example.org/mur_de_Berlin"/>
+    <ex:érigé rdf:resource="http://example.org/Ouest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Péloponnèse">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Péloponnèse</ex:name>
+    <ex:opposé rdf:resource="http://example.org/La_guerre_du"/>
+    <ex:opposé rdf:resource="http://example.org/Athènes"/>
+    <ex:opposé rdf:resource="http://example.org/Sparte"/>
+    <ex:opposé rdf:resource="http://example.org/Grèce_antique"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/guerre_du_Vietnam">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>guerre du Vietnam</ex:name>
+    <ex:conflit rdf:resource="http://example.org/Nord"/>
+    <ex:conflit rdf:resource="http://example.org/Sud"/>
+    <ex:conflit rdf:resource="http://example.org/états-Unis"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/France">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>France</ex:name>
+    <ex:opposé rdf:resource="http://example.org/guerre_de_Cent_Ans"/>
+    <ex:opposé rdf:resource="http://example.org/Angleterre"/>
+    <ex:opposé rdf:resource="http://example.org/XIVe"/>
+    <ex:opposé rdf:resource="http://example.org/XVe"/>
+    <ex:utilisée rdf:resource="http://example.org/XXe"/>
+    <ex:renversé rdf:resource="http://example.org/révolution_française"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Ouest">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Ouest</ex:name>
+    <ex:divisait rdf:resource="http://example.org/mur_de_Berlin"/>
+    <ex:divisait rdf:resource="http://example.org/l'Est"/>
+    <ex:construit rdf:resource="http://example.org/mur_de_Berlin"/>
+    <ex:construit rdf:resource="http://example.org/Est"/>
+    <ex:érigé rdf:resource="http://example.org/mur_de_Berlin"/>
+    <ex:érigé rdf:resource="http://example.org/Est"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/place_Tian'anmen">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>place Tian'anmen</ex:name>
+    <ex:site rdf:resource="http://example.org/Chine"/>
+    <ex:événement_tragique rdf:resource="http://example.org/Chine"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Seconde_Guerre_mondiale">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Seconde Guerre mondiale</ex:name>
+    <ex:une rdf:resource="http://example.org/bataille_de_Stalingrad"/>
+    <ex:opposé rdf:resource="http://example.org/états-Unis"/>
+    <ex:opposé rdf:resource="http://example.org/Union_soviétique"/>
+    <ex:jugé rdf:resource="http://example.org/Nuremberg"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/La_guerre_d'indépendance">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>La guerre d'indépendance</ex:name>
+    <ex:menée rdf:resource="http://example.org/états-Unis"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/James_Cook">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>James Cook</ex:name>
+    <ex:rencontre rdf:resource="http://example.org/XVIe"/>
+    <ex:rencontre rdf:resource="http://example.org/lAustralie"/>
+    <ex:rencontre rdf:resource="http://example.org/Nouvelle-Zélande"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/bataille_de_Wate'rloo">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>bataille de Wate'rloo</ex:name>
+    <ex:marqué rdf:resource="http://example.org/Napoléon"/>
+    <ex:défaite_finale rdf:resource="http://example.org/Napoléon_Bonaparte"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/bataille_d'Hastings">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>bataille d'Hastings</ex:name>
+    <ex:abouti rdf:resource="http://example.org/conquête_normande_de_l'Angleterre"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Léonard_de_Vinci">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Léonard de Vinci</ex:name>
+    <ex:célèbre rdf:resource="http://example.org/la_Joconde"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/égypte">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>égypte</ex:name>
+    <ex:pyramide rdf:resource="http://example.org/pyramide_de_Khéops"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Corée_du_Nord">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Corée du Nord</ex:name>
+    <ex:opposé rdf:resource="http://example.org/guerre_de_Corée"/>
+    <ex:opposé rdf:resource="http://example.org/Corée_du_Sud"/>
+    <ex:conflit_majeur rdf:resource="http://example.org/guerre_de_Corée"/>
+    <ex:conflit_majeur rdf:resource="http://example.org/Corée_du_Sud"/>
+    <ex:conflit_majeur rdf:resource="http://example.org/états-Unis"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/guerre_de_Cent_Ans">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>guerre de Cent Ans</ex:name>
+    <ex:opposé rdf:resource="http://example.org/France"/>
+    <ex:opposé rdf:resource="http://example.org/Angleterre"/>
+    <ex:opposé rdf:resource="http://example.org/XIVe"/>
+    <ex:opposé rdf:resource="http://example.org/XVe"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Constantinople">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Constantinople</ex:name>
+    <ex:mis rdf:resource="http://example.org/Empire_byzantin"/>
+    <ex:marqué rdf:resource="http://example.org/Empire_byzantin"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/états-Unis">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>états-Unis</ex:name>
+    <ex:cadeau rdf:resource="http://example.org/statue_de_la_Liberté"/>
+    <ex:cadeau rdf:resource="http://example.org/la_France"/>
+    <ex:eu rdf:resource="http://example.org/guerre_de_Sécession"/>
+    <ex:opposé rdf:resource="http://example.org/Union_soviétique"/>
+    <ex:opposé rdf:resource="http://example.org/Seconde_Guerre_mondiale"/>
+    <ex:menée rdf:resource="http://example.org/La_guerre_d'indépendance"/>
+    <ex:combattue rdf:resource="http://example.org/états_du_Nord"/>
+    <ex:combattue rdf:resource="http://example.org/Sud"/>
+    <ex:période rdf:resource="http://example.org/Union_soviétique"/>
+    <ex:conflit rdf:resource="http://example.org/guerre_du_Vietnam"/>
+    <ex:conflit rdf:resource="http://example.org/Nord"/>
+    <ex:conflit rdf:resource="http://example.org/Sud"/>
+    <ex:conflit_majeur rdf:resource="http://example.org/guerre_de_Corée"/>
+    <ex:conflit_majeur rdf:resource="http://example.org/Corée_du_Nord"/>
+    <ex:conflit_majeur rdf:resource="http://example.org/Corée_du_Sud"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Europe_de_l'Est">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Europe de l'Est</ex:name>
+    <ex:marqué rdf:resource="http://example.org/Empire_ottoman"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Marquises">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Marquises</ex:name>
+    <ex:trouvées rdf:resource="http://example.org/Salomon"/>
+    <ex:trouvées rdf:resource="http://example.org/Tuvalu"/>
+    <ex:trouvées rdf:resource="http://example.org/Mariannes"/>
+    <ex:trouvées rdf:resource="http://example.org/Tuamotu"/>
+    <ex:trouvées rdf:resource="http://example.org/Cook"/>
+    <ex:trouvées rdf:resource="http://example.org/Vanuatu"/>
+    <ex:trouvées rdf:resource="http://example.org/Européens"/>
+    <ex:trouvées rdf:resource="http://example.org/quelles"/>
+    <ex:Pacifique rdf:resource="http://example.org/Pacifique"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Sparte">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Sparte</ex:name>
+    <ex:opposé rdf:resource="http://example.org/La_guerre_du"/>
+    <ex:opposé rdf:resource="http://example.org/Péloponnèse"/>
+    <ex:opposé rdf:resource="http://example.org/Athènes"/>
+    <ex:opposé rdf:resource="http://example.org/Grèce_antique"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/The_voyage_of_Pedro_Fernandez_de_Quirós">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>The voyage of Pedro Fernandez de Quirós</ex:name>
+    <ex:voyage rdf:resource="http://example.org/London"/>
+    <ex:voyage rdf:resource="http://example.org/Hakluyt_Society"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Nord">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Nord</ex:name>
+    <ex:opposé rdf:resource="http://example.org/guerre_de_Corée"/>
+    <ex:opposé rdf:resource="http://example.org/Sud"/>
+    <ex:conflit rdf:resource="http://example.org/guerre_du_Vietnam"/>
+    <ex:conflit rdf:resource="http://example.org/Sud"/>
+    <ex:conflit rdf:resource="http://example.org/états-Unis"/>
+    <ex:combattue rdf:resource="http://example.org/Sud"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Sud">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Sud</ex:name>
+    <ex:combattue rdf:resource="http://example.org/états_du_Nord"/>
+    <ex:combattue rdf:resource="http://example.org/états-Unis"/>
+    <ex:combattue rdf:resource="http://example.org/Nord"/>
+    <ex:opposé rdf:resource="http://example.org/guerre_de_Corée"/>
+    <ex:opposé rdf:resource="http://example.org/Nord"/>
+    <ex:opposé rdf:resource="http://example.org/guerre_de_Sécession"/>
+    <ex:opposé rdf:resource="http://example.org/états-Unis_du_Nord"/>
+    <ex:conflit rdf:resource="http://example.org/guerre_du_Vietnam"/>
+    <ex:conflit rdf:resource="http://example.org/Nord"/>
+    <ex:conflit rdf:resource="http://example.org/états-Unis"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Vanuatu">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Vanuatu</ex:name>
+    <ex:trouvées rdf:resource="http://example.org/Salomon"/>
+    <ex:trouvées rdf:resource="http://example.org/Marquises"/>
+    <ex:trouvées rdf:resource="http://example.org/Tuvalu"/>
+    <ex:trouvées rdf:resource="http://example.org/Mariannes"/>
+    <ex:trouvées rdf:resource="http://example.org/Tuamotu"/>
+    <ex:trouvées rdf:resource="http://example.org/Cook"/>
+    <ex:trouvées rdf:resource="http://example.org/Européens"/>
+    <ex:trouvées rdf:resource="http://example.org/quelles"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Grèce_antique">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Grèce antique</ex:name>
+    <ex:récit_légendaire rdf:resource="http://example.org/guerre_de_Troie"/>
+    <ex:opposé rdf:resource="http://example.org/La_guerre_du"/>
+    <ex:opposé rdf:resource="http://example.org/Péloponnèse"/>
+    <ex:opposé rdf:resource="http://example.org/Athènes"/>
+    <ex:opposé rdf:resource="http://example.org/Sparte"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Européens">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Européens</ex:name>
+    <ex:trouvées rdf:resource="http://example.org/Salomon"/>
+    <ex:trouvées rdf:resource="http://example.org/Marquises"/>
+    <ex:trouvées rdf:resource="http://example.org/Tuvalu"/>
+    <ex:trouvées rdf:resource="http://example.org/Mariannes"/>
+    <ex:trouvées rdf:resource="http://example.org/Tuamotu"/>
+    <ex:trouvées rdf:resource="http://example.org/Cook"/>
+    <ex:trouvées rdf:resource="http://example.org/Vanuatu"/>
+    <ex:trouvées rdf:resource="http://example.org/quelles"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Allemagne_nazie">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Allemagne nazie</ex:name>
+    <ex:offensive_majeure rdf:resource="http://example.org/bataille_des_Ardennes"/>
+    <ex:offensive_majeure rdf:resource="http://example.org/Europe"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/La_guerre_du">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>La guerre du</ex:name>
+    <ex:opposé rdf:resource="http://example.org/Péloponnèse"/>
+    <ex:opposé rdf:resource="http://example.org/Athènes"/>
+    <ex:opposé rdf:resource="http://example.org/Sparte"/>
+    <ex:opposé rdf:resource="http://example.org/Grèce_antique"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Première_Guerre_mondiale">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Première Guerre mondiale</ex:name>
+    <ex:une rdf:resource="http://example.org/bataille_de_Verdun"/>
+    <ex:mis rdf:resource="http://example.org/traité_de_Versailles"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Normands">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Normands</ex:name>
+    <ex:victoire rdf:resource="http://example.org/bataille_de_Hastings"/>
+    <ex:victoire rdf:resource="http://example.org/Angleterre"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Napoléon">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Napoléon</ex:name>
+    <ex:marqué rdf:resource="http://example.org/bataille_de_Wate'rloo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Révolution_française">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Révolution française</ex:name>
+    <ex:événement_majeur rdf:resource="http://example.org/prise_de_la_Bastille"/>
+    <ex:adoptée rdf:resource="http://example.org/la_France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/quelles">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>quelles</ex:name>
+    <ex:trouvées rdf:resource="http://example.org/Salomon"/>
+    <ex:trouvées rdf:resource="http://example.org/Marquises"/>
+    <ex:trouvées rdf:resource="http://example.org/Tuvalu"/>
+    <ex:trouvées rdf:resource="http://example.org/Mariannes"/>
+    <ex:trouvées rdf:resource="http://example.org/Tuamotu"/>
+    <ex:trouvées rdf:resource="http://example.org/Cook"/>
+    <ex:trouvées rdf:resource="http://example.org/Vanuatu"/>
+    <ex:trouvées rdf:resource="http://example.org/Européens"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/traité_de_Versailles">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>traité de Versailles</ex:name>
+    <ex:mis rdf:resource="http://example.org/Première_Guerre_mondiale"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Jacques_Cartier">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Jacques Cartier</ex:name>
+    <ex:ouvert rdf:resource="http://example.org/l'Amérique"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/XVe">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>XVe</ex:name>
+    <ex:opposé rdf:resource="http://example.org/guerre_de_Cent_Ans"/>
+    <ex:opposé rdf:resource="http://example.org/France"/>
+    <ex:opposé rdf:resource="http://example.org/Angleterre"/>
+    <ex:opposé rdf:resource="http://example.org/XIVe"/>
+    <ex:période rdf:resource="http://example.org/La_Renaissance"/>
+    <ex:période rdf:resource="http://example.org/Europe"/>
+    <ex:période rdf:resource="http://example.org/XVIe"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Tuamotu">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Tuamotu</ex:name>
+    <ex:trouvées rdf:resource="http://example.org/Salomon"/>
+    <ex:trouvées rdf:resource="http://example.org/Marquises"/>
+    <ex:trouvées rdf:resource="http://example.org/Tuvalu"/>
+    <ex:trouvées rdf:resource="http://example.org/Mariannes"/>
+    <ex:trouvées rdf:resource="http://example.org/Cook"/>
+    <ex:trouvées rdf:resource="http://example.org/Vanuatu"/>
+    <ex:trouvées rdf:resource="http://example.org/Européens"/>
+    <ex:trouvées rdf:resource="http://example.org/quelles"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/révolution_française">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>révolution française</ex:name>
+    <ex:renversé rdf:resource="http://example.org/France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/bataille_de_Trafalgar">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>bataille de Trafalgar</ex:name>
+    <ex:victoire_décisive rdf:resource="http://example.org/Royal_Navy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Irak">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Irak</ex:name>
+    <ex:eu rdf:resource="http://example.org/La_guerre_du_Golfe"/>
+    <ex:déclenchée rdf:resource="http://example.org/La_guerre_du_Golfe"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/l'Est">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>l'Est</ex:name>
+    <ex:divisait rdf:resource="http://example.org/mur_de_Berlin"/>
+    <ex:divisait rdf:resource="http://example.org/Ouest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Hakluyt_Society">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Hakluyt Society</ex:name>
+    <ex:voyage rdf:resource="http://example.org/The_voyage_of_Pedro_Fernandez_de_Quirós"/>
+    <ex:voyage rdf:resource="http://example.org/London"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/La_Renaissance">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>La Renaissance</ex:name>
+    <ex:période rdf:resource="http://example.org/Europe"/>
+    <ex:période rdf:resource="http://example.org/XVe"/>
+    <ex:période rdf:resource="http://example.org/XVIe"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Napoléon_Bonaparte">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Napoléon Bonaparte</ex:name>
+    <ex:Napoléon rdf:resource="http://example.org/l'Europe"/>
+    <ex:Napoléon rdf:resource="http://example.org/XIXe"/>
+    <ex:défaite_finale rdf:resource="http://example.org/bataille_de_Wate'rloo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/guerre_de_Corée">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>guerre de Corée</ex:name>
+    <ex:opposé rdf:resource="http://example.org/Corée_du_Nord"/>
+    <ex:opposé rdf:resource="http://example.org/Corée_du_Sud"/>
+    <ex:opposé rdf:resource="http://example.org/Nord"/>
+    <ex:opposé rdf:resource="http://example.org/Sud"/>
+    <ex:conflit_majeur rdf:resource="http://example.org/Corée_du_Nord"/>
+    <ex:conflit_majeur rdf:resource="http://example.org/Corée_du_Sud"/>
+    <ex:conflit_majeur rdf:resource="http://example.org/états-Unis"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Johann_Sebastian_Bach">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Johann Sebastian Bach</ex:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/cathédrale_Notre-Dame_de_Paris">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>cathédrale Notre-Dame de Paris</ex:name>
+    <ex:construite rdf:resource="http://example.org/Moyen_Âge"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/XIVe">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>XIVe</ex:name>
+    <ex:opposé rdf:resource="http://example.org/guerre_de_Cent_Ans"/>
+    <ex:opposé rdf:resource="http://example.org/France"/>
+    <ex:opposé rdf:resource="http://example.org/Angleterre"/>
+    <ex:opposé rdf:resource="http://example.org/XVe"/>
+    <ex:épidémie_dévastatrice rdf:resource="http://example.org/Europe"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/guerre_de_Sécession">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>guerre de Sécession</ex:name>
+    <ex:eu rdf:resource="http://example.org/états-Unis"/>
+    <ex:opposé rdf:resource="http://example.org/états-Unis_du_Nord"/>
+    <ex:opposé rdf:resource="http://example.org/Sud"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Nations_unies">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Nations unies</ex:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/François">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>François</ex:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Corée_du_Sud">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Corée du Sud</ex:name>
+    <ex:opposé rdf:resource="http://example.org/guerre_de_Corée"/>
+    <ex:opposé rdf:resource="http://example.org/Corée_du_Nord"/>
+    <ex:conflit_majeur rdf:resource="http://example.org/guerre_de_Corée"/>
+    <ex:conflit_majeur rdf:resource="http://example.org/Corée_du_Nord"/>
+    <ex:conflit_majeur rdf:resource="http://example.org/états-Unis"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Amérique">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Amérique</ex:name>
+    <ex:eu rdf:resource="http://example.org/Christophe_Colomb"/>
+    <ex:conduit rdf:resource="http://example.org/Christophe_Colomb"/>
+    <ex:ouvert rdf:resource="http://example.org/Christophe_Colomb"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Salomon">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Salomon</ex:name>
+    <ex:trouvées rdf:resource="http://example.org/Marquises"/>
+    <ex:trouvées rdf:resource="http://example.org/Tuvalu"/>
+    <ex:trouvées rdf:resource="http://example.org/Mariannes"/>
+    <ex:trouvées rdf:resource="http://example.org/Tuamotu"/>
+    <ex:trouvées rdf:resource="http://example.org/Cook"/>
+    <ex:trouvées rdf:resource="http://example.org/Vanuatu"/>
+    <ex:trouvées rdf:resource="http://example.org/Européens"/>
+    <ex:trouvées rdf:resource="http://example.org/quelles"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Big_Bang">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Big Bang</ex:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Nuremberg">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Nuremberg</ex:name>
+    <ex:jugé rdf:resource="http://example.org/Seconde_Guerre_mondiale"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/La_Bible">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>La Bible</ex:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/XVIe">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>XVIe</ex:name>
+    <ex:période rdf:resource="http://example.org/La_Renaissance"/>
+    <ex:période rdf:resource="http://example.org/Europe"/>
+    <ex:période rdf:resource="http://example.org/XVe"/>
+    <ex:partent rdf:resource="http://example.org/XVIIe"/>
+    <ex:rencontre rdf:resource="http://example.org/James_Cook"/>
+    <ex:rencontre rdf:resource="http://example.org/lAustralie"/>
+    <ex:rencontre rdf:resource="http://example.org/Nouvelle-Zélande"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Christophe_Colomb">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Christophe Colomb</ex:name>
+    <ex:eu rdf:resource="http://example.org/Amérique"/>
+    <ex:conduit rdf:resource="http://example.org/Amérique"/>
+    <ex:ouvert rdf:resource="http://example.org/Amérique"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/bataille_de_Hastings">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>bataille de Hastings</ex:name>
+    <ex:victoire rdf:resource="http://example.org/Normands"/>
+    <ex:victoire rdf:resource="http://example.org/Angleterre"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Chine">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Chine</ex:name>
+    <ex:une rdf:resource="http://example.org/Grande_Muraille"/>
+    <ex:site rdf:resource="http://example.org/place_Tian'anmen"/>
+    <ex:événement_tragique rdf:resource="http://example.org/place_Tian'anmen"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Empire_ottoman">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Empire ottoman</ex:name>
+    <ex:marqué rdf:resource="http://example.org/Europe_de_l'Est"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Cook">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Cook</ex:name>
+    <ex:trouvées rdf:resource="http://example.org/Salomon"/>
+    <ex:trouvées rdf:resource="http://example.org/Marquises"/>
+    <ex:trouvées rdf:resource="http://example.org/Tuvalu"/>
+    <ex:trouvées rdf:resource="http://example.org/Mariannes"/>
+    <ex:trouvées rdf:resource="http://example.org/Tuamotu"/>
+    <ex:trouvées rdf:resource="http://example.org/Vanuatu"/>
+    <ex:trouvées rdf:resource="http://example.org/Européens"/>
+    <ex:trouvées rdf:resource="http://example.org/quelles"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/La_guerre_du_Golfe">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>La guerre du Golfe</ex:name>
+    <ex:eu rdf:resource="http://example.org/Irak"/>
+    <ex:déclenchée rdf:resource="http://example.org/Irak"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/prise_de_la_Bastille">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>prise de la Bastille</ex:name>
+    <ex:événement_majeur rdf:resource="http://example.org/Révolution_française"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/XXe">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>XXe</ex:name>
+    <ex:utilisée rdf:resource="http://example.org/France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/la_Renaissance">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>la Renaissance</ex:name>
+    <ex:polymathe rdf:resource="http://example.org/Leonardo_da_Vinci"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Mona_Lisa">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Mona Lisa</ex:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/London">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>London</ex:name>
+    <ex:voyage rdf:resource="http://example.org/The_voyage_of_Pedro_Fernandez_de_Quirós"/>
+    <ex:voyage rdf:resource="http://example.org/Hakluyt_Society"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/la_Joconde">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>la Joconde</ex:name>
+    <ex:célèbre rdf:resource="http://example.org/Léonard_de_Vinci"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/statue_de_la_Liberté">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>statue de la Liberté</ex:name>
+    <ex:cadeau rdf:resource="http://example.org/la_France"/>
+    <ex:cadeau rdf:resource="http://example.org/états-Unis"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/états_du_Nord">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>états du Nord</ex:name>
+    <ex:combattue rdf:resource="http://example.org/Sud"/>
+    <ex:combattue rdf:resource="http://example.org/états-Unis"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Athènes">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Athènes</ex:name>
+    <ex:opposé rdf:resource="http://example.org/La_guerre_du"/>
+    <ex:opposé rdf:resource="http://example.org/Péloponnèse"/>
+    <ex:opposé rdf:resource="http://example.org/Sparte"/>
+    <ex:opposé rdf:resource="http://example.org/Grèce_antique"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Titanic">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Titanic</ex:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Tuvalu">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Tuvalu</ex:name>
+    <ex:trouvées rdf:resource="http://example.org/Salomon"/>
+    <ex:trouvées rdf:resource="http://example.org/Marquises"/>
+    <ex:trouvées rdf:resource="http://example.org/Mariannes"/>
+    <ex:trouvées rdf:resource="http://example.org/Tuamotu"/>
+    <ex:trouvées rdf:resource="http://example.org/Cook"/>
+    <ex:trouvées rdf:resource="http://example.org/Vanuatu"/>
+    <ex:trouvées rdf:resource="http://example.org/Européens"/>
+    <ex:trouvées rdf:resource="http://example.org/quelles"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/états-Unis_du_Nord">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>états-Unis du Nord</ex:name>
+    <ex:opposé rdf:resource="http://example.org/guerre_de_Sécession"/>
+    <ex:opposé rdf:resource="http://example.org/Sud"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/lAustralie">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>lAustralie</ex:name>
+    <ex:rencontre rdf:resource="http://example.org/XVIe"/>
+    <ex:rencontre rdf:resource="http://example.org/James_Cook"/>
+    <ex:rencontre rdf:resource="http://example.org/Nouvelle-Zélande"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/pyramide_de_Khéops">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>pyramide de Khéops</ex:name>
+    <ex:pyramide rdf:resource="http://example.org/égypte"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/La_Tour_de_Pise">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>La Tour de Pise</ex:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/bataille_de_Verdun">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>bataille de Verdun</ex:name>
+    <ex:une rdf:resource="http://example.org/Première_Guerre_mondiale"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/XIXe">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>XIXe</ex:name>
+    <ex:Napoléon rdf:resource="http://example.org/Napoléon_Bonaparte"/>
+    <ex:Napoléon rdf:resource="http://example.org/l'Europe"/>
+    <ex:régné rdf:resource="http://example.org/Victoria"/>
+    <ex:régné rdf:resource="http://example.org/Empire_britannique"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/New_York">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>New York</ex:name>
+    <ex:un rdf:resource="http://example.org/Empire_State_Building"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Leonardo_da_Vinci">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Leonardo da Vinci</ex:name>
+    <ex:polymathe rdf:resource="http://example.org/la_Renaissance"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Angleterre">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Angleterre</ex:name>
+    <ex:opposé rdf:resource="http://example.org/guerre_de_Cent_Ans"/>
+    <ex:opposé rdf:resource="http://example.org/France"/>
+    <ex:opposé rdf:resource="http://example.org/XIVe"/>
+    <ex:opposé rdf:resource="http://example.org/XVe"/>
+    <ex:victoire rdf:resource="http://example.org/bataille_de_Hastings"/>
+    <ex:victoire rdf:resource="http://example.org/Normands"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/XVIIe">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>XVIIe</ex:name>
+    <ex:partent rdf:resource="http://example.org/XVIe"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/la_France">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>la France</ex:name>
+    <ex:cadeau rdf:resource="http://example.org/statue_de_la_Liberté"/>
+    <ex:cadeau rdf:resource="http://example.org/états-Unis"/>
+    <ex:adoptée rdf:resource="http://example.org/Révolution_française"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Europe">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Europe</ex:name>
+    <ex:épidémie_dévastatrice rdf:resource="http://example.org/XIVe"/>
+    <ex:offensive_majeure rdf:resource="http://example.org/bataille_des_Ardennes"/>
+    <ex:offensive_majeure rdf:resource="http://example.org/Allemagne_nazie"/>
+    <ex:période rdf:resource="http://example.org/La_Renaissance"/>
+    <ex:période rdf:resource="http://example.org/XVe"/>
+    <ex:période rdf:resource="http://example.org/XVIe"/>
+    <ex:tombé rdf:resource="http://example.org/mur_de_Berlin"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Hammurabi">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Hammurabi</ex:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Jean-Paul_II">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Jean-Paul II</ex:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Russie">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Russie</ex:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/bataille_de_Stalingrad">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>bataille de Stalingrad</ex:name>
+    <ex:une rdf:resource="http://example.org/Seconde_Guerre_mondiale"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Antiquité">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Antiquité</ex:name>
+    <ex:marqué rdf:resource="http://example.org/Empire_romain"/>
+    <ex:marqué rdf:resource="http://example.org/Moyen_Ãge"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Nouvelle-Zélande">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Nouvelle-Zélande</ex:name>
+    <ex:rencontre rdf:resource="http://example.org/XVIe"/>
+    <ex:rencontre rdf:resource="http://example.org/James_Cook"/>
+    <ex:rencontre rdf:resource="http://example.org/lAustralie"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/l'Europe">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>l'Europe</ex:name>
+    <ex:Napoléon rdf:resource="http://example.org/Napoléon_Bonaparte"/>
+    <ex:Napoléon rdf:resource="http://example.org/XIXe"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Empire_britannique">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Empire britannique</ex:name>
+    <ex:régné rdf:resource="http://example.org/Victoria"/>
+    <ex:régné rdf:resource="http://example.org/XIXe"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Empire_State_Building">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Empire State Building</ex:name>
+    <ex:un rdf:resource="http://example.org/New_York"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/La_guerre_civile_espagnole">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>La guerre civile espagnole</ex:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Royal_Navy">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Royal Navy</ex:name>
+    <ex:victoire_décisive rdf:resource="http://example.org/bataille_de_Trafalgar"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Grande_Muraille">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Grande Muraille</ex:name>
+    <ex:une rdf:resource="http://example.org/Chine"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/La_Terre">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>La Terre</ex:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Alexander_Fleming">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Alexander Fleming</ex:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Victoria">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Victoria</ex:name>
+    <ex:régné rdf:resource="http://example.org/Empire_britannique"/>
+    <ex:régné rdf:resource="http://example.org/XIXe"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/guerre_de_Troie">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>guerre de Troie</ex:name>
+    <ex:récit_légendaire rdf:resource="http://example.org/Grèce_antique"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Elizabeth_II">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Elizabeth II</ex:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Moyen_Ãge">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Moyen Ãge</ex:name>
+    <ex:marqué rdf:resource="http://example.org/Empire_romain"/>
+    <ex:marqué rdf:resource="http://example.org/Antiquité"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Albert_Einstein">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Albert Einstein</ex:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Union_soviétique">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Union soviétique</ex:name>
+    <ex:opposé rdf:resource="http://example.org/états-Unis"/>
+    <ex:opposé rdf:resource="http://example.org/Seconde_Guerre_mondiale"/>
+    <ex:période rdf:resource="http://example.org/états-Unis"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Isaac_Newton">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Isaac Newton</ex:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/bataille_des_Ardennes">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>bataille des Ardennes</ex:name>
+    <ex:offensive_majeure rdf:resource="http://example.org/Allemagne_nazie"/>
+    <ex:offensive_majeure rdf:resource="http://example.org/Europe"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Empire_byzantin">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Empire byzantin</ex:name>
+    <ex:mis rdf:resource="http://example.org/Constantinople"/>
+    <ex:marqué rdf:resource="http://example.org/Constantinople"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Moyen_Âge">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Moyen Âge</ex:name>
+    <ex:construite rdf:resource="http://example.org/cathédrale_Notre-Dame_de_Paris"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Everest">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Everest</ex:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Pacifique">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Pacifique</ex:name>
+    <ex:Pacifique rdf:resource="http://example.org/Marquises"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Empire_romain">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Empire romain</ex:name>
+    <ex:marqué rdf:resource="http://example.org/Antiquité"/>
+    <ex:marqué rdf:resource="http://example.org/Moyen_Ãge"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Marie_Curie">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Marie Curie</ex:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Vincent_van">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>Vincent van</ex:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/l'Amérique">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>l'Amérique</ex:name>
+    <ex:ouvert rdf:resource="http://example.org/Jacques_Cartier"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/conquête_normande_de_l'Angleterre">
+    <rdf:type rdf:resource="http://example.org/Entity"/>
+    <ex:name>conquête normande de l'Angleterre</ex:name>
+    <ex:abouti rdf:resource="http://example.org/bataille_d'Hastings"/>
+  </rdf:Description>
+</rdf:RDF>
